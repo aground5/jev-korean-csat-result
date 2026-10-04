@@ -1,0 +1,14 @@
+# 비밀 값
+.env
+.env.*
+!.env.example
+
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+
+# OS / 에디터
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,13 @@
+[project]
+name = "jev-suneung"
+version = "0.1.0"
+description = "2026학년도 수능 국어(홀수형)를 TypeSafe jev API로 풀고 채점합니다."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-dotenv>=1.2",
+    "typesafe-sdk>=0.7.2",
+]
+
+[tool.uv]
+package = false

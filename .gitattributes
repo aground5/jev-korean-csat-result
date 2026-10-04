@@ -1,0 +1,16 @@
+# 텍스트는 자동 감지하고 저장소에는 LF로 통일합니다.
+* text=auto eol=lf
+
+*.py    text diff=python
+*.toml  text
+*.md    text
+*.json  text
+*.jsonl text
+*.tsv   text
+# graded.csv는 엑셀용으로 UTF-8 BOM + CRLF로 씁니다(csv 모듈 기본값).
+*.csv   text eol=crlf
+
+# 생성물은 GitHub diff와 언어 통계에서 접어 둡니다.
+uv.lock     linguist-generated=true
+results/**  linguist-generated=true
+data/**     linguist-vendored=true

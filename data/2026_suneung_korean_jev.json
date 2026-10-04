@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "공통_01-03",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "독서",
+      "원문_쪽": [
+        1
+      ],
+      "문항": [
+        1,
+        2,
+        3
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<box>…</box>": "원문에서 네모 상자로 표시된 어구"
+        },
+        "안내": "[1～3] 다음 글을 읽고 물음에 답하시오.",
+        "지문": "글을 읽고 그 의미를 이해하는 독해에는 글의 유형이나 독서 흥미 등의 다양한 요소가 영향을 미칠 수 있다. 이를 고려하여 독해 능력을 복잡한 과정으로 설명한 연구가 많다. 하지만 고프와 동료 연구자들이 제시한 <box>단순 관점</box>은 독해 능력을 ‘해독’과 ‘언어 이해’로 단순화하여 설명한다. 해독은 개별 단어를 인식하는 능력으로, 단어를 빠르고 정확히 소리 내어 읽기, 단어를 한눈에 식별하기 등을 포함한다. 언어 이해는 말로 듣거나 글로 읽은 내용의 의미를 파악하는 능력으로, 중심 내용 파악하기, 추론하기 등을 포함한다.\n단순 관점에 따르면 해독 발달에는 글자와 글자 소리에 대한 학습이 필수적이므로 글 읽기 경험과 말소리 듣기 경험이 모두 필요하다. 한편, 단어 인식을 못해 글을 읽을 수 없어도 그 내용을 말로 들려주었을 때 중심 내용 파악하기 등을 할 수 있다면, 해독 발달 전에도 구어 의사소통 경험을 통해 언어 이해가 발달된 것으로 본다. 또한 해독이 발달되면 글 읽기 경험을 통해서도 언어 이해가 발달될 수 있으므로 해독 발달 후에는 독서 경험이 독해 능력 발달에 주요한 기여를 한다고 본다.\n이를 바탕으로 단순 관점은 독자 유형을 다음의 네 가지로 구분한다. 해독과 언어 이해가 모두 충분한 독자, 해독과 언어 이해가 모두 부족한 독자, 언어 이해는 충분하지만 해독은 부족한 독자, 해독은 충분하지만 언어 이해는 부족한 독자이다. 단순 관점에 따르면 해독과 언어 이해 중 어느 하나라도 부족한 독자는 독해에 어려움을 겪으며, 능숙한 독해 수준에 도달하기도 힘들다. 가령, 단어 인식은 잘하지만 글의 중심 내용은 파악하지 못하는 학생은, 해독은 충분하지만 언어 이해가 부족한 독자 유형에 해당하며 능숙한 독해 수준에 도달하지 못했다고 할 수 있다.\n단순 관점은 글자를 단어로 인식하고 글의 내용을 파악하여 그 의미를 이해하기까지 독자의 머릿속에서 일어나는 작용이 어떤 과정을 거치는지 설명하지는 않는다. 그러나 독해 능력에 해독과 언어 이해가 미치는 영향을 규명함으로써 독해 능력 연구의 이론적 토대를 제공했다는 의의가 있다."
+      },
+      "questions": {
+        "q1": {
+          "type": "choice",
+          "instructions": {
+            "문항": "1. 윗글의 내용과 일치하지 않는 것은?"
+          },
+          "criteria": {
+            "①": "단순 관점에 따르면 추론하기는 언어 이해에 해당한다.",
+            "②": "단순 관점은 해독의 발달과 언어 이해의 발달을 모두 고려하여 독자 유형을 나눈다.",
+            "③": "단순 관점에 따르면 독해 능력이 발달되기 위해서는 말소리 듣기 경험에 앞서 독서 경험이 필요하다.",
+            "④": "단순 관점은 해독과 언어 이해가 독해 능력에 끼치는 영향을 밝혀 독해 능력 연구의 기반을 마련하였다.",
+            "⑤": "단순 관점과 달리, 독해에 영향을 주는 여러 요소를 고려하여 독해 능력을 복잡한 과정으로 설명한 연구들이 있다."
+          }
+        },
+        "q2": {
+          "type": "choice",
+          "instructions": {
+            "문항": "2. <box>단순 관점</box>에 대한 비판으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "해독이 부족하여 글의 내용을 잘 이해하지 못하는 경우를 다루지 않았다.",
+            "②": "독해에서 어려움이 나타날 수 있음을 고려하지 않아 독해를 지나치게 단순화하였다.",
+            "③": "독해 능력 발달에 있어 해독의 영향이 더 크다고 보아 언어 이해의 중요성을 고려하지 않았다.",
+            "④": "해독 발달을 글을 통한 시각적 경험으로만 설명하여 청각적 경험의 필요성을 증명하지 못하였다.",
+            "⑤": "해독과 언어 이해를 바탕으로 글의 의미를 이해하기까지의 사고 과정이 어떻게 이루어지는지 밝히지 않았다."
+          }
+        },
+        "q3": {
+          "type": "choice",
+          "instructions": {
+            "문항": "3. 윗글을 바탕으로 <보기>를 이해한 내용으로 적절하지 않은 것은? [3점]",
+            "보기": "단순 관점을 지지하는 연구자 갑은 학생 A, B의 독해 능력을 분석하기 위한 활동을 진행하였다. 활동은 학생 A, B와 같은 연령대의 학생들이 수행하기에 무리가 없는 수준의 자료로 진행되었다. 아래는 학생 A, B가 수행한 활동의 결과이다.\n◦ 소리 내어 단어 읽기 : 학생 A는 활동 자료에 있는 단어를 빠르고 정확하게 소리 내어 읽었고 한눈에 잘 식별하였다. 학생 B는 활동 자료에 있는 단어를 올바르게 발음하지 못하였고 한눈에 식별하지 못하였다.\n◦ 중심 내용 파악하기 : 학생 A는 활동 자료를 글로 읽을 때와 말로 들을 때 모두 중심 내용을 파악하지 못하였다. 학생 B는 활동 자료를 글로 읽을 때는 중심 내용을 파악하지 못했지만 말로 들을 때는 중심 내용을 파악하였다."
+          },
+          "criteria": {
+            "①": "갑은 학생 A가 해독은 발달되었지만, 중심 내용을 파악하지 못한 점에서 언어 이해가 부족하다고 생각하겠군.",
+            "②": "갑은 학생 A가 글자와 글자 소리에 대한 학습을 통해 개별 단어를 인식하는 능력이 발달되었다고 생각하겠군.",
+            "③": "갑은 학생 A의 언어 이해가 구어 의사소통 경험뿐 아니라 글 읽기 경험을 통해서도 발달될 수 있다고 생각하겠군.",
+            "④": "갑은 학생 B가 단어를 올바르게 발음하지는 못하지만, 글 읽기 경험을 통해 중심 내용은 파악할 수 있게 되었다고 생각하겠군.",
+            "⑤": "갑은 학생 B가 단어를 한눈에 식별하지는 못하지만 말로 들은 활동 자료의 중심 내용을 파악할 수 있었던 것은, 해독 발달 전에 언어 이해가 발달되었기 때문이라고 생각하겠군."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEgAPACNUrAHyAyAnkB6ZWolzAC2OAObsALo4BxBvoBJGwBVdfQIMDgBPHAOh19hgHaHAOC19ALaOAbWqG8AgC+RIFygBKjgC0N+kIA2viAev8AzAC6fIAnTYAy43yAAHWAIuN8gL7jgAc1fIA83ZkmfICvTYAaq26AJGMAdEKhMkKAA5NGMSD5RaWAH7V8gBrjgB-dgD6dfIAu44Auq7WAKU18gKPNMyaLOcN8gATjgKhrU4AZDcsWgKbro3yAjy2b6YCJo4A6q3yAKWOAMYOAADV8gIBjgKWrBaOABnN8gAwhviACPH0k1ppNioASDtqgBvR5YzPiAUqbAKQdBUArz2AQvH7oAfmsAqBOAHnGXIASQcAoV33QAPo743oA5zrBfFqHUAM518YqAEFXAAJjfEAm82AGY6+FSHIATlqmfEAOBNue5KFSqQAXTYAcIb4gABawAIE9pdKpAALjCORaL4gAwCGZLQCYBDiDYAO0e80xmxpcCsAKmtwvhk270o3awA4NYARnr4su8k0AHuOAXaGFrqiURff6+IADPsALp2lPGAVTXABHrfCegBrOviRK2FUQRv2TW6ACCaqkGvbVRBcCoAb5cAFquu8GW62LQALnS5AMctgAcaw45FyFbWRQCVY5sxpNADDLgFFR0Oo8N8QCIk4Aboazg74k4rEcAKbOAAw6K1W+HWG9xeArlSqqoAGVtjgBcuvhGviAHB7ADdNa1yDi5OQcafTVUAAM33QCaq4ArUOioAIqsAoAgBNTIAA90uDkRSVoAvTWABurZothmfDtohSGitYgAKLXwIEPLU9K3IAHcv5lawYFIA3V2In0hQFECgBjo94gAjzXwQxDgUbZ8EKUKAD8TgATowUgAyrfOS5DquU6VucBSAAargIgukV4RneT58IAIBMmOxvhWsMgA1A08gCti3wyEFEZiJNrMbxPl4gDBNUSfCAB899KAAht9xGqKT6ABgtN5wbmplIeZMxmOxVkzDZj6AAQtinAgSMG3ksD6PnwgAjay+SwWMhoorLqyVVPxDz3KIsKFukpQuS0vBTJMgAoPYAqwuOSeqraksn67AUWSbJYfAvB0Li+IAIb0NolZrhW8eF8IAlbPDcsDiqUsY1WtZfCTYAAb2AI4T9xtRG4WLDNjIsu6fCbdt82JdqB3Mnwe0nVtc1TPSzVnnwl43kaS3WvOPiAAlNDL7IAPu3sadc2LCsVTeFCgADYwUgBVNQSgAOXRGSKAJhD22IgCgAAk1UrGPhW7GABnrQr0i8gCcHRRfDBtqgAZ44duSbIuy7amuHR8NRob-oAuwOagtl2DXT413Wd2w7FUMyAJ9NtQI8iaM6ljON46z1GABGr5V8ApQKglV6DPdqH6TH6LjBrUpQbMuBRrvCQyjtaFaADJ1rNtZsgAcXYA-Z2ALGD5h8IAPuPePsiyAInjg6it4gAlrXw+IFJ2gAac-MrNkoyiyAFKj8z0gMgA37YcuWomLi03ctEV8KMscfN8fCADu1pK1kSgAWwzqqICr4mxTFu4F8IABYs-pMYqAK81quLMMwxvFrAToEExAgBACCoDQEAMEgLDsJw0gCEIACO+D6CvshCAwACeEBwD0FAABaoFAFBH8QYSryAUDoEgDAIFQFAMGgD9bzfO8gEYgC2qz0+BwSAHRxs2Q4zTe2joyPgKc+B2U1AAflHrIPgIQv5CAoAgKADBEBQDAJ-GQyChCAAMSHoz0LzXj4NuCsixwpi3Foea+BDv6AEMSUhioWqJU2E+T6swuGPgKJNaETo2oiwKPsIsYJWhf1voAIxI2GnnITebOKIvKPm8pWQAIOMhVbOhTCgUqiAD1RiwmVAqgSIpIxhyDb6AGMSeRHCPr52tG8ZRVRAA+DSXL4BRAC4PYAADX64okbpsUQgAMHoKIACc7AAUHbUQAAGMWLaFYuQgATEjsSqM0j50wRnBqXAo-FFiwnTo8J4kIYTwmURibEEdCQknJI3EUSkWggC-kEMIqD2ggDXgAJnwYQkA+9D7HzPhfK+8Tv730fs-V+78kDdKsUIP+PQOngmlGoZ66oZS-nuIAET7AAIy45F4gBS8b4OBQAEBP3DgYgxpTDWk9IwVgnBeDsBSGkXIEhjyhCeTuk6UBg4CjU1tkrUMCFAANY5MdIgALjtZknQAGqNxOeUIVhbyQDgwsJDKGop9iAAGFwABQ2xUyAUIRkLAAiowiSYHR9jR0ADE1vp5SOliQ0kZPS5GIuUflEEVojSbC+KKQAKs18EADYLatAAvPcS8KDMHiAEZB-FMJIUwvpXCkAtjEVqX4bkcy9w3CAEAatuyEiQsgTvCQAtTNasCpsQikq+CAFzJ0kUD2Z0qkUw2+ySlV53CnVRqsERwTFtqIB2mx9KlHxCHQA3a1UqmGC7wHQ458C8cmGVFimktJGevJIMzb59KvpIdBgzL72p6WMp+L834YGmY87ePT5mIqSMAvoDVHLyEFaIVQkxZj3CHI5E5UCk7anOXwWISQVQpFzbMkADaUkFA6B0UMgo+CAEQa7UXM+AAEEIwACFNhlL4INQAuIO7g0fcQAOmvcgKIAEcnACRqzE+kh752cyXaurkgBMGu1BSUmP5NhczqQCc9ogqiABZu9MbwmKLCxpsBwvIXBnu8oJekhLAAZ7YsBdy6+ArreJ+g93JNiAAaanEj1taADPSL8WYrR+ngnwSQCHFiHr4KBqowJFgFhjPGPgSZahUvQtmIoglSjFiqH8ssF7wQLpXRR7kVHeQ0bo1GQANGO1VjFS+8mQbUxK4yWPgfGAV2t4Phxmkk1yVjIzexdwnROTF7EUUSXIeJClEqtfC2mflSUU3SvggmjOgZM32USiw7MWynErZW11LOefEubBzdrLnIOud-W52DMEPMkGW7+rzM0gDnc5gzbxjo+UEsyCM3mHNK3uGeCwgtNrEVKJzDVtRAAFNYAB1q5UOrkAi5LqWENvA-O+T8GYNnOcAsFPg3pIyBhDIsVEqjINqwq9VurQ7GU9BawZzYgtdIjEMiZZCgAF-r4ISwAE00A1yCRsyfALKhWSjFTWE3Ku1fqwkoQirmvXqQ28ej0nZMPgU5Gtmh0Iz+Swn1uzzMJwaxBFS8b5XLvTcscOp1920uPcG3wbjqnywffZgFlwQptSUdAwzCS9nJxA+BIJQAGs2wJ5olZKmkqiCyy5WESRgpgAzB1NhpCaZDNLHhPJAcAAA2cBX5wFIAAWVQKQHnSBsCxBAAAKzgLgAAtNzsA2DH4gBSEEIAA"
+  },
+  {
+    "id": "공통_04-09",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "독서",
+      "원문_쪽": [
+        2,
+        3
+      ],
+      "문항": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)",
+          "<box>…</box>": "원문에서 네모 상자로 표시된 어구"
+        },
+        "안내": "[4～9] 다음 글을 읽고 물음에 답하시오.",
+        "(가)": "법조문으로 구성된 법 규범인 성문법의 의미를 파악하는 것을 법 해석이라고 한다. 법은 사회 구성원들에게 보편적으로 적용되는 규범이므로, 성문법을 ⓐ<u>구성하는</u> 단어나 문장은 그 일상적 의미에 충실하게 해석되어야 한다. 이러한 ‘문리 해석’이 법 해석의 출발점이다.\n그러나 문리 해석으로 그 내용을 제대로 파악하기 어려우면, 그것이 사용된 맥락을 ⓑ<u>고려하여</u> 그 의미를 파악하는 ‘체계적 해석’, 입법 과정에서 논의된 내용을 바탕으로 그 의미를 파악하는 ‘역사적 해석’ 등의 해석 방법을 사용할 수 있다. 그 예로서 ‘담보’를 들 수 있다. 담보의 일상적 의미는 ‘맡아서 보증함’이고, 이런 의미로 사용된 예로 ‘구조물의 안전을 담보하기 위한 검사’를 들 수 있다. 하지만 성문법 조문에서 사용될 때는 그 맥락을 고려하여 다른 의미로 해석되기도 한다.\n담보는 유상 계약의 맥락에서 거래 대상의 값어치를 보장한다는 의미로 해석된다. 유상 계약이란 그 당사자가 서로 대가를 주고받을 것을 약속하는 계약을 뜻한다. 유상 계약의 일종인 매매 계약에서 목적물이 계약 체결 당시부터 있던 하자 때문에 대금만큼의 값어치를 하지 못하는 상태였다면, 매도인은 그 하자 발생의 원인이 무엇이든 담보 책임을 져야 한다. 그 책임의 내용은 손해 배상이 원칙이지만, 만약 하자로 인해 매수인이 계약의 목적을 달성할 수 없으면 매수인은 계약을 ⓒ<u>파기하고</u> 대금 환불을 청구할 수도 있다. 다만 매수인이 계약 체결 당시 하자의 존재를 알았거나 알 수 있었던 경우에는 담보 책임이 인정되지 않는다.\n한편, 담보는 채권과 관련된 맥락에서는 채권의 실현 가능성을 보장하기 위한 조치라는 의미로 해석된다. 담보 물권이 그 예이다. 금전 채권은 채권자가 채무자로부터 돈을 받아야 실현되는데, 채무자가 돈을 지급하지 않으면 강제 집행 절차를 거쳐야 한다. 강제 집행의 목적물이 부동산이면 그 부동산을 경매하여 마련된 경매 대금을 배당받음으로써 금전 채권이 실현된다. 이때 경매 대금을 배당받을 금전 채권자가 여럿이면 각 채권자는 각자의 채권액에 비례하여 배당받아야 하는 것이 원칙이다. 그러나 그 채권자 중 담보 물권을 가진 자는 경매 대금에서 자신의 채권액부터 먼저 배당받는다.",
+        "(나)": "보증이란 채무자가 채무를 이행하지 않으면 그 채무를 다른 사람이 대신 이행하기로 하는 것이다. 이때 원래의 채무자를 주채무자, 주채무자 대신 채무를 이행하는 사람을 보증인이라 하고, 주채무자가 부담하는 채무를 주채무, 보증인이 부담하는 채무를 보증 채무라 한다. 보증은 담보 기능을 수행하므로 주채무가 소멸되면 보증 채무도 당연히 소멸된다. 보증이 ⓓ<u>성립하려면</u> 채권자와 보증인을 당사자로 하는 보증 계약이 필요하다. 보증 계약은 보증인에게만 채무를 발생시키므로 유상 계약이 아니다. ㉠<u>이는 주채무자와 보증인 간에 보증의 대가를 지급하기로 하는 계약이 별도로 체결되었더라도 마찬가지이다.</u>\n보증 계약에 대해서는 보증인 보호를 위하여 법적 규제가 적용된다. 우선 ｢민법｣에 의하면 보증 계약을 할 때는 일반적인 계약과는 달리 계약서가 작성되어야 하고, 여기에는 보증인의 서명이나 기명 날인이 있어야 한다. 이를 위반한 보증 계약은 무효이지만 보증 채무가 이행되었으면 보증인이 그 무효를 주장할 수 없다. 주채무가 주채무자의 사업과 무관한 금전 채무이고, 보증인이 대가 없이 주채무자에 대한 호의로 보증 계약을 한 경우에는 ｢보증인 보호를 위한 특별법｣에 의한 보호도 제공된다. 예컨대 보증 기간이 명시되지 않은 경우 보증 기간은 3년으로 간주된다.\n채권자가 주채무자에게 주채무의 이행을 청구하지 않고 곧바로 보증인에게만 보증 채무의 이행을 청구한 경우, 보증인은 주채무자가 강제 집행 대상 재산을 보유하고 있음을 채권자에게 증명하여 보증 채무의 이행을 거절할 수 있는 권리가 있다. 그러나 보증인이 이러한 권리를 포기하기로 하는 ‘연대 보증 특약’이 보증 계약에 포함될 수 있다. 이러한 특약을 한 보증인인 <box>연대 보증인</box>은, 채권자가 곧바로 주채무 전액에 해당하는 돈의 지급을 요구하더라도 그 이행을 거절할 수 없다.\n연대 보증인에게도 ｢보증인 보호를 위한 특별법｣이 적용되는지가 문제 되는데, 어떤 해석 방법을 따르느냐에 따라 결론이 달라질 수 있다. 위 법률 제2조가 그 적용 대상인 보증 계약을 ‘주채무자가 금전 채무를 이행하지 않는 경우 그 채무를 보증인이 이행하기로 하는 계약’이라고 ⓔ<u>규정하고</u> 있으나 그 입법 과정에서 연대 보증인 보호의 필요성이 강조되었기 때문이다."
+      },
+      "questions": {
+        "q4": {
+          "type": "choice",
+          "instructions": {
+            "문항": "4. (가)와 (나)의 내용 전개 방식에 대한 설명으로 가장 적절한 것은?",
+            "보기": "(나)는 보증 계약에 관련되는 주요 개념들을 정의하고 있다.\n(나)는 보증 계약의 폐해와 이로 인한 결과를 서술하고 있다.\n(나)는 보증 계약의 유형별로 규제의 공통점을 비교하고 있다."
+          },
+          "criteria": {
+            "①": "(가)는 법조문의 의미 해석 방법을 구분하여 제시하고, (나)는 보증 계약에 관한 규범의 주요 내용을 열거하고 있다.",
+            "②": "(가)는 법조문의 의미 차이가 확대되어 온 이유를 분석하고,",
+            "③": "(가)는 법조문의 의미를 해석하는 방법의 사례를 소개하고,",
+            "④": "(가)는 법조문의 의미를 파악하는 입장들을 대조하고, (나)는 보증 계약이 역사적 맥락에 따라 변화한 과정을 밝히고 있다.",
+            "⑤": "(가)는 법조문의 의미를 다른 상황에서 유추하여 도출하고,"
+          }
+        },
+        "q5": {
+          "type": "choice",
+          "instructions": {
+            "문항": "5. (가)를 통해 알 수 있는 내용으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "법은 사회 구성원들에게 보편적으로 적용되어야 하므로 일상적 의미가 해석의 출발점이 되어야 한다.",
+            "②": "법조문에서의 담보에는 채권자의 금전 채권 실현의 가능성을 보장하는 조치라는 법적인 의미가 부여되기도 한다.",
+            "③": "금전 채권자가 여럿인 경우에 진행된 경매에서 담보 물권의 존재 여부는 경매 대금의 배당 순위에 영향을 준다.",
+            "④": "유상 계약에서의 담보는 당사자 간 거래 대상의 값어치를 보장하는 의미로 해석되므로, 교환 대상 사이의 값어치가 일치해야 계약이 체결된다.",
+            "⑤": "법조문의 의미를 문리 해석만으로 제대로 파악하기 어려운 경우에는 법조문의 입법 과정에서 논의된 내용을 바탕으로 그 의미를 해석하기도 한다."
+          }
+        },
+        "q6": {
+          "type": "choice",
+          "instructions": {
+            "문항": "6. (가), (나)를 바탕으로 할 때, ㉠의 이유로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "주채무자가 보증인에게 지급하기로 한 대가를 채권자가 대신 받을 수 있기 때문이다.",
+            "②": "보증인에게 대가를 지급할 의무를 지는 사람이 보증 계약의 당사자가 아니기 때문이다.",
+            "③": "보증 채무를 이행하기 전까지는 보증인이 주채무자로부터 손해 배상을 받을 수 없기 때문이다.",
+            "④": "채권자에게 주채무자 대신 채무를 이행하는 것은 보증인 자신의 채무를 이행하는 것에 해당하기 때문이다.",
+            "⑤": "보증은 주채무자에 대한 채권의 실현을 담보하는 기능을 수행한다는 점에서 담보 물권과 다름없기 때문이다."
+          }
+        },
+        "q7": {
+          "type": "choice",
+          "instructions": {
+            "문항": "7. <box>연대 보증인</box>에 대한 이해로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "주채무자에 대한 호의로 대가 없이 보증 계약을 한 자이어야한다.",
+            "②": "｢보증인 보호를 위한 특별법｣ 제2조의 문리 해석에 의하면 이 법의 적용 대상에 해당한다.",
+            "③": "채권자가 주채무자에게 채무의 이행을 청구하지 않는 한 보증 채무의 이행을 거절할 권리가 있다.",
+            "④": "채권자와는 보증 계약을 하고 채무자와는 연대 보증 특약을 함으로써, 보증 채무를 부담하게 된다.",
+            "⑤": "채권자가 주채무자에게 채무의 이행을 청구하여 그 채권이 실현되면 더 이상 보증 채무를 이행할 의무가 없다."
+          }
+        },
+        "q8": {
+          "type": "choice",
+          "instructions": {
+            "문항": "8. (가), (나)를 바탕으로 <보기>를 이해한 내용으로 적절하지 않은 것은? [3점]",
+            "보기": "갑은 자신이 보유한 예술품을 1년에 1점씩 4년간 을에게 납품하고, 그 대금으로 1점당 500만 원씩을 매년 연말에 받기로 하는 매매 계약을 했다. 을은 그 예술품을 소장 목적으로 수집하고 있었다. 갑이 을에게 대금 채무에 대한 담보를 요구하자 을은 병에게 보증을 서 달라고 부탁했고, 병은 을에 대한 호의로 대가 없이 갑과 보증 계약을 했다. 이에 갑이 을에게 예술품의 납품을 시작했고 을은 2년 동안 갑에게 그 대금을 지급했다. 그런데 이후 2년 동안 갑이 예술품을 1년에 1점씩 납품했으나 을은 그 대금을 지급하지 않았다. 이에 갑이 병에게 미납 대금 1,000만 원의 지급을 요구하고 있다."
+          },
+          "criteria": {
+            "①": "갑이 납품한 예술품에 갑의 행위와 무관한 하자가 있어서 을에게 손해가 발생한 경우, 계약 체결 시점에 을이 그 하자를 알 수 있었으면 을은 손해 배상을 받을 권리가 없다.",
+            "②": "갑이 납품한 예술품에 하자가 있어서 을에게 손해가 발생한 경우, 을이 그 하자에도 불구하고 계약의 목적을 달성할 수 있으면 을은 그 대금의 환불을 받을 권리가 없다.",
+            "③": "보증 계약서에 병의 서명은 있고 연대 보증 특약이 없는 경우, 을에게 강제 집행 대상 재산이 있음을 병이 갑에게 증명했더라도 병은 갑이 요구한 1,000만 원의 지급을 거절할 수 없다.",
+            "④": "보증 계약서가 작성되지 않았고 연대 보증 특약이 없는 경우, 병이 을을 대신하여 갑에게 1,000만 원을 지급했으면 보증 계약의 무효를 주장할 수 없다.",
+            "⑤": "보증 계약서에 병의 서명도 날인도 없지만 연대 보증 특약이 있는 경우, ｢보증인 보호를 위한 특별법｣ 제2조를 어떤 방법으로 해석하든 병은 갑에게 1,000만 원을 지급할 의무가 없다."
+          }
+        },
+        "q9": {
+          "type": "choice",
+          "instructions": {
+            "문항": "9. 문맥상 ⓐ～ⓔ와 바꿔 쓰기에 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "ⓐ : 이루는",
+            "②": "ⓑ : 헤아려",
+            "③": "ⓒ : 깨뜨리고",
+            "④": "ⓓ : 이루어지려면",
+            "⑤": "ⓔ : 바로잡고"
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEgAPFQB8gMgJ5AemUS5gBbHAHN2AF0cA4g30CIPYBBJvoA-awC2jgEcm+gAN7AIb18AFID1RwBrjfQAZMRPkAFkj5AR5bAAXG+fR9hQAHJgEohIl5ZOXkAI1RWVQ0MrO0hfWM+QBJGwAquvkBBgcAE8cAdDr5hQB2hwBwWvhtAG1qhZL4AXySZIUAJUcAWhvyQAG0AFkA9f4BOAF0+QBOmwBlxvkAAOsARcb5AX3HAA5q+QB5u5YM+QFemwA1VhsASMYA6RK6hN0AAGoTsOUBUnsAHCb1AHnG6tsAjIMtd58QA7tYAUnsAHuN8AF6d4+LyAD+7AD6dfEAMMuAUVHzoAUpr4gGCarYgwAuq4BcQcALuOAH3b9oAdVcWNz47wigBqBwAxa3xATpACctBkAMTV8QAvPYAO5cAgBN-PjCwCVY4AMFtxELJgAHumoBWHvLaBRRKQE4jTKPiAC6abIAMhr4ekApeMRKx8QA+4xVhXwkSdAJWzgBOh8580lSmyAH1G+LT6WTADft1L4gAwCPSAGs6+KTAJgEZIZUZJPkAObOAHB7AAgTZLp3F4VgDxojCbFlqGEq2gBwJwAAzXVMedRK1ACQdgAaxwAuXQErHi40yJS1AKedgF92raARZINbt6+dADejOqU1ntKPRWNxIcALTOAEZq7TGAoBQ8ZBgB+awCoE0VAD6NXhaJa2gBQewCrC0XZ6ia4vALejTPXJOjoR8pL4gEoe1V8LuAA1W+EADCG+EACPG6RnQAIMZqEwQ0AF6b+WjVFOWAsCIIQnwbTtJFF0AQ87ABFRkx+UAXMnAAtV2NdgCMlAAf22c6i7FpoNDNpPgOHwBkAEAmtgQ2s+EAEHHg0AAJqmSQvgUJA8D6XOGJABnOmE4T4b4ii7QACFr4QAZVtxS1+y2UcJyWQAPTrohMpVEQAR5t9LNeAQ3FAAJxio+BXQBfUZ8fsikABxrAAz2vgKwqHxACQamxAA051F+VNWlcSROpSSaCD7McpyyUAAPaZ0AT6amSqJ4+CMOoKyeVFAB+J3ZAGwerYCT4JzAFjBnEEq2QBudr9Ph4uczDAFCJ6FABPOjqEqKQBKruFA442cvgl0ABpq+FShpHEABkWwMADWa+HOKoNMMHzAAg6mTAB8FgLgtRaS+EAbq6aoqQAdhcAADHFlbPgOrMyELUW5aU0AXYGfB0SE40AFm7AHHRslAAOWvgEL4QBRGcAEPGtkADgmfUay1QZ8EsIkABMGiT4QAGHoqOMdEATTmyVkgIZKch66khZGOqA96Ep8fqtkAG6aAUAkDADHRn5m2usmImcrZACWSDU0VEc5dinda+EADTXAAjerZAFqZtp6YsySljk0nyeGsaJoaB6fEAFwnABrx1FABlRwANUfc41ddQ0DAAnRhbAF6axsDFxQHQbjSE9ylGI+EAKVHsSs9BqUFAIbL4QARGcAGNqdz4QAAWsACg7ez7YxcWDnxnUAEDW+CeQBSpoBLYwt4gTFKCilIsRaKSVi+lAYOIO40tSDM3pNaOMDoOImDzLA4+2oZr4QAJ5q2Yr8J9JOZUAB2aAgDtusu7vgYkASDr9rd5m+EAVBqyz4QBFycASNW+EACAnAAoZ1F3MABZmoYgpfV7XymBrjRxAE3mwAGgbJFnLWvm+tktjr9MACc6o74V-1q2FHUuKssP4gALYb4HXBucYk4lz4GSdS39uoVjWn-ABWxwHNyyuOQA-+33z4IAQBqG5VFxLgqoPhg6AENRk4gARPsAAId+l-69x9DVDskRsYQVzMaS0zc+CAERJgG-JDhBy2E8BwhD4HrSKFUQAB0OkKDmQjugAeLsAAATqMAGezuMQB4IA3CGleJIIQJFkqtxbqPVEZI16z3npwj6qJFhGSZIAGPa4wVkkTA8xog6hMJrjAuBOhPKkLboVUeVQAgFSCT5FxJjXE1QcZnYi70KSLUonwUJY8nBwRqpElJAQSLk0cOkuO1iBTEVbgkxqJEIiA1EKnLYQFzGKmSaPLKgAYwcAB5dUoWYkVbhZVKgAH0cABHrfBWnQIMXwQAyyQagBIAXs7zj1mbILZugABMaKZCLY6VaiLVxJ05ycZAAiq4AFLHzgQS2U5CIOTeRyUic9BogAShfqc1RKfB8KAAmmiCvgNRklxCkqoSycl8EACA1JwSI+DyqiaetYPG4m2XwQAIz1mTqGNKUZtAAqzRSCy79AA0M08GINcpzZnQMck4FYiRGE2XEgUgAONdRHxfS7w7SgjLFlSU0DGyAAJBvggAjf8AD-d7xADG-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-b-RPFbAADgTK212wuLkCOxTIgINyEGgIeLgOeJbOQNGDIu+N+LiH+OvDqHkAJyUFMSJGDAIL4OINdjdlIKxz4DGCnTTDmFuKuwJ1GEAEQaiIKRVk2yYMSCUXQACJWth8AZ0Th8A0xABKUb4AmBnT+T4A2HXUAEqG-SufS0RBMUMy1KPgP-AABm8rkh0HMq2A6hnT4B6UAAXOk4YqTDGqLqWqPgQACNWIINh7o9LDLBkUd+oxQgIV4JczYII1K4x7K+REFW5YcEJUQJMlo7KIhABFnvXRIi2BMF832EcEAEGF+KpJGqiIeyzsvgfNXKTNOMNS0ORLRK-0E4Aquy9dVKnwJyrYBoFVDq6qvgCLEKq+AYPgNS9dVypBbEsa6waiQeGBQAEbWVq1qNrJrUqjKTK+AzLLKnL4ratlqdqtgwUpL9ZKMJq4w6q+REQHKhZ8AiBfK-LIhRMp5xMd1j91F6zGLGy6CkT2KQA2yhBJqnLdKDKJqfA14+IlkE1gwlpYMbATAiq+AkYspnor0AhlZxoGhfS7L-Ulo9ZTYzZ55krSbkY0Y5THyYNQ0XzjcJy5BUb9L0b9KTgCawIiapq+Qya+AKbpiAgNgGaqgDALJRZIaKY+AqY+BaYINWb7pEEfAxYuanzearTKShBDy5BjkjATgar9UDUIhQJ9h-z8M4wGZMtr0pbF5l4n1fI+BX04xQJv0+Aaqhq-0DV4qpMQ6IhJqJNgxAbgb-KwbQMHzGY+a8c3z9F+zlU+A1UR03Z9ZnbcNilXbQ0PaAhQ67KthnF9Itq+QE7fL-LXqp5HqhUNbA1klg1UJFNlLoL+SEobaQ77aLJLULIGZZJQri6ALA7y6OUK0ZydN5zItPhURLMbMxRSRzh-ourNr10G6QadBm78LCLobKCSLf8ZhKKQAkzUC6LwDbimL7jYCnjXtXjzaQBczLiZh6Q9AewHJAgpgSsllzxAAV+r4EAAeRnVVHEg-EaEnYiMhs2gxEq3RG5GkAYISQMkQAC47sRe6hABahBBw+BJBAAT1fwnrDwZAEtqEE5mIb4EAAs6wACnbwxdhKHM6QBRk6HsGbAYhZlKGYKhASs6HD1ABC8dYfgajO-14BGxICQDgAABs4Ans4BSAABZVAUgBRpAbAMYEAAAKzgFwAAFp5GwALc7sQA5huggA"
+  },
+  {
+    "id": "공통_10-13",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "독서",
+      "원문_쪽": [
+        3,
+        4
+      ],
+      "문항": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+        },
+        "안내": "[10～13] 다음 글을 읽고 물음에 답하시오.",
+        "지문": "열팽창이란 물체의 온도 변화에 따라 그 길이, 부피가 변화하는 현상을 말한다. 그중 길이의 변화를 수치화한 것이 선형 열팽창 계수인데, 이는 온도 변화에 따른 길이 변화율을 온도 변화량으로 나눈 값이다. 여기에서 길이 변화율은 길이의 변화량을 처음 길이로 나누어 ⓐ<u>얻는</u> 값이며, 변화량이란 나중 값에서 처음 값을 뺀 것이다. 대부분의 물질은 선형 열팽창 계수가 양수이며 물질마다 그 값이 다르다. 합금인 인바(invar)와 순수한 금속인 알루미늄은 선형 열팽창 계수가 양수인 물질이며 인바는 알루미늄에 비해 매우 작은 선형 열팽창 계수를 갖는다.\n선형 열팽창 계수가 다른, 두 종류의 물질 P와 Q를 서로 같은 두께의 두 층으로 접합하여 평평한 띠를 만든다고 하자. 이때 Q가 P보다 선형 열팽창 계수가 크다면 온도를 올렸을 때 Q층은 P층보다 더 팽창하려고 한다. 그러나 두 층이 접합되어 있어 독립적인 팽창이 억제되므로, <그림>과 같이 띠가 P층 쪽으로 원의 호 형태로 휘면서 팽창한 후 그 상태를 유지한다. 이후 다시 처음의 온도로 내리면 띠는 원래 모양으로 ⓑ<u>돌아온다</u>.\n물체의 휨의 정도는 곡률로 수치화할 수 있는데, 띠 또한 휨의 정도를 곡률로 나타낸다. 띠의 길이에 비해 두께가 매우 얇고 폭이 좁아 띠를 하나의 곡선이라고 간주하면, 띠를 원의 호로 생각할 수 있다. 이때 이 원의 호를 포함하는 원의 반지름을 휘어진 띠의 곡률 반지름이라 하는데, 곡률은 이 곡률 반지름의 역수이다. 즉, 곡률 반지름이 작을수록 더 심하게 휘어진 것이다. 다른 조건이 동일하다면, 두 물질의 선형 열팽창 계수 차이가 크거나 온도 변화가 클수록 띠가 더 휘어진다. 온도 변화량이 같아도 띠를 이루는 물질에 따라 띠가 휘는 정도는 달라지며, 이를 나타내는 것이 휨 민감도이다. 휨 민감도가 더 크다는 것은 같은 온도 변화량에서 띠가 더 심하게 휨을 의미한다.\n띠의 한쪽 끝을 고정하고 열을 가하면 띠가 휘면서 반대쪽 끝이 움직이는 액추에이터가 된다. 액추에이터란 열에너지 등을 기계적 동작으로 변환하는 장치로, 액추에이터의 설계에는 최대 이동 거리, 띠가 외부에 가할 수 있는 힘, 반응 완료 시간 등이 고려된다.\n띠가 휠수록 고정되지 않은 끝의 이동 거리는 커진다. 최대 이동 거리는 휨을 방해하는 외부의 힘이 없다고 가정할 때, 주어진 온도 변화량에서 띠의 끝이 최대로 이동할 수 있는 거리이다. 이 값은 띠의 길이에 따라 달라진다. 띠가 휘면서 띠의 끝이 외부에 힘을 가할 수 있는데, 이 힘은 띠의 끝이 최대 이동 거리에 도달하여 휨이 완료되었을 때 소멸된다. 따라서 띠가 외부에 가할 수 있는 힘이 소멸되는 시점은 최대 이동 거리에 도달했을 때이고, 이는 띠가 휘는 과정에서 최대의 곡률에 도달했을 때와 같다. 반응 완료 시간 또한 고려해야 하는데, 반응 완료 시간은 온도를 올리기 시작한 시점부터 띠의 끝이 최대 이동 거리에 도달하기까지의 시간이고, 띠의 두께가 얇을수록 짧다.",
+        "그림": "<그림>: P층과 Q층이 접합된 띠가 원의 호 모양으로 휘어 있는 모습. 휜 안쪽(오목한 쪽)이 P층, 바깥쪽(볼록한 쪽)이 Q층이다."
+      },
+      "questions": {
+        "q10": {
+          "type": "choice",
+          "instructions": {
+            "문항": "10. 윗글의 내용과 일치하는 것은?"
+          },
+          "criteria": {
+            "①": "온도의 변화에 따라 물체의 길이는 변하지만 부피는 변하지 않는다.",
+            "②": "물질의 선형 열팽창 계수는 열을 가해 변화되었을 때의 길이를 열을 가하기 전의 길이로 나눈 값이다.",
+            "③": "선형 열팽창 계수가 음수인 물질이 선형 열팽창 계수가 양수인 물질보다 그 종류가 더 많다.",
+            "④": "액추에이터는 열에너지를 얻기 위해 기계적 움직임을 이용하는 장치이다.",
+            "⑤": "서로 다른 물질을 두께가 같은 두 층으로 접합해 만든 띠의 온도를 올릴 때, 띠의 두께가 얇을수록 휨이 빨리 완료된다."
+          }
+        },
+        "q11": {
+          "type": "choice",
+          "instructions": {
+            "문항": "11. 윗글에서 추론한 내용으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "선형 열팽창 계수가 음수인 물질에 열을 가하면 길이가 줄어든다.",
+            "②": "온도에 따라 길이 변화가 작아야 하는 부품에는 알루미늄보다 인바가 더 적합하다.",
+            "③": "두 물질을 접합하여 두 층으로 이루어진 띠를 만들고 온도를 내리면 선형 열팽창 계수가 작은 물질 쪽으로 휜다.",
+            "④": "열팽창으로 길이가 늘어난 두 물체의 길이의 변화량이 같다면 팽창 전의 길이가 더 긴 물체의 길이 변화율이 더 작다.",
+            "⑤": "한쪽 끝이 고정되고 길이가 다른 평평한 두 띠가 동일한 곡률로 휘었다면 길이가 긴 띠의 끝의 이동 거리가 더 길다."
+          }
+        },
+        "q12": {
+          "type": "choice",
+          "instructions": {
+            "문항": "12. 윗글을 바탕으로 <보기>를 이해한 내용으로 적절한 것은? [3점]",
+            "보기": "두 물질을 접합하여 두 층으로 만든, 두 종류의 띠 a와 b가 있다. 두 물질의 선형 열팽창 계수의 차이는 b가 a보다 크고, 두께와 길이는 a, b 모두 같다. 이 띠를 활용하여 오른쪽 그림과 같이 띠가 안으로 휘어 물체를 잡는 집게를 만들었다. a를 두 개 사용한 것은 집게 A이고, b를 두 개 사용한 것은 집게 B이다. 온도 T₀ 에서 A와 B의 모든 띠는 평평한 형태였다. 이후 온도를 T₁ 로 올렸을 때는 B만 물체를 잡을 수 있었다. 그런데 T₀ 에서 T₁ 보다 높은 온도인 T₂ 로 온도를 올렸을 때는 A도 물체를 잡을 수 있었다. (단, 선형 열팽창 계수 차이, 온도 변화 외에 휨에 영향을 주는 다른 요소는 고려하지 않음.)",
+            "그림": "<보기> 오른쪽 그림: 위쪽 가로대에 두 개의 띠가 아래로 매달려 집게를 이루고 있고, 띠 아래쪽 사이에 물체(작은 상자)가 놓여 있다. 점선은 온도를 올리면 두 띠가 안쪽으로 휘어 물체를 잡는 모습을 나타낸다."
+          },
+          "criteria": {
+            "①": "T₀ 에서 T₁ 로 올렸을 때보다 T₀ 에서 T₂ 로 올렸을 때, a와 b 모두 외부에 가할 수 있는 힘이 소멸되는 시점의 곡률은 더 크겠군.",
+            "②": "T₀ 에서 T₁ 로 올렸을 때, a와 b 각각의 휨이 멈춘 시점에서의 a의 곡률 반지름은 b의 곡률 반지름보다 작겠군.",
+            "③": "T₀ 에서 T₁ 로 올렸을 때, A와 B 각각의 동작이 멈추는 데 걸린 시간이 서로 같았다면 b의 반응 완료 시간이 a보다 짧겠군.",
+            "④": "T₀ 에서 T₂ 로 올렸을 때, a의 최대 이동 거리가 b보다 더 크겠군.",
+            "⑤": "B와 달리, T₂ 가 되어야 A가 물체를 잡을 수 있었던 것은 a가 b보다 휨 민감도가 크기 때문이겠군."
+          }
+        },
+        "q13": {
+          "type": "choice",
+          "instructions": {
+            "문항": "13. ⓐ, ⓑ의 의미로 쓰인 예가 바르게 짝지어진 것은?"
+          },
+          "criteria": {
+            "①": {
+              "ⓐ": "그는 이 실험에서 예측한 근사치를 <u>얻었다</u>.",
+              "ⓑ": "그는 은퇴한 후 고향으로 <u>돌아왔다</u>."
+            },
+            "②": {
+              "ⓐ": "그는 친구의 도움에 용기를 <u>얻었다</u>.",
+              "ⓑ": "곧 그에게 발표할 차례가 <u>돌아온다</u>."
+            },
+            "③": {
+              "ⓐ": "그는 열심히 일해 지금의 결과를 <u>얻었다</u>.",
+              "ⓑ": "그는 지름길을 두고 먼 길로 <u>돌아왔다</u>."
+            },
+            "④": {
+              "ⓐ": "그는 자신이 하는 일에서 보람을 <u>얻었다</u>.",
+              "ⓑ": "모임이 한 달에 한 번씩 <u>돌아온다</u>."
+            },
+            "⑤": {
+              "ⓐ": "그는 가족의 열렬한 호응에 자신감을 <u>얻었다</u>.",
+              "ⓑ": "우리 부서에 적은 돈이 몫으로 <u>돌아왔다</u>."
+            }
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#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-R9GN8Tj4TUypCgXFHMS7vtdpQ7J0GpBzitO-l3KbusH0N1G4OuHwACNhHEB8IAMmNMEVOkIhSeI9erERUNWYcSKSuxove6uVU0KLQScR0Wae2d2xGvq-qvqimr2TGQgEalm5eioVeaeHe+EAkrBleLeHBnEAQpODuAuM+mSSCc0RiMiCSiS+ShChSFMEQwkNEgABTWAAOtaZowSABZkRiADwWXinvweBizuTnwDDDDD4L1LiIABJdgAGbNyHGA+BgAUysyEwRBk7OHUwCSrhqEaGo5CDBY6F6HsFLKcEBBB58Ae6mHmH3yrjWFry-Cl6AAeNYAA2dcyuIL634gAGqNNbuHTIDJpEs4CSPI+Eo75YgCFaBH+5sF8EhECEs4+ClKCIfBk4CRKElHH6hrDY6Ee61hRzQJl4t4fCqQTI24fCEED4F6AAazRJizs0QJL1JnDnJbKsvhHoOsO0XtuhjJjyuUGdkqhdoRt6tdmRh0ZRjqtRk9nRnse9ixjoeUJCIEAELVD4E3EKIAA8jBYgAEGMfBFgZiyyAC7kzEGTLDlJnwIdrJjQQptcUqswQwajkqoEAsFYL8LiIACdDgAG6uKifGACEc5iIAD+1puqISIpoZoK27UvhXaSqtUSJvwYQgAL4sxTjZL4A7KDNSAAqY21JoB1KCdJpodoYxvCXIIiZZsiXwIADpzgANrU+CHBzx9A2qiDEnKCkmcnKAUmUlCDUmWaADnNdYAYLLIADg9wgs0psgAAh0fCNQtQqnckgBMbgkqYBECmUlCk0nEgSyAAR63wNrPODELmD4IAA01Dkip5oZJXJapZRmpOhopRM9wH6nQgAPF0PBCgWkcnkk8lgl3arrQmhrCmRm-DYSAAHQ7iLjNrIqKRIADHtLQJJIZqppR6pIAEZcglUp6uImIUcfQmIgAET2ACUo3wBaa1KmTaajnaZ0VmQiS6W8IAI4TPgiwgANB2Yh+SYJ9AFlZyVlKnVnWkZmhoNlCBLiIaOBGB9C6QRCAATzbiIANVdLJSg7JVpFBQ5mxB2vANKJASAcAAANnAJqnAKQAALKoCkBvlIDYB5AgAABWcAuAAAtK+WAP6qqiABUMkEAA"
+  },
+  {
+    "id": "공통_14-17",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "독서",
+      "원문_쪽": [
+        5,
+        6
+      ],
+      "문항": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<A>…</A>": "원문에서 [A]로 묶어 표시한 구간"
+        },
+        "안내": "[14～17] 다음 글을 읽고 물음에 답하시오.",
+        "지문": "철학에서 특정한 개인으로서의 인간을 ‘인격’, 그중 ‘나’를 ‘자아’라고 한다. 인격의 동일성은 모든 생각의 기반이다. 우리는 과거의 내가 현재의 나와 동일한 인격이기에 과거에 내가 한 약속을 현재의 내가 지켜야 한다고 판단한다. 칸트 이전까지 인격의 동일성을 설명하는 유력한 견해는, ‘생각하는 나’인 영혼이 단일한 주관으로서 시간의 흐름 속에 지속한다는 것이었다. ‘주관’은 인식의 주체를 가리키며, ‘인식’은 ‘앎’을 말한다.\n그러나 칸트는 ‘나는 생각한다.’, 즉 ‘자기의식’은 인식이 이루어지는 것을 가능하게 하는 조건 중 하나에 불과하다고 본다. 그러한 조건 자체는 무언가가 실재함을 보장하지 않는다. 그렇기에 자기의식은 ‘생각하는 나’가 단일한 주관으로서 실제로 존재한다는 것, 즉 ‘영혼의 실재함’을 보장하지 않고, ‘영혼이 실재할 가능성’을 열어둘 뿐이다.\n<A>이를 바탕으로 칸트는 영혼이 인격이라는 견해를 반박한다. 칸트는 ‘시간의 흐름 속에서 스스로의 동일성을 의식하는 것은 인격이다.’와 ‘영혼이 자기의식을 한다.’라는 두 전제 모두 납득할 수 있다고 보지만, 그 전제들로부터 ‘영혼이 인격이다.’라는 결론은 도출되지 않는다고 지적한다. 첫 번째 전제에 등장하는 ‘의식’은 실제로 존재하는 무언가에 대해 의식한다는 뜻이지만, ‘생각하는 나는 생각한다.’와 다름없는 두 번째 전제에 등장하는 ‘의식’은 무언가가 꼭 실재함을 뜻하지는 않기 때문이다.</A>\n칸트는 통시적으로 동일한 인격의 존재를 직접 증명하는 대신 ‘시간의 흐름 속에서 마주치는 복수의 주관이 동일한 인격으로 인식된다.’라는 가정이 반드시 선행되어야 한다고 제안한다. 그래야 경험적 판단, 윤리적 판단 등의 생각이 가능하기 때문이다. 생각의 구성은 시간의 흐름을 따르는데, 이러한 구성은 통시적으로 동일한 인격을 반드시 필요로 한다는 것이다.\n스트로슨은 자아를 인식하는 방식이 경험적 인식의 방식과 구별된다는 칸트의 견해에 동의하지만, 복수의 주관이 동일한 인격으로 인식된다고 가정하는 것은 철학적 상상에 불과하다고 칸트를 비판한다. 인격의 문제에서 신체를 간과한 칸트와 달리, 스트로슨은 인격을 의식과 신체의 복합체로 본다. 스트로슨에 따르면, 시공간적 세계 안에서 우리의 신체를 매개로 대상이 경험된다는 것은 과학적 사실이며 자아에 대한 인식은 경험적 인식들로부터 추상화되는 것이다. 그러므로 시공간적 세계에서의 경험이 인격의 통시적 동일성을 뒷받침한다고 그는 주장한다. 자기의식도 마찬가지로 경험에 의존하기에, 자기의식이 인식을 가능하게 하는 조건이라는 칸트의 견해는 잘못이라는 것이다.\n롱게네스는 통시적으로 동일한 자아가 없이는 경험적 인식이 성립할 수조차 없으므로, 자아에 대한 인식은 경험으로부터 추상화된 것이 아니라고 본다. 하지만 그는 자아와 인격이 시공간적 세계를 경험하는 인간에만 적용되는 개념이라고 주장한다. 롱게네스는 인간은 도덕적 존재이며 도덕적 존재로서의 인간은 자율성을 지닌 존재라는 칸트의 견해를 인정한다. 그러나 자율성을 지닌다는 것은 시공간적 세계를 살아가는 동안 경험하는 것들 사이에서 스스로 선택한다는 것을 뜻한다. 그러려면 신체가 있고 살아 있어야 하므로, 인격의 동일성의 기준은 각자가 자신의 것이라고 통시적으로 인식하는 신체라고 롱게네스는 주장한다."
+      },
+      "questions": {
+        "q14": {
+          "type": "choice",
+          "instructions": {
+            "문항": "14. 윗글의 내용과 일치하는 것은?"
+          },
+          "criteria": {
+            "①": "칸트에 따르면 자기의식은 영혼의 실재를 보장한다.",
+            "②": "칸트에 따르면 생각의 구성은 시간의 흐름과 독립적이다.",
+            "③": "스트로슨에 따르면 자기의식은 인식을 가능하게 하는 조건이다.",
+            "④": "스트로슨에 따르면 의식을 매개로 대상이 경험된다는 것은 과학적 사실이다.",
+            "⑤": "롱게네스에 따르면 살아 있다는 것은 시공간적 세계 안에서의 선택에 필수적이다."
+          }
+        },
+        "q15": {
+          "type": "choice",
+          "instructions": {
+            "문항": "15. [A]에서 답을 찾을 수 있는 질문으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "‘두 전제’를 연결하는 개념의 함의는 실재성과 관련하여 어떤 점에서 서로 다를까?",
+            "②": "‘복수의 주관이 동일한 인격으로 인식된다.’라는 가정은 어떤 점에서 반박되고 있을까?",
+            "③": "‘영혼이 실재할 가능성’이 열려 있다는 것이 납득할 수 없는 견해인 근거는 무엇일까?",
+            "④": "인격의 통시적 동일성이 ‘직접 증명’될 수 있다는 견해를 받아들여야 하는 근거는 무엇일까?",
+            "⑤": "‘영혼이 자기의식을 한다.’라는 전제가 ‘생각하는 나는 생각한다.’ 라는 전제와 다름없는 근거는 무엇일까?"
+          }
+        },
+        "q16": {
+          "type": "choice",
+          "instructions": {
+            "문항": "16. 다음은 윗글을 읽고 학생이 작성한 학습 활동지이다. 윗글을 바탕으로 할 때, 적절하지 않은 것은?",
+            "보기": "□ 아래의 핵심 개념에 대해 윗글에 제시된 학자들이 보일 수 있는 입장을 작성해 봅시다."
+          },
+          "criteria": {
+            "①": "[핵심 개념 1] 자아에 대한 인식과 경험적 인식 — 칸트 : 자아를 인식하는 방식과 시공간적 세계의 대상들을 경험적으로 인식하는 방식은 다르다고 본다.",
+            "②": "[핵심 개념 1] 자아에 대한 인식과 경험적 인식 — 스트로슨 : 시공간적 세계에서 이루어지는 경험적 인식은 자아에 대한 인식에 의존한다고 본다.",
+            "③": "[핵심 개념 2] 추상화 과정 — 롱게네스 : 경험으로부터의 추상화 과정을 거치지 않고서 ‘나’를 인식할 수 있다는 것에 동의한다. (같은 칸의 다른 항목, 번호 없음: 스트로슨 : 경험으로부터의 추상화 과정을 거치지 않고서 ‘나’를 인식할 수 있다는 것에 동의하지 않는다.)",
+            "④": "[핵심 개념 3] 통시적 인격과 도덕적 존재 — 칸트, 롱게네스 : 도덕적 존재로서의 인간이 자율성을 지닌다는 것을 수용한다.",
+            "⑤": "[핵심 개념 3] 통시적 인격과 도덕적 존재 — 칸트, 스트로슨, 롱게네스 : ‘시간의 흐름 속 동일한 인격으로서의 나’라는 개념을 수용한다."
+          }
+        },
+        "q17": {
+          "type": "choice",
+          "instructions": {
+            "문항": "17. 윗글을 바탕으로 <보기>를 이해한 반응으로 가장 적절한 것은? [3점]",
+            "보기": "갑 : 두뇌에서 일어나는 의식을 스캔하여 프로그램으로 재현한다고 상상해 보자. 그런 경우, 본래의 자신과 재현된 의식은 동일한 인격이 아니야. 두뇌에서 일어나는 의식은 신체 전체의 기여로 일어난 것이기 때문이지. 즉, 프로그램으로 재현된 의식은 인격일 수 없어. ‘생각하는 나’의 지속만으로는 인격의 동일성이 보장될 수 없고, 살아 있는 신체도 인격의 구성 요소에 포함되어야 하거든.\n을 : 그렇지 않아. 프로그램으로 재현된 의식은 본래의 자신과 동일한 인격이야. 비록 프로그램은 신체가 없지만 우리 두뇌와 프로그램이 수행하는 사고 기능에는 근본적인 차이가 없거든. 인격의 동일성은 어떤 가정도 두지 않고 이러한 사고 기능의 동일성만을 기준으로 판단해야 해."
+          },
+          "criteria": {
+            "①": "롱게네스의 견해에 의하면, 프로그램으로 재현된 의식만으로 인격이 될 수 있다는 갑의 입장은 옳겠군.",
+            "②": "스트로슨의 견해에 의하면, 신체를 지니지 않은 존재에게 인격이 귀속될 수 없다는 을의 입장은 옳지 않겠군.",
+            "③": "칸트 이전까지 유력했던 견해에 의하면, ‘생각하는 나’의 지속만으로는 인격의 동일성을 보장하지 않는다는 갑의 입장은 옳지 않겠군.",
+            "④": "칸트의 견해에 의하면, 인격의 통시적 동일성은 그것에 대한 가정이 선행될 필요 없이 사고 기능의 동일성을 통해 판단된다는 을의 입장은 옳겠군.",
+            "⑤": "롱게네스의 견해에 의하면, 인간과 상이한 존재에 의해서도 동일하게 수행될 수 있는 사고 기능이 인격의 동일성을 판단하는 기준이라는 을의 입장은 옳겠군."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEgAPAEEAfIDICeQHoVEuYAWxwBzdgBdHAOIN8A2ooC6gHQ6+gNm7ALaN9hgHaHAOqt9ANrWAQGqG8BAL5E-nKAEqOALQ06Qmb4ACyAev-4AOyWfIAnTYAy43yAAHWAIuN8gL7jgAc1fIA83RmGfICvTYAaqy6AJGMAdELBMkKAA5P6USCABTOAmqsmfICdS4CoEx6AODWAHuOAPOPWxoAa43yT3vmAGASTgJU1gJgERHyAH7WAiJN8q4AZDVuAPp3HgAnjgCKjW4A+7SVuaY1LG4uAm82APuOAjIOAAuN8QAVXYADlr4gF2BwCANYtRIAMHsALuMvPiABrHADWdgBSmviAH5rAA41i3CgAAaviAEDXADXjixOgAExvjfDybOGiSo4yoEvgeQC+o4BYwfypLxhPagBx5wA+o6y0iVAAjLgAum56vQAec4AOpb4cMAIBOAGTr2m9Pr98oASQcAoV01DGAAnHAKQdHkANTWAF1W0btVpCDXwzpM+IBAMcAPGtwvgSr4eQA-E4AAWtmphc3kWgAV1wAhnXwOZV2hznhjAME1cMAE6OI1b+rYAyaAXaHFj7AC0zl3xKMAJQuABy6bTnM8dAHKjW3ygAXO6XcXh7QA37Sc+PKMacMZDpTs+IBIyeuonm2erOY9cMAFx0OdqJ-L4wClTTVADE1fHtgAcJwAuNXwjjUTpVABG9mJqor4gA+exHtjy7vhXfMYwAs3YAO0fxhMAJ0MkwAWq-lAC89gCl4zU6qAFKjaI3oA4B0Mg+Y7ZgCtoQvaZyEl6voBnMfCfoAOBO2IALhMkvGfAJrsI6rG6izfj+9Z8EBIF8KBRQ2m6HrfoABqt8CuPw0YAL6MOIAGi18IAC-0Is0vBKMocKXIAKD2AKsLsxdnKGIsW8cL3BilqXDCgCoPdKik9sGYaRtGpiACVDpnWJqPz5OO9oJlmGyiVsVLke6sHjvkA7qXwgAKLXwSrYUCfmAJUNgC7LRxgAYQ3wgAR4xe-7tIAM527Hs-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-Jiw-5pXyKnOuouARpEtheQ+3331RuC4zyHdSWds9CeEzn5y048-58fQX4vyEP0GLOecrjZYoJjnrhBUi8KcJVwFs9BaNdM+1wAJlSLErEIw+d8CxWbqJWVsqLAD5iEY+RsQEzAkUUwpxyM5mc3O4ixd5h6QABSAEwagEMpFhpEAB6dfB1WAEqu3YHVAAcawEjIkhTeSHDzlKPODA9x4TwxJPxwzhx2zOnhzCYs-vYgo0AAlKrs9QWRsgE18zgAzKkMLmws79O6SSYP8pdih8kOvwZwyljeBKxM-ImzFyJYqaGyTBWGfe9qXwJfdC04bDXwMgiW+5TL2bTvqxpkzerCmzGQKa1yH5nDeR1KgZX6k42q7oyDobipMpJADZyBDZXqCrjbu73rTZPpzZKqLbhpyArbBbJC6p5D3byS2DyB-bKCXBwgWgeAwiACK4zBnBq9khn8KauYAvvxpYFPqqn9t0IAIg1ZuPkgAM42DBfAOCbTtr5CmSAApc5xnwIACCr1gewgAFe0KQkhEicIdxzT-hXCvB7CAAP7UgkiLsJeCDg+KjFnNofEuOACB7B6MkoKK8OIZIdIRiA4d8vmP5PmNCBxrYFIYADkNJius307QrwQ4uwqhGhWhRI9hpaGwGOUU+0Dgrw1WG0WwiwsYCUswbS7w4WaOgECWqRTEfAs66K+YgitCzsfAfsgAMYOVCAA3yz+HzJltiMCGJOgPkJIHsJBGBDcK8LEZobYHYe2gCJYYsPClnE4a4XwH3IALodKhah6hAIPyASiUyIKIvkYhVIIxHoEU3M9o4CJQogy4hgLWl4TUTovicITinRrwtCYKmmfGTMgiPkieiojs1yZxy4VkCU+QogEKCkkoFowoFozQqGsB5OIAWGVOzqKB4qhGs+WKOiUiNQF8KxcRYxCR7aeRqKjkfApR9mGIQhiwuOAIgAzGOAAFNYAA61UJN+Qg6us+x86J80mJuwH8UySSYEAIBEhgG4OSgAA7Ucgkn7QOa5AUmATUlgT0mMlLYgCe6z7yiKiqjqgmiAARq4ABrNiyFoGJWJmRDo2RUyHIBJBRVkAEwE9UDm5JfAlJfAVJcpDJ-B4qM+cgCyRcHJWJoW9CLx+ww+YSHgTMHoPMCW-sASHopxfA5xlpQMc0koQCUp9pMpjp8prpt+wWaJepBpuwywWc-8HgAp80Foxggi3wFaRxJJ4GvxMZy4NChRYK+Qko9owJxiyZDptJLp0JsgcBgQBKRKSAcAAANnAPKnAKQAALKoCkAjlIDYBmAgAABWcAuAAAtMOWAI6tKiAJYAEEAA"
+  },
+  {
+    "id": "공통_18-21",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "문학",
+      "원문_쪽": [
+        6,
+        7
+      ],
+      "문항": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+        },
+        "안내": "[18～21] 다음 글을 읽고 물음에 답하시오.",
+        "지문": "[중모리] 그때에 사슴이 발론하되 근래 인간이 하 무서워 짐승을 잡아먹기 온갖 꾀가 다 생기고 산중에 수목이 없어 은신할 곳 없어지니 각기 의견 들어 보면 방책이 있을런가 이 모임을 했사오니 수령님의 좋은 꾀를 일러 주옵소서\n[아니리] 호랑이가 수령 말을 듣더니마는 거두룸을 피우며 오늘은 노소고하를 막론하고 자세히 말해 보라 토끼가 여짜오되\n[자진모리] 사냥개라 허는 것은 같은 우리 모족(毛族)으로 사람 집에 기식허니 제 무슨 아첨으로 내 잘 맡는 자랑허여 심산궁곡 층암절벽 찾고 찾어 들어와 동제 간 살해만 허니 수령님 이후로는 사냥개를 있는 대로 다 잡어 잡수오면 그 덕이 모든 금수에게 미치오리다\n[아니리] 호랑이 듣더니만 다 잡어 먹었으면 네 원통함도 풀고 나도 배부른 꼴을 보련마는 일등 포수가 따러다녀 어설피 물랴다가 조총에 불이 번듯 탄환이 쑥 나오면 거 내 신세는 어쩔 것이냐\n그때에 별주부 저기 토 선생 계시오 부른다는 것이 수로 팔천 리를 아래턱으로 밀고 오자니 아래턱이 빳빳허여 토 자가 살짝 늘어져 호 자로 되였것다 저기 호 생원 계시오 불러 놓으니 첩첩산중 호랑이가 생원 말 듣기는 제 평생 처음이라 ⓐ<u>반기 듣고</u> 내려오는듸\n[엇모리] 범 내려온다 범이 내려온다 송림 깊은 골로 한 짐승이 내려온다 누에머리를 흔들며 양 귀 찢어지고 몸은 얼숭덜숭 꼬리는 잔득 한 발이 남고 동아 같은 뒷다리 전동 같은 앞다리 새낫 같은 발톱으로 엄동설한 백설 격으로 잔디 뿌리 왕모래를 좌르르르 흩으며 주홍 같은 입 벌리고 홍행행 허는 소리 산천이 진동하고 강산이 뒤눕고 땅이 뚝 꺼지난 듯 자라가 ⓑ<u>깜짝 놀래여</u> 목을 움치고 가만히 엎졌을 제\n[아니리] 호랑이가 척 내려와 이것 무엇인고 이리 보아도 둥굴둥굴 저리 보아도 둥굴 둥굴아 하고 불러도 대답이 없것다 옳다 이것 한 입가심 허여 볼까\n자라가 ⓒ<u>깜짝 놀래여</u> 여보 당신이 뉘라 허시오 호랑이 깜짝 놀래 에끼 이것 보아라 도리줌치 속에 배암 잡어 넣어 놓은 것같이 생긴 것이 인사성은 밝네 나는 ㉠<u>이 산중</u> 지키는 호 생원 어른이로다\n자라가 호랑이란 말을 듣고서 겁짐에 바로 일러 나는 명색이 자라 새끼요\n[중모리] 호랑이 ⓓ<u>반기 듣고</u> 얼시구나 좋을시고 내 평생에 원하기를 왕배탕이 원일러니 오늘날 만났구나 맛진 진미를 먹어 보자 으르르르앙 허고 달려드니 자라 듣고 깜짝 놀래여 아이고 내 자라 아니요 이놈 그러면 무엇인고 내가 두꺼비요 두꺼비 같으면 더욱 좋다 너를 산 채로 불에 살라 술에 타 먹었으면 만병회춘 명약이라니 너를 먹으리라 아이고 내 남생이요 남생이 같으면 더욱 좋다 습기에는 제일이라 허니 너를 산 채로 먹으리라\n[아니리] 별주부 듣고 기가 막혀 이 급살 맞어 죽을 놈이 동의보감을 얼마나 통달허였는지 보는 대로 약 취해 먹기로만 드니 기왕 죽을 바에는 속임수나 한번 써 보고 죽을 밖에 없구나 허고 목을 길게 내놓으며 네 이놈 호랑아 내 목 나간다\n호랑이 ⓔ<u>깜짝 놀래</u> 에끼 이것 목 나온다 고만 나오시오 하루 수천 발 나오겠소 대체 당신 명색이 무엇이오\n나는 수국 전옥주부 공신 사대손 별주부 별나리로다 이놈 내 목 이 모양 된 내력을 들어 보아라\n[자진모리] 우리 ㉡<u>수궁</u> 퇴락허여 영덕전 새로 질 제 일천팔백 칸 기와를 내 손으로 올리다가 추녀 끝에 뚝 떨어져 목으로 잘칵 꺼꾸러져 이 모양이 되얏기로 명의다려 문의한즉 호랑이 쓸개를 열 보만 먹으면 목이 즉효헌다기로 우리 수궁 도리랑 귀신 잡어 타고 호랑이 사냥을 나왔더니 쓸개 한 보 못 주겠느냐 도리랑귀신 게 있느냐 이 호랑이 배 갈라라 앞으로 기어들며 도리랑 도리랑 허고 달려들어 호랑이 아랫도리를 꽉 물고 뺑 돌아 놓으니\n[아니리] 호랑이 ⓕ<u>질색허여</u> 아이고 별나리 이것 좀 놓아주시오 이놈 잔말 말고 쓸개만 내놓아라 호랑이 그 육중헌 놈이 자라에게 매달려 애걸을 허는듸\n[중모리] 별나리 전에 비나이다 나는 오대독신으로 오십이 다 되도록 슬하 일점혈육이 없소 만일 내가 죽게 되면 선영에 죄가 망극허오 차라리 내 왼눈이나 하나 빼 잡수시오 이놈 잔말 말고 쓸개만 내놔라 여기만 놓아주면 당장에 쓸개를 드리리다\n[아니리] 별주부 가만히 생각한즉 쓸개 주겠다고 놓아 달라는 것이 얼주검이 된 모양이라 꽉 물었던 호랑이 아랫도리를 슬그머니 늦춰 놓으니\n[휘모리] 호랑이 몽그랏다 후다닥 뛰어갈 제 급한 난리 화살 닫듯 조총에서 철환 닫듯 오림에서 조조 닫듯 산을 넘고 바다 건너 홀연히 간 곳 없네\n[아니리] 전라도 해남에서 냅다 뛴 놈이 의주 압록강 가에서 숨을 내쉬고 한편을 살펴보는데 남생이 한 마리가 뾰쪼롬허고 내다보니 별주부로 알았것다 에끼 저놈 그 새 저기 쫓아왔구나 게서 또 후다닥 빼 놓은 것이 함경도 ㉢<u>세수람 고개</u>에다 덜럼 올라앉어 장담을 허것다 내 용맹이나 된 게 여기까지 살아왔지 잡놈 같았으면 하마 그놈 뱃속에 굳었으렷다\n- 작자 미상, ｢수궁가｣ -"
+      },
+      "questions": {
+        "q18": {
+          "type": "choice",
+          "instructions": {
+            "문항": "18. 윗글에 대한 이해로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "사슴이 호랑이에게 대책을 구하자 호랑이는 거드름을 부리며 다른 동물들에게 발언하게 하였다.",
+            "②": "호랑이가 자라의 외양에 주목하여 관심을 보이자 자라는 호랑이보다 먼저 자신의 정체를 밝혔다.",
+            "③": "자라는 자신을 해치려고 드는 호랑이에게 목을 내밀어 놀라게 한 후 도리랑귀신을 들먹이며 맞섰다.",
+            "④": "호랑이가 쓸개를 주겠다며 놓아 달라는 것을 듣고 자라는 호랑이가 얼주검 상태가 되었다고 생각하였다.",
+            "⑤": "호랑이는 남생이가 내다보는 것을 보고 자신이 매달려 애걸했던 자라가 자신을 쫓아왔다고 생각하였다."
+          }
+        },
+        "q19": {
+          "type": "choice",
+          "instructions": {
+            "문항": "19. ㉠～㉢에 대한 이해로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "㉠은 공동의 문제를 해결하기 위한 모족의 노력이 나타나는 공간으로, 이곳에서 자라와 호랑이의 화해가 이루어진다.",
+            "②": "㉡은 자라가 자신의 내력을 소개하며 언급한 공간으로, 자라는 호랑이와의 만남을 예상하고 이곳에서 이를 대비하였다.",
+            "③": "㉢은 호랑이가 안도감을 나타내는 공간으로, 이곳에서 호랑이는 살아남은 것을 자신의 능력을 넘어서는 뜻밖의 행운이라고 여겼다.",
+            "④": "㉠은 자라가 자신의 행위로 인해 위험에 빠지게 된 공간이며, ㉡은 자라가 위험에서 벗어나고자 언급한 공간이다.",
+            "⑤": "㉠은 호랑이의 지위가 다른 존재의 발언을 통해 확인되는 공간이며, ㉢은 호랑이가 다른 존재와의 비교를 통해 자신의 위엄을 부정하는 공간이다."
+          }
+        },
+        "q20": {
+          "type": "choice",
+          "instructions": {
+            "문항": "20. ⓐ～ⓕ에 대한 설명으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "ⓐ와 ⓑ는 각기 다른 주체가 예의를 갖춘 상대의 태도에 대해 보인 반응이다.",
+            "②": "ⓑ와 ⓒ는 동일한 주체가 상대의 당황하는 모습에 대해 보인 반응이다.",
+            "③": "ⓒ와 ⓕ는 각기 다른 주체가 상대의 말이나 행동으로 인해 생긴 위기 상황에서 보인 반응이다.",
+            "④": "ⓓ와 ⓔ는 동일한 주체가 자신의 숙원이 성취될 수 있음을 확인하면서 보인 반응이다.",
+            "⑤": "ⓔ와 ⓕ는 동일한 주체가 상대의 예상 밖 제안에 대해 보인 반응이다."
+          }
+        },
+        "q21": {
+          "type": "choice",
+          "instructions": {
+            "문항": "21. 다음에 제시된 선생님의 설명을 참고하여 윗글을 감상한 내용으로 적절하지 않은 것은? [3점]",
+            "선생님의 설명": "｢수궁가｣는 우화에서 판소리 사설로 발전한 작품입니다. 동물들이 인물로 등장하는 우화 속 세상에 청중의 현실 속 다양한 요소를 중첩하는 방식으로 이야기의 변모가 이루어졌어요. 이로써 부정적 면모를 지닌 다양한 인간에 대한 비판을 드러내거나, 현실감을 부여하여 인물이 처한 상황을 강조하거나, 현실이라면 불가능한 상황을 가능한 것으로 과장되게 표현하여 청중의 흥미를 높였어요."
+          },
+          "criteria": {
+            "①": "‘사냥개’에 대한 토끼의 평가에서, 현실에서 사냥개가 사람에게 길들여진 것을 우화 속 상황에 중첩함으로써 강자의 환심을 사 이익을 얻는 인간에 대한 비판이 드러남을 알 수 있군.",
+            "②": "자라가 ‘동의보감’을 떠올린 데서, 현실의 의서를 우화 속 상황에 중첩함으로써 명약을 탐하는 속내를 지식을 내세워 숨기는 위선적 인간에 대한 비판이 드러남을 알 수 있군.",
+            "③": "‘포수’에 대한 호랑이의 태도에서, 현실의 인간이 지닌 힘을 우화 속 인물들의 위계질서에 중첩함으로써 권력자가 상대에 대한 두려움을 보여 위신을 잃는 상황이 강조됨을 알 수 있군.",
+            "④": "호랑이가 ‘선영’을 언급한 데서, 현실의 윤리를 우화 속 인물이 내세운 구실에 중첩함으로써 자손의 도리를 말하며 곤란한 처지를 벗어나려는 인물의 절박한 상황이 강조됨을 알 수 있군.",
+            "⑤": "호랑이가 ‘해남’에서 ‘압록강 가’까지 뛴 데서, 현실의 지명을 우화 속 공간에 중첩함으로써 실제라면 단숨에 닿기 불가능한 거리를 이동하는 상황이 과장되게 표현된 것임을 알 수 있군."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#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-skm-QxM0gEURJu0pcYUW1eN9EACMTKJAC7nYAT9qFyjD4IAChnWzbiAoAHzHAAQTYcY5gxjmAB8+8SeJntkrex90r33AApje2XsogmIPetMKKxgBS8b6IF00KK1hGT22jhDuCGxolZD50r1XqidAe5N1sp0+DB2tIAAJrjikZWK7N1y2ugOUABrNfm5sLfp1YW2LJABlTYABtn7sExMoADHWZbOMAL1dVhADx7WJTi1RACnTXwQAD202G62JmNpsgHbkACprcbADXTS1aqxg+CAAKZ9qfBB85i1iPiqFVJ8tSxC0QAGI2dEGWJQALjU8r4IAATXAAPow2Gi9JiQuQ9zB1svlGzpxH4AUYaxKABe2kHxwvDWj4IAVVHqcPz4EiEfgAKIZaFkIADZDnQxsgAHcstC0SAAty-yNGIAA7NfAlqyikYawKIgADf2AA9U4ADYdM6gE1Q-ILIQal4gAMqOAAao7IheqtGSnJNXGtFCIAMtToIhW-ymkJggACG18D15N667xLpJ8CeSAC9Nb5IAEZMnMNYeIt47Qs4KCBgYk4cgAP+18AqatiACSo2SPboAC9NiOsiQEgAlWOACfnRrnwKRtpJbtomWrRIwWWsCGSmuCQWyoMJGNYGSoAMI9YSfAgAzrVOSADsHfugALR8CACJ45CjpIAIMDAQgARv9sZIiADG-3wL4YkOgMkMQCABAAgKgDQBAAwEgCwOwJwNIAIEIAAI5FDaD5GyBCAMAACeEAcACwFAAAFqgFABQLUcQOkAUSAFAOgEgAwAgFQBQAwGgN0aUe0eUSAHoIALarCwRQ4wfAgA6OMNB9BCSmyHCNiXiACAE1hIMGWoAFKjCSYQAA-AkbIHwKkKMUIBQAgFAAwIgFAGACMTICcUIIAAYkCwBwxwFk4OQkYoLQBygwkKFksYcYKKgAIZ0tCOBrDZjVCRQURdA8jg4nCAAdo4MNpIMIjNUJMG0Y8WMYAIYkCwlCBKPggAHmOux9DWgEiDCwSAAAtXBLFIcJCuAtUr6PyGJIADxdq0wMFIPggAqBO-qmi5KAAoaxiVMKMR0YAEYkCwjJnJLQjYekQsnQKKTJhw4Oc6WQL0ZI8CrY2kpsnEo2zWlG4Ihw2Y8agADIPClYknEdGADGJPieTKVqaNaB+tUNmCHoimHpNN0gSkqSiJHlHnwCEYADsLKIlwDkQe6IrIaJ5p0wlpcggAJiS2mHCxiWoohZB4ErixTVi2KQ7Q7w4qhp6tJVgUgtAMGFZhm+6RmYmjHJDpBnEzAgDFEACcDxTxIAVRNRdRjRzRrR0ZYxXRPRfRAxQxSAzZlpQgkx0xDZsxvgxQQhSxKxax3+9ufAmxpsq4RxIAVZPZHRlx1xtx9x2AUgopcgrxB5QgvgEQiGGaHmb4pojYgADTW3J8CAAg46bHuD4AWGRscIFNKhBohs8BeAEIcLSCPuAuRBZD4D3o2PKI+vYFGUeUIHiaeSAExhEAWVyeRi0PaLOIMNmIidGqbH+QBV6W0qRD4AxOnC0IABBjIRYiQFI+hwpoQk9KFZIp2J4pCwQhEQBJGQ3kOavU0qWQsYhF54gFwFJggJdEoI6cCSLQhZPggApU0UZ8DL42BGCxiADc7WOj4EfIAC1jbMnQvYgAPTVwVsVyA2lIXnkEoohyV8BHxPmXiPDNhPmAAbq30IAAZ9MQ2kpGf5RpAQKFVlz5rlJggA6T02CBTtCQp4UEWvAmUxlCDxkWVcW+g+AxBPkojQl8CAAuE4ADXjPgSJLQ7kzYgAqmuPCXBCWvCZgBCcVtLpWRQ5WkV8D0qAAKtaaIVZyT4E+S3OCdyYMOVTjpWdidWTILWR0YUaUAAAwjkdFtmtGSAXGdktGsUtl9m9H9GDEYDDkHllEtnjlIUTWzGBDFAHZzl8AFTjIARIhLkrmTSHHHGyAjVjE7k3FXH7mSDbVjEnlzUgCBDkSQKxjsg1CRTWi-ooiUVeCmiwjqohFCQ+ABneRLHNj8iPB8BcyACK4-1UtaOSAIhV9ZAuRAYrGBRGaKbMDSiNDT4FYoAJZrvVO49qCNLYyNaNGNFpWNEpSFBi5EB2-1UIGVpN-pMNQYhhR8FEAEjl6IaST5UIIRlNI+SNKN6NsVWN5lX1ay5Eh6hNxNNoIN7VfAgAmEM6DHBZLVqAAELaxHwJKLUC0CVYMIKCYHLUzYrS2QlV9YepzRrSTdreTXwNRXwGOmJhkPTfbQrQNScUNSkD2UUeUFNXIDNR2U0YtSzR0StQOetcMVtfBeMVMXtfgLMXUH0G+MMKRjtHqKdeMi0IABwzJYsECxLQWaIRpsWQOhAEmx2xfAexN1BxfAeQAAzEzhUJjS2cXT4GdQsJEYhDEbGOmD3iPoAAjLF8V4BUl4JwxcpsARgAEStbxMgYmURwkZJdCXghD2401T2hJ8A1ghF9CAC1M0sD4IACBrgAJ0On3VCuymzzL2imhLCEw00ihPgASHCAA+o6ID4IAAM9Kw0FNghCNg8ysxjSw6jg3J6xfAgoKwpoMQgAM001Av1PDPAnX0oz0tAooWhZBxiBQBAP18WOC9iUlPBdDHBMymzS0tAPwVSDAkNkP31szCi1RIjyUMOU0tA8OrkASAA-NfbpcNpMILfdQ9fT4IAKbroKfAgASY2IxQMh33VblyBPV7nR0dGfVyCAAYBHxIAJgEJ13YPg9MP+Rg7DI+fEKIN44O86PIvYDgy4LQJ9IS-pMtfAn9nkF4w6D8VYPg7UtJV4HEgAruMtCADdo7GC8LgzPccIQxRXwEQWbZKIAA61mJGjHRONcgrS+jGa2aRjLQgABa0qaAANnXwLAVY3wA-T4F4EYKaO45430D434xqpqi0IAAsLNNISWQqDT4ABNYvwv+tMz5W0iDsTP6pseDCTFoSTKTeI5tGTA9YxbNX1+jaUJjUzbSsN8N1TtT2Dxw6DfAgAGetuM96n2PBwkdV7TCZGAtOEy+PnjDqAAxtWRiDPzSdQmELBgrFLBE+UWXwIAMHjsY0txwzDgAFC0tALNLOZMZ3K1yAEn6NC5FN8BRWVP7P30+CAAk4w7E01cyrDWDpXwAcvfQ8088OlWGhj4JnoGDhXwIACc17SpsTMMQpooVgUQsMTXQPgWEgAqD18PgsVRQvJOpPLOJ1jHO2It2n6NX4mMmD6Mf5f5IhGNmF8CP5VPsMpVl3JYXMeN-nkttP31vitjCiAAXTb-n0IAP9NUI3DvD8YDshwd8oLlNxwoj4jfAkjpGy4yooriz6TajKQNZvASRJASAcAAANnAAMXAKQAALKoCkCRtIDYB5AgAABWcAuAvhEbYANxPRIAFQyQQAA"
+  },
+  {
+    "id": "공통_22-26",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "문학",
+      "원문_쪽": [
+        8,
+        9
+      ],
+      "문항": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+        },
+        "안내": "[22～26] 다음 글을 읽고 물음에 답하시오.",
+        "(가)": "두고 온 것들이 빛나는 때가 있다\n빛나는 때를 위해 소금을 뿌리며\n우리는 이 저녁을 떠돌고 있는가\n사방을 둘러보아도\n등불 하나 켜 든 이 보이지 않고\n등불 뒤에 속삭이며 밤을 지키는\n발자국 소리 들리지 않는다\n잊혀진 목소리가 살아나는 때가 있다\n잊혀진 ㉠<u>한 목소리</u> 잊혀진 다른 목소리의 끝을 찾아\n목메이게 부르짖다 잦아드는 때가 있다\n잦아드는 ㉡<u>외마디 소리</u>를 찾아 칼날 세우고\n우리는 이 새벽길 숨가쁘게 넘고 있는가\n하늘 올려보아도\n함께 어둠 지새던 별 하나 눈뜨지 않는다\n그래도 두고 온 것들은 빛나는가\n빛을 뿜으면서 한 번은 되살아나는가\n우리가 뿌린 소금들 반짝반짝 별빛이 되어\n오던 길 환히 비춰 주고 있으니\n- 이시영, ｢그리움｣ -",
+        "(나)": "감나무 잎새를 흔드는 게\n어찌 ⓐ<u>바람</u>뿐이랴.\n감나무 잎새를 반짝이는 게\n어찌 햇살뿐이랴.\n아까는 ⓑ<u>오색딱다구리</u>가\n따다다닥 찍고 가더니\n봐 봐, 시방은 ⓒ<u>청설모</u>가\n쪼르르 타고 내려오네.\n사랑이 끝났기로서니\n그리움마저 사라지랴,\n그 그리움 날로 자라면\n주먹송이처럼 커 갈 땡감들.\n때론 머리 위로 ⓓ<u>흰 구름</u> 이고\n때론 온종일 ⓔ<u>장대비</u> 맞아 보게.\n이별까지 나눈 마당에\n기다림은 웬 것이랴만,\n감나무 그늘에 평상을 놓고\n그래 그래, 밤이면 잠 뒤척여\n산이 우는 소리도 들어 보고\n새벽이면 퍼뜩 깨어나\n계곡 물소리도 들어 보게.\n그 기다림 날로 익으니\n서러움까지 익어선\n저 짙푸른 감들, 마침내\n형형 등불을 밝힐 것이라면\n세상은 어찌 환하지 않으랴.\n하늘은 어찌 부시지 않으랴.\n- 고재종, ｢감나무 그늘 아래｣ -",
+        "(다)": "천지간에 만물이 소리를 내게 만드는 것은 무엇인가? 초목은 움직이지 않으면 그 자체로 소리가 나지 않으나 바람이 불면 소리가 난다. 그런즉 초목이 소리를 내게 하는 것은 바람이다. 금석은 때리지 않으면 그 자체로는 소리가 나지 않으나 물건이 때리면 소리가 난다. 그런즉 금석이 소리를 내게 하는 것은 물건이다. 무릇 크고 작은 만물이 소리를 내는 것은 또한 반드시 그렇게 만드는 것이 있다. 사람이 세상에 태어나면 안으로는 오장이 있고 밖으로는 형체가 있지만 그것만으로 어찌 소리를 내겠는가. 기(氣)가 안에 쌓이고 밖으로 드러난 뒤라야 소리가 나는 것이다. 그런즉 사람이 소리를 내게 하는 것은 기이다.\n소리는 한 가지가 아니니, 쓸모없는 소리가 있고 쓸모 있는 소리가 있다. 재채기 소리와 코 고는 소리는 사람의 소리 가운데 쓸모없는 것이고, 탄식하고 담소하는 소리는 사람의 소리 가운데 쓸모 있는 것이다. 쓸모 있는 소리에는 아름다운 소리와 추한 소리가 있다. 사람이 그 소리를 듣고 좋아하면 아름다운 소리이고, 미워하면 추한 소리이다. 아름다운 소리에는 실상이 있는 소리가 있고 흩어지는 소리가 있다. 입에서 나와 글로 쓰이지 못하면 흩어지는 소리가 되고, 입에서 나와 글로 쓰이면 실상이 있는 소리가 된다. 실상이 있는 소리에는 바른 것이 있고 삿된 것이 있다. 또 바른 것 같으면서 삿된 것도 있고, 혹 삿된 것 같으면서 바른 것도 있다. ㉢<u>사람의 소리</u>로서 남에게 듣기 좋고, 남에게 듣기 좋아 글로 쓰이고, 글로 쓰였으면서 바름에 합당하다면 그것을 일컬어 ㉣<u>좋은 소리</u>라 한다. 좋은 소리를 내는 것은 참으로 어려운 일이구나.\n최립은 좋은 소리를 내는 사람에 가깝다. 그의 문장이 비록 완성된 것은 아니지만 그 뜻은 바름을 향한다. 그러니 학업을 게을리하지 않는다면 바르게 되는 데 무슨 어려움이 있겠는가. 내가 들으니 소리를 내는 만물은 그 본체가 크면 그 소리 또한 크고, 그 본체가 작으면 그 소리 또한 작다고 한다. 최립은 소리가 크니 그 본체가 큰 것을 알 만하다. 사람의 본체는 마음이니 그의 마음이 가히 크다고 하겠다. 내가 또 들으니 크게 부딪치면 큰 소리가 나며, 작게 부딪치면 작은 소리가 난다고 한다. 큰 바람이 초목을 움직이면 천지를 뒤흔들 듯하나, 작은 바람이 불면 한 번 살랑거림에 불과할 뿐이다. 금석을 치는 것도 또한 이와 같다. 사람의 소리는 기가 크면 그 소리가 크게 나고 기가 작으면 그 소리가 작게 나니, 최립의 기는 가히 크다고 하겠다.\n- 이이, ｢최립에게 주는 글｣ -"
+      },
+      "questions": {
+        "q22": {
+          "type": "choice",
+          "instructions": {
+            "문항": "22. (가)～(다)에 대한 설명으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "(가)는 계절을 나타내는 소재로 시적 분위기를 조성하고 있다.",
+            "②": "(나)는 자연을 관조하며 시적 상황을 탈속적 태도로 바라보고 있다.",
+            "③": "(다)는 글쓴이와 타인의 생각을 비교하며 세태를 비판하고 있다.",
+            "④": "(가)와 (다)는 모두, 연쇄적 표현을 통해 주체의 태도 변화 과정을 보여 주고 있다.",
+            "⑤": "(나)와 (다)는 모두, 가정적 표현을 통해 대상의 속성을 드러내고 있다."
+          }
+        },
+        "q23": {
+          "type": "choice",
+          "instructions": {
+            "문항": "23. <보기>를 참고하여 (가), (나)를 감상한 내용으로 적절하지 않은 것은? [3점]",
+            "보기": "(가)와 (나)는 밝음과 어두움의 이미지를 활용하는 양상이\n서로 다르다. (가)는 연대를 상실한 암울한 현실 상황을 어두운 밤으로 표상하고, 빛이 회복되는 미래에 대한 소망을 드러낸다. 이러한 소망은 소금을 뿌리며 그리운 이를 찾아 다니는 행동으로 형상화된다. (나)는 자연 속에서 공존하고 있는 명암의 이미지를 바탕으로 성숙에 대한 성찰을 드러낸다. 이러한 성찰은 자연물과 내면을 동일시하며 시간의 흐름에 따른 변화의 양상을 그려 내는 방식으로 나타난다."
+          },
+          "criteria": {
+            "①": "(가)에서 ‘사방을 둘러보’며 ‘발자국 소리’가 ‘들리지 않’음을 확인하는 것은, ‘밤을 지키는’ 이의 눈을 피해 다니며 그리운 존재를 찾고 있는 암울한 현실 상황을 보여 주는군.",
+            "②": "(가)에서 ‘오던 길’을 ‘소금들’이 ‘환히 비춰 주’는 것은, ‘두고 온 것들’이 되살아날 미래를 기대하게 한다는 점에서 빛의 회복에 대한 소망이 실현될 수 있음을 암시하겠군.",
+            "③": "(나)에서 ‘반짝’이는 ‘잎새’와 ‘그늘’을 함께 지닌 ‘감나무’ 아래에 ‘평상을 놓’는 것은, 밝음과 어두움이 어우러져 있는 자연에서 내면에 대한 성찰을 이어 가고 있음을 나타내는군.",
+            "④": "(가)에서 ‘별 하나 눈뜨지 않’는 밤은 함께하던 이가 보이지 않는 상실의 상황을, (나)에서 ‘잠 뒤척’이는 ‘밤’은 마음이 감처럼 ‘익어’ 가는 데 필요한 성숙의 시간을 의미하겠군.",
+            "⑤": "(가)에서 ‘빛나는 때를 위해’ ‘저녁’부터 ‘새벽’까지 길을 걷는 행동과, (나)에서 ‘짙푸른 감들’이 ‘등불을 밝힐 것’이라는 전망은 모두, 밝음이 나타날 것이라는 인식을 드러내는군."
+          }
+        },
+        "q24": {
+          "type": "choice",
+          "instructions": {
+            "문항": "24. ㉠～㉣에 대한 이해로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "㉠이 ‘목메이게 부르짖’는 것과 ㉡을 찾고자 ‘숨가쁘게’ 길을 넘는 것에는 모두, 대상을 향한 간절한 마음이 드러난다.",
+            "②": "㉢ 중에는 쓸모는 있지만 남들이 듣고 미워하는 소리가 있는 한편, ㉣은 아니지만 남들이 듣고 좋아하는 소리도 있다.",
+            "③": "㉠이 잦아드는 것은 ‘다른 목소리의 끝’에 닿지 못하고 있는 상태를, ㉢이 흩어지는 것은 아름다운 소리가 글로써 실현되지 못한 상태를 의미한다.",
+            "④": "㉠은 ‘잊혀진’ 상태이지만 다시 ‘살아’날 수 있다고 화자가 생각하는 대상이고, ㉣은 바른 것 같으면서도 삿된 것일 수 있다고 글쓴이가 생각하는 대상이다.",
+            "⑤": "㉡을 찾기 위해 화자는 미세한 소리에도 ‘칼날’을 ‘세우’듯이 민감하게 반응하려 하고, ㉢ 중에서 담소하는 소리뿐만 아니라 탄식하는 소리도 글쓴이는 쓸모 있다고 여기고 있다."
+          }
+        },
+        "q25": {
+          "type": "choice",
+          "instructions": {
+            "문항": "25. ⓐ～ⓔ를 중심으로 (나)를 이해한 내용으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "화자는 ⓐ가 흔드는 것이 감나무 잎새뿐이라고 여기다가 ⓑ를 보며 그 생각을 바로잡고 있다.",
+            "②": "화자는 ⓑ가 내는 소리와 ⓒ의 움직임을 통해 감나무 열매가 충분히 익은 상태임을 짐작하고 있다.",
+            "③": "화자는 ⓑ와 ⓒ가 감나무에서 만났다가 한순간에 헤어지는 것을 보며 자신의 사랑이 끝났음을 떠올리고 있다.",
+            "④": "화자는 감나무 열매가 자라는 과정에서 ⓓ를 만나기도 하고 ⓔ를 만나기도 하는 일이 유의미하다고 여기고 있다.",
+            "⑤": "화자는 ⓑ와 ⓒ가 감나무를 떠난 후에 ⓓ와 ⓔ가 오는 것을 보며 머지않아 새로운 사랑이 시작될 것을 기대하고 있다."
+          }
+        },
+        "q26": {
+          "type": "choice",
+          "instructions": {
+            "문항": "26. <보기>를 참고하여 (다)를 감상한 내용으로 적절하지 않은 것은?",
+            "보기": "(다)는 마음에서 기가 움직여 뜻이 소리로 나오는 데 있어\n도리에 합당해야 좋은 글[文]이라는 글쓴이의 문학론을 바탕으로, 상대의 문장을 평가하며 칭찬과 당부를 전하고 있다."
+          },
+          "criteria": {
+            "①": "‘만물’이 소리 나는 이치에서 시작하여 ‘사람’이 소리를 내는 이치를 밝히며, 소리를 화두로 삼아 문장에 대해 말하고 있군.",
+            "②": "‘소리’가 지닌 상반된 특성들이 서로 균형을 이루어야 ‘좋은 소리’임을 제시하여, 문장이 궁극적으로 도달해야 할 바를 드러내고 있군.",
+            "③": "최립의 문장이 완성된 것은 아니지만 ‘참으로 어려운 일’에 가까움을 언급하며, 그의 문장에 대한 평가를 드러내고 있군.",
+            "④": "최립의 문장에 담긴 ‘뜻’이 도리에 합당함을 향하고 있음을 언급하며, 그가 학업에 정진할 것을 당부하고 있군.",
+            "⑤": "글로 드러난 최립의 소리가 크게 나는 것이 그의 ‘마음’과 ‘기’에서 비롯됨을 언급하여, 그의 문장이 뜻을 크게 드러내고 있음을 칭찬하고 있군."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEgAPFQB8gMgJ5AemUS5gBbHAHN2AF0cA4g30CIPYBBJvoA-awC2jgEcm+gAN7AIb18AFID1RwBrjfQAZMRPkAFkj5AR5bAAXG+fR9hQAHJgEohXgEAXyIkuUAJUcAWhu0hAG0AJgLAPX+CgDYAXT5AE6bAGXG+QAA6wBFxvkBfccADmr5AHm7agz5AV6bADVXAHaHAEjGAOiE0mSE3QAAahOw5QAUWzsAKMb5AYJrAE5bAF3G+QG0+wAyGwBSmvkAZVrm+QAjx6u5eY7PzwB9OvkAQccAXVb5AGMHACDqWwAz-YAazsADl33dCABrGgWd9oAACcAgo0tQAFrYAZ5s61xOc3BgBqBwCUPS1ABotgBv2wAvPYARUcAI83gkKACN6+IMjnxADjzfEABy18fYk3YxPiAKVH2tS6YASlr6gFjBwC1A7sQXxACQ9LRigBKFk7gwA4PYAE8cAtrU-IF8bZAnm8k53XiAKPHAABrDkAlV3fIFXQAtA2TThcrrdweaHL5FEpADqrfGtQI0yj47pqgA9Ov02nyAXQaWoA+GbJ4MtgBUu3aAGJqnIAXTsAa5PVPiAMvGyYAdlqeLuN6ALxb4gEMmL2ADzHABOdgBRW7WBpSveN8QA+c4AChr4gA5BiEC3hQmF8QATA4BensAHHV8QAUQ3NABoD6cAGI3ozHgwaADKa+IAaMcAJB3kqm8QAWq4ANur4NkABi18GJjwAazXxACM99MZgAgmwAU7QajeCrIAM9opfCrHwGw7BEjxYg8LSADv9gA844ALl0mL6gARPREgAYLQ6pwQZCtp8ACgANnT8vzbHwgAYPYAu5PkU+Bz7KhNjgqMD4zoAGmuABHrfCACJ9gANs3wgA-E+iMGABNN4IALQcsMgCAYwEgBG-1YQKAANjgDG-3wwlTOksxHIskhCIACDVHIALN18IAceNjq8gAq65WqbgjYgAwM0EXqACg9gAx7a2gAL-bsgAt7ZMvC6QZxmvORuxnJZvA2XwgDhq3abmeeCZKADJ1ZyAIskXqjIAkwOAIyt1SADa1AaaEoWGAAyt1TVIAp018IAsDOdHMgAqzUJvCAAi9fB1QEwy4hEgBLJF6gC1M4AJIOABVdrZYYAPVMZhmfCAAMLnRZHuoyACSNXnoNigCJ7fsUaADUNoiADodRi1egslyfWsJ8NigA+7TE7lpLwVjWPJfDdhtfBqsdcHgjxgCcXYAhYO7IAGTOAD-tfCACdzfCABA1fCAIat2nbPN5yAAYdfCABxdOpvPdgDLJF6gAO63wmWACGdrYckO6Aw8BgChE4APuN8IAKyReoApeOAADN7G44Ae51knwJKpvNuyPrFPJHK+fD1oAn00GOCojVIAPZ0RIAN2NbB5gAznRd6A+dYm59IAk8uAIMDLSAMmN+N-tYv4BDKuxwXwgAF43wQqAJkzgA3o+CgANA-sEJnDaAHbDYLP45ORt8IAPsuAJTtfCABZ1NhHOCgAjNYAhzXdM7upu6z81XSLou3fdgCu44J4JGESclc3wKc2IABIPgodgCbk4AHivhhDAT1oAFnM5LwgCoa-XoQ0i0gC4PYACevS094J9mrEShUxgwGjB0W8Fu-e2Y4wzD6P6Cie0gA140T0mK1Y25kr+SkqcQakgG41SaXIgA5MzEgAgNX0MtdPsNqvFk6Yy5WmwRHpgDjo4AHuNzAA-HwgAQs5aERyUAIOT3I+TwWsA9QALTP3RtFcI4w9GROX2DSY2MC+CAByG6o4xrCAAf2wAkZO-0tNfIEt90yDDOE-PgiDMF8F+IAXEGIjnH1KA42V01RQKdjhOBoDGRdEAC41+xGEoJwhgrBVg8E0NoUQkh9JyERD4bsahelADhnXwQANgudEAInjERL5SL4FkWRfBAAIbb6EihZhjWEAOAd99H77FuFg7Ejl9i9z6IAHYXg7GwyDBDaZxRhU1sZ0QAaD1eLOPXCBLoYgy2sJsGWXiLy2RvnowABTWYiwaINwgBiGziFcDIfRADIw7sQJsTCxEjQebY6gAfUe1LA8hCjRHiIcbou+MitgRFELU8ENozi+jmDEK4ZIBICQCIAD5HeqADHRjhLpOgjJuBMm41CF6ABEZ0Q2pAACY3wQAKvN8HaBws4DifA2j4HMQALWOAAdmvgIzxnS3aAEQAIwuAF2hwYnRAAvTd8Mh2pdmOX2TqY5ZzpkYmltQv5HCDBnDJFjaoRzVl8EACmzvpUF2KOo48BCTADHLZ0QA0RNkkGMbMFELtQFICIAD+7AAzY9imFcKgS1L4LiyFNoQV8EACdDatbGzOuJ0QAlus2BiKy6hgBQ8eMHwI4ayGj3UAA8jIDADdXWSzl3Kql8FQtcvg-KTBCsaGKr2TKWVysADgt1DNUzO1PS+y4ZNj+L4IAfoHtXSzmVgwxlCTV8EAJg18ETCWq2ABNlARACcaxaq1mwnUuvte6m1fBABGTF6PZLZcpbT4IACoaDDphRcs9Fir42JuTczEVfBxWKqzaKwAAGOBvsljPogBLVf5oMaoLDNgtBJoAG7m3aAGMmL06KIg2lbMdPg3pqGtu1LfAxgAOGdiTYPckKSa7EykceagAdWcAL2dERe0JP0YivocxAC6ddQqwPg9B+I4oAXQ6+CABExwAjIN+oiP0iJ4DADc7REYtLRAClq920RRIBJ8EAJqrgBR0ZaKmJoQIh58iNMbeyGZ0yoTOGcvSgAKoYvHuOStjklzCwVkK42xBJ9r0WcS+EQrqAA+esJaiWHaiMb6dRARcP4Y0WAq6BzjF8A0dUToT6+BzrbThVRr7yNXEAA4LWwWiABlRvgMtK32M+XwPDZx6y1F2Bxnwkn9hzDYqohj9JEnUOQ0Y3UaHVHpkcIAKlbAAac8bHjqCjgggCBonTBnjZaLlRgxj1CeOIIIS0IBXsT6vCFKZYigB7loZOZ29SLkFdr4EhPgdpFqAAca0WfQaSAB+awABqt8DctQuhLR9PkIArR3YazHXUMjZ0vgogriqMI6g7TgrOhFbo1RuVFnBWDOY7OnwogzgKbUcpwYqn5qiV2LsaSc6E28TOA0LeiR0DJGICACACBUA0AgAwJALB2CcGkAIIQABHIo2hVuyCEAwAAnhAOAuQQAUAABaoCgBQY7O8ZBrZAFAdASAGAICoBQBgaAnvbfSLIOQehAC2qydooWD5hxGKPvOIfQaa+m6oAUK7YlzCpnwQAgBOAAgJ30T9P5jd+6kH7cgKAICgAwRAUAwDfbu7tkAgADEhO6Ds4odUctCOGNZd3wF73WGMjvgzg3iiFeIABwnj2PJtapCn93ACGJLTjSZw1SAAfRlogAAWv54MaUnO+Bq0AJZrLRAATC6KLnLiKT3XssdEk6JMGi9+-dwARiS04PsNwALyPZfGm-HwgBdgcAIA1LR2KAAValX-YXGvHYoABGXhd2It5boQgBjElpwsNZEOzi9WWAEWXgARwa58IQAIGstEAK2LXweIQJ8AbvggABnsACprfBYuAFQJloJIra8TN5MW7lu5CABMSKXcQ49274IngIcxK-p6z3wXPfAaZqx8KKY9LRilZAb9j2QyR0i45mCATbABmcnv29uHZu1pU7F2rs3emJvh7T2XtvY+xgJAG+I8gAB0D1fWD5AklEG2PgA72iDDr6DgIbgNKvG0mrL6FkIAJVjsSaO-6vIEQmOfAeQq+gACBMVDh7H7P4x4d7uDS58Cty1CxYXjLByQ+C7CEoxCvCAA6a8AW8oAImjzKGc901QGY1CdOfAsuNMrwasDKvogAKqOAAdY76BngyurlrrgZCjKLEsIGrI8gENRHwIADFrgArz1gZ8CEq-hQ5wqAC7nVPkSIAB0N1CuwRIahba-wuEoI10kKuw7YzM1QAkZwgAkauACbzbEvXGrKXrqiDhgXLnwKKAKoAK81gALhOh5nCw4cEEFEGvD2SACrC7EseoAJhDKhfAx6gADDMaHaFYK6G+gJERBy5dA4FZBwQtC2EkzDB+7DCnw+CAAK6yWnwPlOGGXj4FQS0FYHuBhnwLiHcrEsziInPikEfpTgTkTiTmTksDtsfjTksLMAsAKoABgEeIhIpIgAmATSgTHqhag2izFXATF6gGizG1AtCACqa2-G8k-AEBMXKDeEqLMRyD4K+C0IADyrXwlh0oskkKPhC87Ya4fA3BvB-BmuNedePEJwgADrWN7dHH6S6jF7zjEmATEMR8BTizEtATF-DbCzH7ATGsQcTcQ8SzGyJHFAQgRIk0QOi9hKGvCiA0yDDpjdpnBwECoHA+ByGxHfCqH7AMoZ6AAELXwIABhDNw2x7xhRiSgJSBlONuYJv+kOkJ5EyJZwExxksxayExa8cJfAZ4N4gAM018ATE+TnEbx9ATHqxaxYktIBBYE4E2B4H7A2AQhEiAAcEwanLgKjkbEQkS0LsG7HMOiDyczvogKU3jftHiKRCeqc+AyHwB+JsWcDKBEGeIMA+LsFcFyF+Orgyj4N8T-hpJMWbJbJKeqTKLMREHJnwNpL9OqXnOcXMOBnwIACKrgAKWNpFRE+DFEtBeCEqdbenAmU5t7+linqmPAXCvCfDnETEIizGOCAAMi+qZOLMTnFOC0IAO41NhthsWqZXZExZcFc+J6ptIbcncmwyJx0ZwgAIBOqERA96YFSaCpjS9imp7l8Bvx3IaFemN544L4yBL73abYAAs1+92B2R2J252l212gpQgj2z2r272n2V+gxeO92d+YJBQ75WCvgxQjasRuwHw904BBoUBYQWOIAT5bZQgvRxOhOAxkgQxlOIxu+vgKJyYaYmYWYBpmwOBVYcY7Qao6p84S45x05fAy45C9KJ5o+D6vop86OfMZ5xSHRPpIJJ2oafAgAiJP0ojJnDXCXqxp7B8BoqKGkqspdKAAdywEI2uegJGpRpVpZim8tHGHtJUKSdtRfmEWAYhMdUOGP6NGLMX0IAP9NPIUqbxasAeAQoa+wMqBiNKcqIqgAFsOMoZ6oQ+W+j+WvBNlPqCn3Z+lUURATHujnH+XciRLVDmITEOizG9hcm3CdCl5qhXAe5vKj4Ep8BGVBr+rOoIQARuqbBkylXKYNCO5VXu41XMrm42X3Ydm74sV8CxjLKfB8AVVnCEp9gUoGAAQTE9iKkTEDizHeb7CAA-3dpOSaRIAIrjgwjREhYaClAqLyllQILkkS-Sna9yl1AE3VgU5yvUcynQVsogs+eFFOz5XRu8m2AArF+XID+TvvjvvoBTZcBafmBRfl9lBWLn9oDnBQDVgoEMUOTK8PJYADdDsSoprwaFQBoB90iOKOYlmOnRfAr5PRhOxFpOwN92lFcgM1QQVw5kNSBZ+kRkY4bkx071IsVwCUrwJIDxfAHuLQ9kG0gAheNfVtkS4nYs0JRXCs5AhrJtQ+BAKAAh4znl8IrIAC+jgAJ51XCACVs84GxCnBEP5drXwIAAuTGioeg1ctcgwpu+itatVwPkAqMsq01QVw3ogAOEPnx8CAAnq1yuQjXtKGqIAAdDPgS0K0q0PJSIO4QIst0FcgaVzNaoZw+tRtD015VeAqyMrwMsRwogAEwumNgmpd5dZw46fAgABONNmVr82p2I1CAjWZ2JTu2c16SvBIilKAAja30MjGsuTFcKMOHSzNKHDDELyMzGOBtJCnHXwMMBouyTWoVmSV9U+Yvt0RtuUMDVvr+WCf+QfkBSfqBefhBQzUjUDmUI-s-q-u-p-u4AfP-oAXosTWTRAdhbhU7UICgSKV3pJgKlVkAnXlekQvdEcBPXwGctcHRLwBSECGWvzB8JUr2g0HkIAOGmFQuw15T126b60MEtERG0AQasNM26VMLQKscwfugAtnOAA0MzgfzI4K8PuQ7Y+T9QRadrTf0TfUIEzUIBMZfMiURk6LsPpgKqvS-VMY5OI0ujCPpq8K3CxGZuhqXssPdIAD0DzMO6UOXwgAC52h6tlp1CCgm74IlAirGqnq4kRWqACdS8ehpUYPdIAAe19czpgAFx02CVITGLo2PW2AA4E4UVbAEDuvsIAIG1gAn7XI6xIUiAA3Teg3wIlvZK8NPuiGY23SAC7XIHOtQ-sCemetSiZZEhMUOvdCOmOh5YcrFHJC0IAB2jgAkHUq5kbUOxF0MZNEgz43DZPN5R4nYFN8AGN8BPKAAsdeqVeuI8g6g8eA+qHjyS0209YFcJ+n0JXnYIlhvWw6Y0CeYyAB3UIFmpJY1l8sVumE6KatYD4BMZJrMTgRMaIB5SYOxIAPYdgAFC1NOtPhM3MjO7pXotDlaZPcktDMN7OU2-VU28ATYkBIBwAAA2cA72cApAAAsqgKQIi0gNgHkCAAAFZwC4DCQItgDE7PYgAVDJBAA"
+  },
+  {
+    "id": "공통_27-30",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "문학",
+      "원문_쪽": [
+        9,
+        10,
+        11
+      ],
+      "문항": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)",
+          "<A>…</A>": "원문에서 [A]로 묶어 표시한 구간"
+        },
+        "안내": "[27～30] 다음 글을 읽고 물음에 답하시오.",
+        "지문": "“8·15 이후의 비극은…… 주민들이, 그러니까 국민들이 중요하지 않은 것처럼 되는 가운데에 그 마을과 동네가 이루어지고 역사가 이루어져 왔다는 바로 그 점에 있는 것 아니겠습니까? 그게 앞으로도 그럴까요? 적어도 이 독가촌에서만은 그렇게 되지 않을 겁니다.”\n㉠<u>이 세상에서 서로 말이 통하지 않는 두 종류의 인간군들이 사는가 보았다.</u>\n“역사에 관해서 말씀을 하시니, 나는 무식하고 먹고살기에 바빠서. 도무지 그런 얘기라는 것이…… 글쎄요.”\n허명두 씨는 하품을 하였다.\n<A>“실례지만 선생께서는 8·15 직후에 무슨 청년당 일에……?”\n온 씨의 어조가 진지한 것이 아니었다면 허명두 씨는 욕설을 퍼부어 네가 무슨 사찰 요원이냐고 따질 뻔하였다. 하지만 허명두 씨는 오랜만에 증오가 되살아나서 온 씨를 냉담하게 바라보며 입을 열었다.\n“8·15 직후라? 그때 참 별의별 못난 것들이 제 세상 만났다고 착각하며 날뛰었지요.”\n“역시 그러셨구만.”\n“왜? 나를 본 적이라도?”\n“많이 보았지요. 지금도 많이 보고 있고, 이봐요. 허 선생. 더 이상 서툰 짓은 하지 마시오. 당신이 무슨 짓을 꾸미고 있는지 다들 알고 있소. 그런데 이제 당신 같은 사람들이 날뛰던 시대는 서서히 지나가고 있는 거요. 우리의 피땀으로 이룩한 독가촌을 가지고 서툰 짓을 벌이려고 하다가는 당신이 온전치는 못할 거요.”\n“나한테 협박을 하는 것이라면…… 그런 협박은 하나도 무섭지 않으니 어디 한번 해볼 대로 해보라지.”\n허명두 씨는 증오를 억누르며 말했는데 온 씨도 거연히 일어났다.\n“내가 한 말 명심하시오. 당신 같은 사람이 날뛰던 시대는 서서히 지나가고 있다는 것을.”</A>\n그러고 나서 온 씨는 가 버렸는데, 독가촌 일대에는 금방 그 소문이 돌 대로 돌았다. 온 씨가 만나는 사람에게마다 ⓐ<u>이야기</u>를 퍼뜨렸기 때문이었다.\n허명두 씨로서는 마지막 안간힘을 내어 그가 일으켜 보려는 이번 싸움이 과거 어느 때보다도 어렵다는 것은 알고 있었다. 그리고 온 씨의 말이 단순한 협박만은 아니라는 것도 알았다. ㉡<u>그러나 그렇기는 하지만 명분이나 사리의 옳음이란 것이 싸움에 무슨 필요가 있단 말인가.</u>\n이러한 사단이 벌어지게 된 것은 다름이 아니었다. 아무도 거들떠보지 않던 심심산골, 불모의 황무지였던 이곳 독가촌 일대가 하루아침에 각광을 받는 지대로 둔갑이 되었기 때문에 생긴 일이었다. 특히 독가촌은 오늘의 달라진 인문지리의 환경으로 따져 보았을 적에 고속도로와 접속이 되게 될 교통 요충지가 되었을 뿐 아니라 관광지로서의 좋은 조건을 모두 구비하고 있다는 것이었다.\n[중략 부분 줄거리] 허명두는 온 씨와의 언쟁 전에 있었던, 외부 기업 측으로부터 독가촌의 주택 매입을 요청받은 일을 회상한다.\n행정 당국은 지목(地目) 변경은 해 두었지만 서류상으로는 그 모든 가옥들이 무허가 주택이나 다름없었으며, 따라서 집들의 매매는 권리금에 다름이 아니었다. 물론 불하를 내게 될 적에는 이미 지어진 집 임자에게 기득권을 부여하게 될 터이었다. 허명두 씨가 관청을 들락거리고 야금야금 집들을 사두게 된 것이 이 때문이었다.\n그러다가 그는 ⓑ<u>소문</u>을 듣고 찾아온 온 씨와 만나 언쟁을 벌이게 되었던 것이지만, 온 씨가 무슨 이야기를 하고 싶어하는지 모르는 바는 아니었다. ㉢<u>전국 각처에서 찾아든 사람들이 이곳 독가촌에 정착하여 그럭저럭 안정을 얻을 만하게 된 이즈음 이곳이 외부의 자본에 의해 관광지로 돼 버린다면 도대체 이 사람들은 또 어느 곳으로 찾아들어 가 얼마만큼 방황을 해야 한다는 말인가?</u> 그러니 두메산골이었던 곳을 피땀 흘려 오늘의 독가촌으로 개척해 온 이곳 사람들이 이 마을을 지켜야 한다는 것이 틀린 말일 수는 없는 것이었다. 더구나 농촌 부락으로서는 어느 정도 자립할 수 있는 터전도 굳혀 놓은 게 사실이었다. 온 씨의 주장은 옳은 것이었다. 허명두 씨의 입장에서도 그것은 부정할 수 없었다. 피땀 흘려 가꾼 땅이 도시의 온갖 잡것들이 논다니를 치는 관광지로 되려는 것을 어찌 귀농 개척자들이 가만 보고만 있을 것인가. 하지만 그런 사리만을 가지고는 모자라는 것이 현실인 것이고, 그 모자라는 부분을 채워 놓고 있는 게 무엇이겠느냐를 따져 보면서 허명두 씨는 웃음을 짓는 것이었다. 대한청년단 시절의 일하며 화랑동지회의 체험들을 그가 요 근래 부쩍 회상해 보는 것도 그 때문이었다. ㉣<u>명분보다는 실리를 추구해 오는 측이 항상 이겨 오고 있었던 게 아닌가.</u> 온 씨가 찾아와서 자신에게 하였던 말을 그가 곰곰 생각해 보는 것도 그 때문이었다. ‘이제 당신 같은 사람들이 날뛰던 시대는 서서히 지나가고 있다’는 말을 그는 물론 실감으로 받아들이고는 있으되, ㉤<u>문제는 그것이 아직까지는 완전히 지나간 게 아니라는 데 있었다.</u>\n- 박태순, ｢독가촌 풍경｣ -"
+      },
+      "questions": {
+        "q27": {
+          "type": "choice",
+          "instructions": {
+            "문항": "27. [A]에 대한 이해로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "온 씨와 허명두는 서로에게 질문을 하며 상대의 반응을 살폈다.",
+            "②": "허명두는 온 씨의 발언에 불쾌해하며 과거에 자신이 느꼈던 감정을 떠올렸다.",
+            "③": "온 씨는 허명두와 대화를 나누며 상대에 대한 자신의 짐작이 맞았다고 생각하였다.",
+            "④": "온 씨는 상대의 행위를 평가하는 표현을 반복하며 허명두에게 꾸미고 있는 일을 그만두라고 경고하였다.",
+            "⑤": "온 씨가 공격적인 태도를 보이자 허명두는 에둘러 말하여 상대의 관심을 다른 곳으로 돌릴 수 있었다."
+          }
+        },
+        "q28": {
+          "type": "choice",
+          "instructions": {
+            "문항": "28. ⓐ와 ⓑ에 대한 이해로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "ⓐ가 형성된 과정은 ⓑ가 주변에 전해진 것과 무관하다.",
+            "②": "ⓐ가 처음 퍼진 시점은 ⓑ가 처음 퍼진 시점보다 앞선다.",
+            "③": "ⓐ는 ⓑ로 인한 인물 간의 갈등을 해결할 실마리를 제공하고 있다.",
+            "④": "ⓐ가 주변에 빠르게 확산된 것은 ⓑ가 거짓으로 판명되었기 때문이다.",
+            "⑤": "ⓐ에는 ⓐ를 처음 퍼뜨린 인물이 ⓑ와 관련하여 찾아가 만난 인물에게 확인한 내용이 반영되어 있다."
+          }
+        },
+        "q29": {
+          "type": "choice",
+          "instructions": {
+            "문항": "29. ‘독가촌’에 대한 설명으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "고속도로가 연결될 것이 알려진 후 외부 사람들의 관심을 받게 된 곳이다.",
+            "②": "허명두가 지목 변경으로 기득권을 부여받고서 집들을 사들이고 있는 곳이다.",
+            "③": "마을 사람들이 농사를 지어 왔지만 여전히 경제적으로 자립하기 어려운 곳이다.",
+            "④": "온 씨가 마을 사람들과 함께 농업 중심의 기존 생활양식을 바꾸려 하는 곳이다.",
+            "⑤": "관광지로서의 좋은 조건을 갖추게 하려고 마을 사람들이 피땀 흘려 노력한 곳이다."
+          }
+        },
+        "q30": {
+          "type": "choice",
+          "instructions": {
+            "문항": "30. <보기>를 참고하여 ㉠～㉤을 이해한 내용으로 적절하지 않은 것은? [3점]",
+            "보기": "윗글에서 서술자는 부정적 인물인 허명두에게 초점화하여 그의 내면을 서술하였다. 이를 통해 허명두가 자신의 생각이나 경험을 일반화하거나, 주어진 상황을 주관화하거나, 상대의 생각을 헤아리는 모습을 보여 준다. 이는 인물의 생각을 타당한 것처럼 보이게 하지만 한편으로는 상황을 자신에게 유리하게 해석하는 인물의 태도를 드러내어, 서술의 이면에 그 부정성에 대한 서술자의 비판이 함께 있음을 보여 준다."
+          },
+          "criteria": {
+            "①": "㉠ : 인물과 상대를 ‘두 종류의 인간군’으로 일반화함으로써 상대와의 인식 차이가 좁힐 수 없는 것임을 드러내어, 상대와 소통이 어렵다는 인물의 생각이 타당한 것처럼 서술하였다.",
+            "②": "㉡ : 마을의 상황을 ‘싸움’으로 주관화함으로써 상대가 추구하는 ‘사리의 옳음’이 싸움에서 이기는 데에 유용하지 않음을 드러내어, 인물의 생각이 타당한 것처럼 서술하였다.",
+            "③": "㉢ : 상황 변화가 ‘안정’을 위협한다는 상대의 생각을 헤아림으로써 변화의 부정성을 인정하면서도 무엇이 변화의 원인인지는 달리 보아, 인물의 왜곡된 시선이 드러나도록 서술하였다.",
+            "④": "㉣ : ‘실리’를 추구한 측이 언제나 우위를 차지했다며 과거의 경험을 일반화함으로써 현재 상황에서도 실리가 우선되어야한다고 합리화하여, 인물의 생각이 타당한 것처럼 서술하였다.",
+            "⑤": "㉤ : ‘그것’이 지나가고 있음에도 ‘아직’은 유효하다고 주관화함으로써 현실의 변화를 인식하면서도 기존의 선택을 고수하여, 인물의 자기중심적 태도가 드러나도록 서술하였다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEgAPFQB8gMgJ5AemUS5gBbHAHN2AF0cA4g30CIPYBBJvoA-awC2jgEcm+gAN7AIb18AFID1RwBrjfQAZMRPkAFkj5AR5bAAXG+fR9hQAHJgEohIl5ZOXkAQVUNDO0hfWM+AG00gF1AHQ6+QDZumz5hQB2hwB1VvkAbWsAQGqFkvgBfJJkhQAlRwBaGnJACgCYAdkA9f4BmAAZivkATpsAZcb5AADrAEXG+QF9xwAOavkAebuWDPkBXpsANVdrAEjGAOkSOoRi9YcAcAgAOAHb8AFY+QBdxwAjaz5ACJ9gE-asIqFR8QA-E4Af7sAJy1-AJWQA37YAJpsAMnV8QC2tQi-nxAIiTgBSx84xPiAKVGIoBgmsAGTOAH-a+IAMFsAKU18QAANYAWscADs0nKx8QATnRtAD81fEAm82AEka2f9ABcdNhi+0At6OAGoGpX9ZYAOCb4gBUxxaswAoPeU+YAECZOgAjx1lUviAEVG0YACmsArUOYgD81kAMTV8DyAHnHSoAR5usgBf2jFEl2AQAmbH78YBR5rZgBhZ4yAGc6IlZAOAd7sZZPJW0AgTVoxY3QC4BNxeL5FEp8YAOQcAgwP5IzlQALnfjAK2LpIprMACi18QChE4ANTp8gA9xlqAB1rEXwlcypYAXnsAGqN5jRaXgvZUnQAAtYAXVZMdcAAKNbS5ogKADIbWYAWbsAu0PnfaATi7doAWgdEJz1gAM+ow3Pg+o9kqyAB-a+IAM0dEgB92i0-khdZABDhokCyLdBAAnVwBQro7QAKUdZc5AAiVndAAAxvMoPSJQXkAE6HAAEOmJ4z4QACQcAXYHAA26oxWU+H4+EAQcmAROI9AAqhvhAFqZwARRsAT6a+EAH3GDEhJ1C14QAKMb4BCfBsQAHCalOwYkaKl8RtQAJ0cWQAXLr4ODENZQBUscAEkGtkAH2XHGqSU+DY0dAAYZvgiR0P5AAWG-ZAAZWwAJyb4QAVvvOTCX1JEidMk1krkAHPb4xOQBcyauKVGWvK19xMCSEMAH06+EASYbABem853T1f8J0ABy6+EAUPGtkAF9H1LuBc6N+Jj-xdKxABlWvhAA4ZvhABGerw2r4QBursAHIa+CpEdABwJvgqz4eNABqGxZ9kAShnAEAa85CsAAobAAe21SYgg0T0EXWprBRQALQaaeNIIXQAdMZdfdUsAD56+BDP5-x9ESoJeQA5zvxacNpfGJAAg6v03r4Cd9lNXYAj+QAEXog7SyPIl9ABVm-5Kz4IxAAYlvhAGXJiIW35a4Xx4wADofxKy0a2QAO+sAD+6geZMlFnhPhABlRoHABjBl8vy5f4RvxvhAEwaiIlUAGPaR1WwANZr4WpAABm1kjCMQAI9b4GJ9zZSm+EABxrIcABrHABrOnxAB5VwABVu9f5AEuOxpoxjLY2XlJHUeJvhABiev5ABIO-ZzkWNlWXx-ExMAEAnAA051lusAA1WVc25793qQAZRb4QBENcAVB6dyA-8NJAr9o5jzH9z9I9AFpBjNPTRPgbEAFFa+HqQAInr4VdAB+evgxfKVcJ3-GITpg+Cgr4KLUsAVtHABAmwAXTsKutAAjV5k2aSv1lcAB9HZf4mwpsq7aBilRo6z4WDABuhy5bj4TmedHPn8WF0WJaRmW5YVoHdQGjYCyyJQoNRfYEr4JLWSlQAQnsADg6R4CU2BLFgxWTfUAJQ91g+CMz0PiQAM8013KJAmcL4kpSnjIePeBhXT8kWEEUsfxAA+o6IOcShUrGUABTtH9RB8AahAiqUFAoIVKDRAUMRACTnXwPoLRAAZ61sAY1QrBSn4p6QAOPMAwdqyP45dAAfQ4AAbH8RCmVgXQACU0UInIsP0NhACsHZfKkEQGZ8FNBVawGt9hJR8A2PggALpsADhDjRY6JmtGiQCA0-R03gXwQAhkyllRPuawyZRDIWIqvZwfwvFKi1nwQAzGPLD+IAAPaBr4ikSxdigARVaJFKU0Zi+B1j7GyG4BCoJ-BRI0JUZj8S2zlO6QAOC0DQiIsQAIZ0qTRPoq0R5x7wkAAWtE4MwizXmvQADQOAAuagIgAI3sABVdPhACWa++dCIs-iAGeavgv9+JiylOcaUVpAAWcycOagBEWq2IAbB7WQxFrnwQAKi2AEQa-EjJVLkMoSccigAWOoEn8fRgBOpdlqbCIVxAAZTT4QAN03-gcH2PQMRQmAA01wAvTUGxcpqacWwQwnF2IAWMGfSlEAAJjfBACIEwii57pAAELXwQACrWNjsoAStmYgxVUlsQAC-12P-HwZcWyYj0J8IAaImIgyUAC41WxhkdiaMCc8ujNFPKwrwAoBJACt7U4Vw5hlYawWDpVkSUUU+EAB2jgBB8b4F7M0qkhYBEAB5jjg+CiEAKOjfBACEc96RwgAGRfmbGHw0JAC7C3wQAJ50lTshxXZER+JbEADFrlZ6jCvQIASNXACoE9vbEEQYiAEqutwgAGdUAHducQ+CAAGesFERVx8DbOtEiRhuyVm9KyPkwzAAHLeyQApGMjiPNBKUDqglLBqYAMdHVKenygEFy-4TCAEXJ+EPgnVOtZIAGNqNbfROLU+p+iDiAAMOvggzzipQGLi26AD-hkzlvYPgHa+CABDxwACeNoMNYAXZb+1bEcIAG9Hsp8DxZaoVL5aFSmXBxLY8JAC+7TK-YODvrvvXfCLYSo2wVNif8ChVCA2oldtYVkgBFklLOAghWxADHLfsQAfDNWgkoq8aXi1VbHtmmbVsTiIBEQZZdiuDRCpX5YAN6GbDnCpnwYZvd9SsjUnmPggAjJlLF7bEfA5o0nyMhkt-MRyzJtXGPgwaZrnBPdYQAt+2AAAJqTrDg1bEAN2jWx4znsqX8QAEZOrFmfifVPht1XROF4dN9LGV8EAD-NfA36AAbOzSr4xaABaZwDAmIiAAQ2hRfAZkG2Q-CaoUpAA9o-yeMgAfBb4EAsZWxVw4JLpfTJbInQEL2vnNsgAVLv6U8kWMyth6z4IADXWHZ8C+T4U2BtAA4NYATJn00SSEwJ-E+JBRbBiAImL-qgJ8EAANLNmMn8T4IADCHWT1qAvo2GTQvGAFjGmMTgn3egYTYRRwa-TbsAL2dQc+u6NZJar2fpADOtYAADW+CAGTGiI7olR4Wvc-SSdrACl4xEMJ1ILu0J8EVa7xg-RWC0U4YNa2+CNuY7lgr7JAA99XwQAoq34h9LUHwYlABoNXwQAheODXxIAH0bFholSn7OlDLyiMhEVfAugAYGb4IAAdrxt8Eq9ukcbISKAxIqaLYVIsl+X8SnEJ8ZzbylZMM7dDjlJ8EACBreE+yxJBqA7nDiXBbEACIzgAZsaO0rd0R5ADjo38W08jHKpShQDDSJhaGskAMNjywtho2G8xsW9RuLpNqIACAmfD8UWnwQAKmuAET20UMRvU+Ec4ADdXv3WClESPggAf2sABntThACyU3wX16aJwWne0Bi7gBjJlLLBZwyjWR4Q1qlQAKbNNHTVcVkpr8SAFtVxGfxAAVNUVoGuH3RWkADNN2SkuEeQyikw268Z7p8iLOsWxeF8EAA81fe+DkTmtH2PoDKEXcABgEfwOZ425rzAWB8Voi3FpLU+8tFYCsAJgErJu-gcOFOvCgAEGoNrsq0iJdislNJ6RkARAAmTKWPQQ0C186tAxDEMRWSABExr2st5YtD4Br3sVZDZj0VnE0Dvl4AAFo+AY5AAdhYsQCEACN-3+QAWJWwVABjf74CgPaHQE6GIBAAgAQFQBoAgAYCQBYHYE4GkAECEAAEcJhtAaDZAhAGAABPCAOAYYCgAAC1QCgAoC4OIA6FoJACgHQCQAYAQCoAoAYDQAkKYJEJYJAD0CL2GAmBfCKGKBOHN3+FXHKBDGtxbEpCqSdFwJSG6CUKEAoAQCgAYEQCgDAEUJkBSCEEAAMSYYNDeVJGUoPdNyPQHcQqSsMWHwQADB7ABFca2GvEAAnlrCYQlw5QwAQxJhhvDjE+BAAcHuVROEGUABj51cB3WRE4NvfEeRQACHqRYj9FM+BWlAAaMY-jiJ6BSFEMACMSTwtuHSNFMWR3VKfcbuII-+GuRoNvHwQABcnABE8fxEAD3OmcfYYfHyBopQ0QwAYxI2ikI+BgifBA1AAQcdSkAEnltkajGofnLYUIwAV56HcdI91yYlYvVrB4w2x-x9gwVdh5i7h4imi5BAATElWKlEAFeawASpqQxhc4CfRUoJw-ht1tJ4JWQDBAANFpRAyQk3WJCLpTXi2EWEAA9OrzA2SBQAFs7+tdFqEQAlDOgOhLDegQAGC3hnDXCQB2DODuC+CBChDGjlDxDJDpDZD5CkAaSmihBVD1C3gXxAg0UIMdDGg-h9D2RrtbprclIwgzDiSEjyTaSbC7CHCnDsApBFi5APCtShBAgpRABUNcAEZBypIUYNCICDatJNE4L2VcBwKkEUI8ZcF2N41k2k5I-UkAQ0vgGkVYYyBwWoI0K0qUf0vgQM0WI0ZRD0UiBYhIlo4YQISDcoPsRoPsA4PgFoHwQACBqQgotAAGmqDjwn5Ezz4CGl+P5VNHjI+KEBWO9N9OhFtL4AfF7ndEAFU1npSpT7a0lWNGA2QABGXYJLlrkIEay+SQBviGyl1AhUpwySFusMz8QIM0VlxAAKDqROQyQX6gzL3XbLTL4AGEAEqx-EUIwAQDHGRqhqy3iSSyTWT6DRgABOXk0Q+koQyQawpkwQ+4BIoQdkqQmQuQjAHkrU5g2kgU70p8l8SfU2LfcUvgAyWCA2NkGUww+UxUkkj0uQNU+w2wzUyQMC5QvUj8kARFZFKUCeAsvFPnOmB2BwAEPgfVPebtVEvZf9GZP4ccz0lI+CKUKNZNCFcoUQQ9Y9E9XZXYTtX3JUC-DbLzTi90nUoQVo70wUZi-EcbJUVKGIaoLUfxE9X-PgMFIaEMA2Fbc4chGwB2DkOSri5Q+skiwjVSgTEUQAC1XKI+BxsTUCQ14fBRBAAXCaH0AB01wARNGTwtg9QSZCtDiOLbLRCpySKzMmU+BWU+AOUtgYcs93RzgnYBQf1F8+AAdCtAAPRsAFIOxoGKm85Uu8h4SkuYF8uQN8xk-g7894tkiQgCrk4C+q0QiCkiuYF8eQCcUQQhFqF4yTXwSYO-LYSUxoY8g2Qw4w6kBUwoaYI0YoH82skAIa4YQAdHG1gaxAACIe3VZEcGDRDD4AzOF0uPdEAAhZo0R3JEqwHwAYDSLYIwA614-4VKRsdNHSKUYYofOaWtMFL3LYfiUIh65WfcAIaENdSsSLGEZcSG6G5EnwYfLYQAE9WrQNYud7QtgJxJNAAASeYz+FZAzLRrmi2EAAGFniJSekAGP4LK-xeoQADuX811iEa2891AACcY1nPVXEAFxBw48mvgEE1KQAHZaURuEAh3qfA-gNJeQvsTT4L3rt0QQBz8Q3LdEjcAYia4jMKrCQAcKNTurdThhfA+BJAMyRRgjUpJ8Owex+whwt8DZwbHcXLvRAALYeRKVQupPD4EAAoZv4KUQAQInAAE9YJKGwGk3S2Elulp9rAUbHxHUUvhFuH3xBprpoZHeteI2onK9JItcUttyp8Hhq2EnykRdvKGhCRo9tKG9uCKlBz0OMnxCR8AiS3ziUkXyD+F8T4B5D4G5qPOMJ1rjpsACDTqBr4EzoGnppzt8jztpOUpIpY2LvhuTUdylEnz6GDS3y2C2Kjja1RsBsxqtEAB7Or2jenwU6k0rYPsYNc4HXTOFXK+yIPsPsT-PgH5DWAGK0Ceg4HwU6QAQ5rKlahSJ8RJaM5ABdDqRg+oXtatpPsrkAT2Lsnwzy32zyaEaELz4GVSGi8TVh2MDpiEHkWEKlkR8BBrBohrru9v50ABrxjmt7PgDPKUNWUiS8nBf1fYQAS1WNYHqT1-6KaM7abZ7s64HYqvjhg79UGPtO6z5N9TRjg-RJ838t8IhubAAKtZdn2BrvdsvsFx8CTW6L9sfqMD9H8p8FIntS2F2D6wkyEb4G3VEG8vOpBKlEgZ9Bgfnv1qqpkFJLwIIKQDgAABs4BZC4BSAABZVAUgUJpAbAAoEAAAKzgFwCgJCbAHsMkJAGKE6CAA"
+  },
+  {
+    "id": "공통_31-34",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "문학",
+      "원문_쪽": [
+        11,
+        12
+      ],
+      "문항": [
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+        },
+        "안내": "[31～34] 다음 글을 읽고 물음에 답하시오.",
+        "(가)": "온성이 몇 리런고 ㉠<u>우리 말이 지쳤구나</u>\n서성 밖에 잠깐 쉬어 말 얻어 먹이려니\n홀연히 소주 장사 앞에 와 팔려 하니\n그 술을 먹어 보자 ㉡<u>촌인(村人)의 솜씨 아녀</u>\n분명 관가 술일네 그 곡절 모를쏘냐\n이 사람이 술 즐김을 태수가 들었더라\n미리 독에 빚어 예 와서 기다린 지\n여러 날이 되었더라 ㉢<u>수상히 오는 손을</u>\n나인 줄 짐작하고 짐짓 싸게 파는구나\n자연히 이 소식을 바람결에 들으니\n알은체 무엇 하리 담뱃대 둘을 주고\n한 병을 기울이니 감홍로와 진배없네\n㉣<u>유심터라 이 부사야</u> 너 언제 날 알더냐\n여기에서 종성 가기 오십 리가 된다 하니\n바삐 가는 저문 길에 얼음 밑에 빠지고나\n버선 행전 다 적시고 동태가 되었더라\n이 몰골 이 거동을 남 뵈기 부끄럽다\n만인 중에 출두하고 남여 위에 높게 앉아\n㉤<u>억지로 발 드리운들</u> 그 누가 저어하리\n(중략)\n여러 달 주리다가 혹시 혹시 출두하면\n음식은 장하건만 하나나 살로 가랴\n여러 날 칩떨다가 더운 방에 들어오면\n가슴에 열이 나니 먹느니 냉수로다\n뉘라서 어사 벼슬 좋다고 하던가\n봉고파출* 쾌한 일가 형문 곤장 차마 하랴\n못할 일 마지못하니 제 심정 글러지고\n송사 진 이 원통하여 몹쓸 말 지어내니\n모르는 이 어이 알리 그 말을 곧이듣네\n고맙단 이 잠깐이오 원수는 대대로다\n괴롭기는 저 혼자라 못할 것이 어사로다\n- 구강, ｢북새곡｣ -\n* 봉고파출 : 어사가 고을 원을 파면하고 관가의 창고를 잠금.",
+        "(나)": "이 시름 저 시름 여러 가지 시름 ⓐ<u>방패연</u>에 세세히 적어\n정월 대보름에 서풍이 고이 불 제 하얀 실 한 얼레를 끝까지 풀어 띄울 제 큰 잔에 술을 부어 마지막 전송하자 둥게 둥게 둥둥 떠서 높고 높이 솟아올라 백룡의 굽이같이 굼틀뒤틀 뒤틀어져 구름 속에 들거고나 동해 바다 건너가서 외로이 섰는 나무에 걸렸다가\n풍소소 우낙락할 제* 자연 소멸 하여라\n- 작자 미상, 사설시조 -\n* 풍소소(風蕭蕭) 우낙락(雨落落)할 제 : 바람 솔솔 불고 비가 후둑후둑 내릴 때에.",
+        "(다)": "강원도 설화지를 제 크기로 ⓑ<u>연</u>을 지어\n대사(大絲) 황사(黃絲) 백사(白絲) 줄을 통 얼레에 살이 없이 바람이 한창인 제 삼간 퇴김 사간 근두* 반공에 솟아올라 구름에 걸쳤으니 풍력도 있거니와 줄맥*이 없이 그러하랴\n먼 데 임 줄맥을 길게 대어 낚아 올까 하노라\n- 작자 미상, 사설시조 -\n* 삼간 퇴김 사간 근두 : 갖은 재주를 부려 연을 날리는 것을 말함.\n* 줄맥(脈) : 줄의 힘."
+      },
+      "questions": {
+        "q31": {
+          "type": "choice",
+          "instructions": {
+            "문항": "31. (가), (나)에 대한 설명으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "(가)는 남의 말을 인용하여 목적지의 위험성을 드러내고 있다.",
+            "②": "(가)는 대구와 대조 표현을 함께 사용하여 화자의 괴로운 처지를 드러내고 있다.",
+            "③": "(나)는 가상의 존재에 빗대는 표현을 사용하여 자연 현상의 변화를 드러내고 있다.",
+            "④": "(나)는 방위의 의미를 포함한 두 어휘를 사용하여 대상이 서로 반대 방향으로 이동함을 드러내고 있다.",
+            "⑤": "(가)와 (나)는 모두, 색채를 나타내는 표현을 통해 배경 속에서 대상의 움직임을 뚜렷하게 드러내고 있다."
+          }
+        },
+        "q32": {
+          "type": "choice",
+          "instructions": {
+            "문항": "32. ㉠～㉤에 대한 이해로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "㉠은 행로를 잠시 멈추게 된 이유가 되는 인식으로, 서성 밖까지 이르는 여정이 고단했음을 드러내고 있다.",
+            "②": "㉡은 술맛에 대한 평가로, 장사가 홀연히 등장했다는 인식과 함께 술의 출처를 판단하는 근거가 된다.",
+            "③": "㉢은 장사에게 화자가 어떻게 보였을지 추측한 진술로, 화자에게 물건을 싸게 판 이유를 추정하는 단서가 되고 있다.",
+            "④": "㉣은 이 부사에 대한 평가로, 좋은 술을 얻은 것은 그가 옛 인연이 있었던 화자를 알아보았기 때문이라는 생각을 바탕으로 한다.",
+            "⑤": "㉤은 발을 내려 모습을 가리는 행위의 효과를 의심하는 표현으로, 위엄을 세우기 어렵겠다는 인식과 연결되고 있다."
+          }
+        },
+        "q33": {
+          "type": "choice",
+          "instructions": {
+            "문항": "33. ⓐ, ⓑ에 대한 이해로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "ⓐ는 감긴 실을 끝까지 풀어서 멀리 떠나보내려는 대상이다.",
+            "②": "ⓐ는 비를 기원하여 바다 건너 자연물에 걸어 두려는 대상이다.",
+            "③": "ⓑ는 바람이 잦아들었을 때 하늘에 유유히 띄워 두는 대상이다.",
+            "④": "ⓐ와 ⓑ는 모두, 임에게 보내려는 전언을 담고 있는 대상이다.",
+            "⑤": "ⓐ와 ⓑ는 모두, 집단의 의지를 실현하기 위해 날리는 대상이다."
+          }
+        },
+        "q34": {
+          "type": "choice",
+          "instructions": {
+            "문항": "34. <보기>를 참고하여 (가)～(다)를 감상한 내용으로 적절하지 않은 것은? [3점]",
+            "보기": "이 시가들은 경험의 실상과 외적 대상을 다양한 모습으로 표현한다. (가)는 장면 속에서 묘사된 행위를 통해 정서나 의미를 드러내기도 하고, 화자를 대상화하며 해학의 대상으로 삼기도 한다. (나)와 (다)는 동일한 소재를 중심으로 시상을 전개하며, 구체적이고 생동감 있는 표현을 통해 대상이 그 자체로 부각되는 모습을 보여 준다. 하지만 (나)는 화자가 가지고 있는 정서를 대상과 행위에 담아내고, (다)는 대상으로부터 화자의 정서가 촉발되는 모습을 보여 준다."
+          },
+          "criteria": {
+            "①": "(가)에서 얼음물에 빠져 ‘버선 행전’ 다 적시는 대목은 경험을 실감 나게 보여 주면서 화자를 장면 속에서 대상화하여 ‘동태가 되었더라’라고 우스꽝스럽게 표현하는군.",
+            "②": "(나)는 정월 보름날에 ‘큰 잔에 술을’ 붓는 행위로 예를 갖추며 연을 ‘마지막 전송’하는 모습을 통해 평안함에 대한 화자의 바람을 담아내는군.",
+            "③": "(다)에서 연이 ‘솟아올라 구름’에 걸치는 것을 보고 화자가 연줄의 힘을 빌려 ‘먼 데 임’에게 가려고 하는 것은 대상의 역동성이 화자의 욕망을 불러일으키는 모습을 보여 주는군.",
+            "④": "(가)에서 ‘가슴에 열’이 나서 ‘냉수’를 먹는 행위는 임무 수행에서 느낄 수 있는 고충을 드러내고, (나)에서 근심을 ‘세세히 적’는 행위는 문제 해소를 원하는 화자의 마음을 보여 주는군.",
+            "⑤": "(나)는 연이 ‘굼틀뒤틀 뒤틀어져’ 올라가는 모습을 생동감 있게 묘사하여, (다)는 연의 재료를 ‘강원도 설화지’로 구체적으로 제시하고 ‘크기’까지 언급함으로써 대상 자체를 부각하는군."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#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-ASNwgByTUAE6+VTACWa-cwAw3kvL4KI+5gBfN2+eYFoxs+CIL6LdTYGFNgHk2EBSeA4WKAB6BwAIDV8EAC+L3o+AElRYAH9qcqs0ABg9gBXmr6IIkRujPG3HPIUwApB2bMABHjwU4TknMIAU87maQs2FYYsgwJboEADxdfBAAOzXwQAIeODlZS0DSC5PwgkAFkNco+BCNQTSQAHo2JPQBXFJfA0kZOyXkjuvBWYovRZi7FfA8WtMAGg1ERAA149iWejhqQohaGWXYHYC4tEuIAC1XJhGolW4QAEIFVMkOYHwgAM9aXrwZIxAQAQAQKgGgEAGBIBYOwTg0hFkgAAI5FG0Jm2QQgGAAE8IBwFyCACgAALVAUAKDluXjILNUB0BIAYAgKgFAGBoFbfm9Isg5B6EALarFaijjHcAsAIbg159E-CBTJ6pTwPUFo5M0IEC5hAAPyJCbXwVI-a5AUAQFABgiAoBgD7burNgADEgrfMOIHZwo+G9nwAUgBKsbNnwQAlV2ORiD4YqgAN1dWC0DqxYsidHpdUeZB6s2AEMSO9Cx473HJJ+PJwhAAgay0b1gANuqxR+oq2yOQ+GTkhf6gAMmb2Z1MDEGoNTBg3IQARiR3rXh2OYTYfCABcJ21fRADqfZ+DsGGWgEnw3waJ6H2N8EAAM92zZ6gfA3wSD0Gr1yEAMYkzGH2A2Kj4LwMZZ6ABvl71IEcp8BsIADHXZ7Cc-Z+JsmwjAtQJd+AGgBS1aXZuVy3qQPUYU7RxtA6s2ABMSBDcRyTTo05aHKARACTA4AERnZ6PEAAMLWQBOYb4MbcxaFAC9NXwAxJhrM+EAANjgBBydFS0QAOW2AHYOwYC45M0ajbu5I6R90zBzQUAATJegdRbS0No3pWmtdaG0LMLSAFtbaO1dp7UgDrfmhDDtHa18dvhii1VnSBdYpiWqrsGKfQAUqMRA3dukAB6mudcrce09x6L1LALad29SwhC+AiNZJCs8fibUABJdgAU2YXJJTc+FPIdgFNuJdAR3hfHQZuZ2R91ZALDoACNXaiefk4pujymhDwfuyAbkERGSAG3O1bfBACTy3MJCARCS6lRBiEIeI4fVEB9uQAPzV8Bw0yHwWUyOz0AAjLYdBgdhxcFKSPmhunaY5jusJ0CQGAXIR3UNhADdrQuNkgAAMaaKfT7gBCOZAnYRkpO+CEal90M6LR5x8E5392en31a874GHIwnlauo786pitOEIjkUl1-ECxPdekxxy0ME+2IhWF1IAbDHX0ok2PS0MVM9cclnpeOUbJAAao8JaZeh1iRg7IAXYHACANfuQAqwuuaAkL+jQhAuY9qhEVqLQsjUktIAVqGWhzHdTZLTfBAAVawz2eXhCLW4wyDkqgAR0ZaPfU4wkbCAFYOwABTV09fYzvgKJDyVgd0d+rjWhtCFzQUabWaS1lordW2t9bHfDdG+2zt3aMBTeu6XkAc3McFAKOOwIAQTkE-W8upya7C5bp3QOk7w2R6J6Z6V2kgN2w2d2vWgQHYcEgALHUwItBoKYI2AmCAACXRcBwo8GyLXvHDZiXmjiABjlAR2H0rPKIDoJ+pYnwNYqJiiF0J4iCDlDCLgesPgU7kIKLr1ich2DCnwIAGXjcoYYLQ0yNIgAGU19D4T4QYjYKAAzY3wDlCwWwTNiAGppjoEOSNwVaBFmKgbtgcwTQgxC0K+BBooUpuwSAOXlARoR2OFgEIAIuTYc2mlG0C6GgwwkxU5ibqphf+sgDWMgABm+5QO+cge+PWh6-Wx+vmp+ra5+E2V+wRWa9+vW5Q468gbIogSgs8gAHDPtCfr3rFBuDLKzxwRNggRZBvquZba7aB6bp8CFCAAIExUCfqdukRWlvHMMGBEBlgBj4NAk2EznYo5F-E2C0NUIAImjIEDermGGxe4696HYeIe02WvEgAGN0Ei-bWTFSzxpZ8DqxGA3Q6ayZgaiCbLjgBCEazzWbbKDCAAOXXwKYoAJqrPg1mrmiKJxcCUG7ga8IWyyHYrkeoIEmItqs86UhErmwwIxNCgAODW3EBD3A3iOTrCdBZ6uRwQKbJbArmLWZcqiY3gtSOA56Vg2GN58BshFSAAAk58dtpdKFh2DLifCYbsUYJcf0a3n0K+HKOBlOr8cMUuo4MRLHj4HsbqIAJCzrURJVoJJZJfAlJdW-+wuh652IBCRcgkBcg96vEuk9BfABkOigAGASWQ2S2SACYBA5M5PHF+l0QBi0NAmiY8IrkVNiHtCYBcfiEsTlsMdcUVHqe5J5DWMaZGJ0KcIACVDgAuvXBkJQLgYa86AAOtWYcoUQeqSxrsZ-D-GWH0HqYQiQkyE0KaYAMm9HYmxLUqYs8Vqn2dxLqfAepVCNCusxp1uDemJROGQ3qBOhGPgB4RhnJbYcZzRw2nB6pyyvEEeVZZKtY9w28xpnigAGnMeotBsidD0kohhp8DhotCAAyfdSHqYKiKqKlOQuHMDCJTB6hEHlnwIALejrkGwgpfAgAqWOAC7nS0CAsWHqKeIACULxJ85jpPZ8Zp2qhvWGpJgepkMMMxpcMQFaMxps8kIhZxUHYoq94fAAY1kvEiMgAIQ1IXol8DtCACVs0ju0FOjOiYDioRC0HqY-M-MabBR2HoCxKYpiLPBQXSURgrIjqSd+b2VEadpYUmRpiOXqcomohokotoqaSIspJKS0CiWifSguGsWbNyXxT4LaoADMds8epaymyOyMQxpLU8JjkrmTEww+UepRyxpEODEgAkHXepLqAAWw8MbiY6jnrGXKb4Y1tGrGkgHAAADZwBdpwCkAACyqApAPlSA2AeQIAAAVnALgGXN5WAKem2iABUMkEAA"
+  },
+  {
+    "id": "화작_35-37",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "화법과 작문",
+      "원문_쪽": [
+        13
+      ],
+      "문항": [
+        35,
+        36,
+        37
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+        },
+        "안내": "[35～37] 다음은 학생의 발표이다. 물음에 답하시오.",
+        "지문": "안녕하세요? 지난 수업 시간에는 우리나라의 평균 기온이 점점 높아지고 있는 현상에 대해 조사하는 활동을 함께 했었는데요, 그런데 여름철에도 낮은 기온을 유지해 시원한 곳이 있다고 합니다. 바로 풍혈지라는 곳입니다. 저는 오늘 여러분께 이 풍혈지에 대해 소개하려고 합니다.\n풍혈지는 여름철에 돌 사이에서 주위보다 찬 공기가 새어 나와 국소적으로 저온 환경이 형성된 지역을 의미합니다. 풍혈지는 주로 애추가 있는 곳에서 나타납니다. (㉠<u>자료</u> 제시) 이렇게 암벽에서 떨어져 나온 크고 작은 돌들이 겹겹이 쌓여 부채 모양으로 형성된 곳을 애추라고 합니다. 어떤 애추에서는 내부로부터 찬 공기가 돌 사이로 나오기도 하는데 풍혈지는 주로 이런 곳에 형성됩니다. 이 찬 공기 덕분에 저온 환경을 유지할 수 있는 거랍니다. (㉡<u>자료</u> 제시) 이 자료를 보면 여름철에 풍혈지의 평균 기온이 풍혈지가 있는 행정 구역의 평균 기온보다 낮다는 것을 알 수 있습니다.\n풍혈지는 북방계 식물이 안정적으로 서식할 수 있는 곳입니다. 북방계 식물이 서식하는 데 가장 중요한 요인은 무엇일까요? (청중의 답변을 듣고) 네, 기온이 맞습니다. 그래서 국내의 북방계 식물은 대부분 백두대간의 높은 지대에 서식하고 있는데요, 이 북방계 식물이 해발 고도가 낮은 곳에 있는 풍혈지에서도 확인되고 있습니다. 고온에 취약한 북방계 식물의 서식지가 점차 줄어들고 있는 상황에서 풍혈지가 북방계 식물의 생존에 도움을 주고 있는 것이지요. (㉢<u>자료</u> 제시) 이 자료는 제가, 현재까지 국내의 풍혈지에서 발견된 212종의 북방계 식물 중 일부를 목록으로 정리하고, 산림청에서 지정한 희귀 식물에 해당하는지 여부를 표시해서 만든 것입니다. 이 중 월귤은 국내 서식지가 서너 곳에 불과하여 각별한 보호가 필요한 식물인데, 풍혈지에는 이 월귤처럼 종 보존을 위해 희귀 식물로 지정된 북방계 식물도 자라고 있습니다.\n지금까지 풍혈지에 대해 알아보았습니다. 잘 이해되셨나요? (청중의 답변을 듣고) 오늘 제가 준비한 내용은 여기까지입니다. 앞으로 여러분도 풍혈지에 관심을 가져 보시면 좋겠습니다. 감사합니다."
+      },
+      "questions": {
+        "q35": {
+          "type": "choice",
+          "instructions": {
+            "문항": "35. 위 발표자의 말하기 방식으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "화제와 관련하여 핵심 용어의 개념을 설명하고 있다.",
+            "②": "전문가의 견해를 인용하여 발표 내용을 뒷받침하고 있다.",
+            "③": "청중과 공유하는 경험을 환기하며 발표를 시작하고 있다.",
+            "④": "청중에게 질문하고 답변을 들으며 청중과 상호작용하고 있다.",
+            "⑤": "발표 내용과 관련하여 청중에게 바라는 바를 언급하며 발표를 마무리하고 있다."
+          }
+        },
+        "q36": {
+          "type": "choice",
+          "instructions": {
+            "문항": "36. 다음은 발표자가 제시한 자료이다. 발표자의 자료 활용에 대한 설명으로 가장 적절한 것은?",
+            "자료": {
+              "[자료 1]": "(그림) 깎아지른 암벽과, 그 아래에 크고 작은 돌들이 부채 모양으로 겹겹이 쌓여 있는 애추를 그린 입체 그림 한 장.",
+              "[자료 2]": {
+                "형식": "막대그래프, 세로축: 평균 기온(°C), 출처: 국립수목원(2022)",
+                "5월": {
+                  "○○군 풍혈지": 12,
+                  "○○군 전체": 14.7
+                },
+                "7월": {
+                  "○○군 풍혈지": 14.2,
+                  "○○군 전체": 26.7
+                }
+              },
+              "[자료 3]": {
+                "형식": "표 (212종 중 일부만 제시함.)",
+                "열": [
+                  "연번",
+                  "북방계 식물명",
+                  "희귀 식물"
+                ],
+                "행": [
+                  [
+                    1,
+                    "월귤",
+                    "○"
+                  ],
+                  [
+                    2,
+                    "주저리고사리",
+                    "×"
+                  ],
+                  [
+                    3,
+                    "땃두릅나무",
+                    "○"
+                  ],
+                  [
+                    4,
+                    "흰인가목",
+                    "○"
+                  ],
+                  [
+                    5,
+                    "돌단풍",
+                    "×"
+                  ]
+                ]
+              }
+            }
+          },
+          "criteria": {
+            "①": "[자료 1]은 애추 내부로부터 찬 공기가 돌 사이로 흘러나오는 모습을 확인할 수 있는 자료로 ㉠에 활용하였다.",
+            "②": "[자료 1]은 암벽에서 떨어진 돌들이 부채 모양의 애추를 형성하는 과정을 단계별로 확인할 수 있는 자료로 ㉠에 활용하였다.",
+            "③": "[자료 2]는 풍혈지가 속한 군의 평균 기온이 다른 군보다 낮음을 확인할 수 있는 자료로 ㉡에 활용하였다.",
+            "④": "[자료 2]는 북방계 식물 서식지와 희귀 식물 서식지 간의 평균 기온 차이를 확인할 수 있는 자료로 ㉡에 활용하였다.",
+            "⑤": "[자료 3]은 풍혈지에서 발견된 북방계 식물 중 산림청이 지정한 희귀 식물에 해당하는 식물을 확인할 수 있는 자료로 ㉢에 활용하였다."
+          }
+        },
+        "q37": {
+          "type": "choice",
+          "instructions": {
+            "문항": "37. 발표 내용을 바탕으로 할 때, <보기>에 나타난 학생들의 반응에 대한 이해로 가장 적절한 것은?",
+            "보기": "학생 1 : 백두대간의 고지대처럼 해발 고도가 높은 풍혈지에서도 북방계 식물이 서식한다고 한 내용이 흥미로웠어. 친구한테 식물도감을 빌려서 북방계 식물을 확인해야지.\n학생 2 : 월귤의 국내 서식지가 서너 곳이라는 사실을 새롭게 알게 됐어. 그런데 월귤의 해외 서식지에 대해서도 알고 싶었는데 설명이 없어서 아쉬워.\n학생 3 : 신문 기사를 보니 우리 지역의 산에도 풍혈지가 있대. 우리 지역의 지리적 특성에 대한 보고서를 써야 하는데 발표에서 들은 풍혈지에 관한 설명이 도움이 되겠어."
+          },
+          "criteria": {
+            "①": "학생 1은 자신이 이해한 발표의 내용을 다른 사람이 이해한 내용과 비교하고 있다.",
+            "②": "학생 2는 발표를 통해 새롭게 알게 된 정보가 사실과 부합하는지 점검하고 있다.",
+            "③": "학생 3은 발표를 통해 알게 된 정보를 유용성 측면에서 평가하고 있다.",
+            "④": "학생 1과 학생 2는 모두, 발표 내용의 일부를 정확히 이해하지 못하고 있다.",
+            "⑤": "학생 2와 학생 3은 모두, 자신이 필요하다고 생각하는 내용이 발표에서 다루어지지 않았음을 아쉬워하고 있다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEgAPFQB8gMgJ5AemUS5gBbHAHN2AF0cA4g30CIPYBBJvoA-awC2jgEcm+gAN7AIb18AFID1RwBrjfQAZMRPkAFkj5AR5bAAXG+fR9hQAHJgEohXgEAXyIkuUAJUcAWhu0hAG0AZgBWQD1-goB2AF0+QBOmwBlxiMBNVcBdgZ9AHB7hQBdxmoA6PkAebrqDPkBXpsANVcAdocASMZ6hNJkhGL1ckAzAVUaxwA5BwBSxgH4+GMAchr5ADCHAUdG+CcAQGoNAFKa+QAaxwBrOwAyGwB92n0BJ5cAD2r5RQAoxzp8QAIE8C+IAkxsAIqMxQAHNXxABHj90AIGuAQYHhoAAZsALqt8QAOE4AagbG90AOmuATebACLjfEAFquADbq+IAI1cAE6O3QAOzdsAlZAA-tzL4gBvRwAhnYACmYMgBHmviAOoaIgCKYACcZi2ImOkAOqt8QDPNUD4TU4YBLVcAE029PiAFB7ADodfEAsSuACDWYm97irAKHjer6gAAJ+5TQAZTbzADftzlpQItMQx2MAMYOAHBqxoASDu1Du4vD9935Qr4gBnmvh4zrGPiAH4nACDjgBeemp8QA0M3xAK81okAADV8QATAzY+C9AAJjfEAtrWBwCAE4AecZNjv+fEAGmuAXpqgYBUNcAjIOAHBaDoBb0YpXkAH926-WxzMmwAGo4AU2YriNV6ZegAGFwCVDQ73L5FEpAAnjgBmOjTKPiAHAmJnE+J1AOAdgBiaviAFVHAL096cAFa02QAcE7W3aADYLcKAInjESJoAJy1AoAnTWwUCgDIwzyTiACIzfCABVdgCJox2fAjuOKoUmubyRvqNiACWtfBrsY9xZI4RqOIADIuFiW5ZJimnQmi8UyiKKhLcouGYmp0HJbnhw6AJQth5AkWpZ8IAqs3OMMXa9n2MoxIABqunAi9yAA41gCx7YebiAIZMJ4XleSi3vej58BegA+nXwOaAC5dvKCsMfpfL8AK+paG73IAkauAKgTfCADa1E6eX8-x5uKNT3IAwTUUoAMqPafCgCtQ1GMaWvcgCBvYAlD2ACM1fCALtD-RAhkgXtiaRhFVpJw6aq9r6nlhUlUC1WEnw3JloApeN8IAiJPbMq2yAB7jESACzdgDjo4APuOADJ1ezuIAtTN9T4IyAAM9FKAMctMIPoAJI0BN5fCAHud6X6lYgAZ7SYjZZD4zXFf0EToi4fCAIw9gAKLeiVw+OCEQxOiwztXCiKsgEQK3a1fCYm0fAwsKFYSmJm5+sYoqAKprw2ABgtgMnX0ML-MMgAXs4AvqPKmD-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"
+  },
+  {
+    "id": "화작_38-42",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "화법과 작문",
+      "원문_쪽": [
+        14,
+        15
+      ],
+      "문항": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+        },
+        "안내": "[38～42] (가)는 방송 대담의 일부이고, (나)는 이를 바탕으로 시사 동아리 학생들이 나눈 대화이며, (다)는 ‘학생 1’이 (가)와 (나)를 바탕으로 작성한 비평문이다. 물음에 답하시오.",
+        "(가)": "진행자 : 시청자 여러분, 안녕하십니까? 전문가의 안목을 더해 사회 현상을 바라보는 ‘시사 더하기’입니다. 요즘 드라마 ○○○이 세계적으로 인기인데요, 웹툰을 원작으로 한 이런 영상들이 최근 많아졌습니다. 오늘은 웹툰 영상화 유행 현상에 대해 영상 분야의 전문가와 웹툰 분야의 전문가를 모시고 말씀 들어 보겠습니다. 먼저 이 현상이 왜 나타났다고 보시는지 두 분 말씀 부탁드립니다.\n전문가 1 : 인터넷 기반 동영상 제공 서비스인 OTT의 활성화로 영상 산업이 급속도로 성장했기 때문이죠. 이에 따라 저희 업계에서는 영상화할 이야기를 웹툰에서 발굴하고 확보하는 일이 많아졌습니다.\n전문가 2 : 웹툰에는 초능력처럼 실사로 구현하기 어려운 소재가 많이 등장하는데요. 영상 제작에서 특수 효과 기술이 발달한 점도 저희 웹툰이 많이 영상화되는 데 일조했죠.\n진행자 : ㉠<u>영상 산업의 성장과 기술의 발달이 복합적으로 작용한 결과군요.</u> 이 현상은 양쪽 산업의 경제적 측면에도 기여했을 것 같은데요, 이번에는 웹툰 산업 입장부터 들어 보겠습니다.\n전문가 2 : 저희 웹툰 산업의 입장에서는 이미 만들어진 작품의 저작권을 판매할 수 있어 수익 창출의 기회가 늘어났습니다.\n전문가 1 : 저희 영상 쪽도 이미 인기를 끈 웹툰을 영상으로 제작함으로써 흥행 실패로 인해 손실을 입을 위험 부담을 덜 수 있습니다. 결과적으로 수익성을 높이는 것이지요.",
+        "(나)": "학생 1 : 우리 이번 주 ‘시사 더하기’에서 다룬 현상에 대해 비평문을 쓰기로 했잖아. 웹툰 영상화가 정말 유행이더라. 둘 다 방송 봤지?\n학생 2 : 응. ㉡<u>웹툰 영상화가 이 정도로 유행인 줄 몰랐는데 방송에서까지 다루는 것을 보고 체감이 됐어.</u>\n학생 3 : ○○○이 세계적으로 인기라고 방송에서 그랬잖아. 이 작품이 모두가 공감할 수 있는 내용을 다뤄서 그런 듯해.\n학생 1 : 방송에서 웹툰 영상화 유행 현상의 원인을 다뤘잖아. 원인에 대해서 너희는 어떻게 생각해?\n학생 2 : 방송에서 영상 산업의 성장을 언급했는데, 웹툰 플랫폼들의 해외 진출이 웹툰 영상화의 유행에 더 영향을 미친 것 같아.\n학생 3 : 특수 효과 기술의 발달도 전문가가 말했는데, 나도 기술 발달이 더 주요한 원인인 것 같아.\n학생 1 : 그럼 이제 웹툰 영상화 유행 현상에 대한 각자의 관점을 말해 보자. ㉢<u>대부분 이 현상을 긍정적으로 볼 것 같은데, 너희들 생각은 어때?</u>\n학생 2 : 내 생각은 좀 달라. 웹툰 원작 영상은 원작의 이야기를 재탕하는 데 불과한 것 같아. 이런 영상이 많아지면 영상 전반의 다양성을 해치게 될 거야. 또 웹툰 작가들이 영상화에 유리한 작품만 창작하려는 경향이 생길 것 같아.\n학생 1 : 그러네. ㉣<u>그렇게 되면 웹툰이나 영상을 즐기는 이들이 신작에 대해 갖는 기대치와 만족도까지 줄어들겠다.</u>\n학생 3 : 그 점도 일리가 있네. 그런데 웹툰 영상화는 이미 만들어진 작품으로 추가 수익을 낼 수 있는 기회라고 전문가가 그랬잖아. 웹툰 창작자가 추가 수익으로 경제적 안정을 얻으면 좋은 웹툰을 만드는 데 전념할 수 있게 될 거야.\n학생 2 : ㉤<u>듣고 보니 경제적 안정 덕분에 좋은 웹툰을 창작하는 데 전념할 수 있게 된다는 네 말이 더 맞는 것 같아.</u>\n학생 1 : 그럼 내가 방송 내용과 우리 대화를 바탕으로 비평문을 써 볼게.",
+        "(다)": "요즘 OTT 플랫폼을 보면 웹툰을 원작으로 한 영상이 부쩍 많아졌다. 이들 중에는 전 세계 시청 순위 1위를 한 작품이 있을 정도로 국내뿐 아니라 해외에서까지 인기를 얻는 경우도 많다. 특수 효과 기술의 발달로 초능력, 미래, 우주와 같은 웹툰의 다양한 소재들이 영상으로 구현될 수 있는 환경이 마련되었고, OTT 플랫폼이 활성화됨에 따라 영상 제작자들이 영상화할 이야기를 웹툰에서 찾는 일이 많아지며 웹툰을 원작으로 한 영상 제작이 더욱 늘어난 것이다.\n이러한 웹툰 영상화 유행 현상을 부정적으로 보는 사람들은 웹툰 영상화의 유행이 콘텐츠 전반의 다양성을 저해한다고 본다. 새로운 시나리오 창작이 위축되고, 영상화에 유리한 웹툰만 창작된다는 것이다. 하지만 이는 단편적인 시각에 불과하다.\n오히려 영상 제작의 측면에서는 기존에 상상하지 못했던 새로운 내용이나 장르를 웹툰으로부터 공급받아 영상을 다양화할 수 있는 것은 물론, 제작 기법상에도 새로운 시도들이 촉발된다. 더불어, 웹툰 창작의 측면에서는 창작자가 경제적 안정을 얻게 되어 작품성을 높이기 위한 노력과 도전적인 시도를 하게 된다. 웹툰 영상화의 유행은 영상과 웹툰 산업 모두의 수익성을 높이는 데에도 기여한다. 영상 산업에서는 이미 검증된 웹툰을 영상화함으로써 흥행 실패 부담을 줄일 수 있고, 웹툰 산업에서는 이미 완성된 작품을 영화와 같은 2차 저작물로 파생시켜 추가적인 수익을 거둘 수 있다.\n웹툰 영상화 유행 현상은 우리 콘텐츠 시장의 흐름 중 하나가 되었다. 이러한 흐름을 바탕으로 세계적으로 인정받는 콘텐츠가 더 많이 제작되려면 질 좋은 웹툰 창작과 창의적 각색을 위한 노력이 필요하다. 웹툰 영상화 유행 현상은 우리 콘텐츠 산업을 풍요롭게 만들므로 긍정적으로 보아야 한다. 앞으로도 작품성과 흥행성을 갖춘 웹툰 원작 영상이 계속 제작된다면 세계 속 한국 콘텐츠의 위상은 나날이 높아질 것이다."
+      },
+      "questions": {
+        "q38": {
+          "type": "choice",
+          "instructions": {
+            "문항": "38. (가)와 (나)의 의사소통 양상에 대한 설명으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "(가)는 (나)와 달리, 대화 참여자 중 한 명이 나머지 두 명에게 발언을 요청하고 있다.",
+            "②": "(가)는 (나)와 달리, 대화 참여자 중 두 명이 각각 특정 집단을 대표하며 발언하고 있다.",
+            "③": "(가)는 (나)와 달리, 대화 참여자 중 한 명이 나머지 두 명의 발언 순서를 정하고 있다.",
+            "④": "(나)는 (가)와 달리, 대화에 직접 참여한 참여자들만을 청자로 상정하고 있다.",
+            "⑤": "(나)는 (가)와 달리, 대화 주제에 대한 긍정적, 부정적 관점의 발화가 모두 이루어지고 있다."
+          }
+        },
+        "q39": {
+          "type": "choice",
+          "instructions": {
+            "문항": "39. 대화의 흐름을 고려할 때, ㉠～㉤에 대한 설명으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "㉠ : 다른 대화 참여자들의 앞선 발언 내용을 종합하고 있다.",
+            "②": "㉡ : 자신이 몰랐던 사실을 상대 발언을 통해 알게 되었음을 드러내고 있다.",
+            "③": "㉢ : 자신이 추측한 바를 제시하며 대화 참여자들에게 의견을 묻고 있다.",
+            "④": "㉣ : 상대의 발언 내용을 바탕으로 자신이 예상한 결과를 언급하고 있다.",
+            "⑤": "㉤ : 상대의 발언 일부를 재진술하며 상대의 의견에 동의하고 있다."
+          }
+        },
+        "q40": {
+          "type": "choice",
+          "instructions": {
+            "문항": "40. (가), (나)의 담화 내용이 (다)에 반영된 양상으로 가장 적절한 것은? [3점]"
+          },
+          "criteria": {
+            "①": "해당 현상을 보여 주는 사례에 대한 ‘진행자’의 말을 ‘학생 3’이 언급하며 밝힌 의견이 (다)에서 필자의 관점을 뒷받침하는 논거로 제시되었다.",
+            "②": "영상 산업의 성장에 대한 ‘전문가 1’의 말을 ‘학생 2’가 언급하며 밝힌 의견이 (다)에서 비평 대상이 나타나게 된 원인을 분석한 내용으로 제시되었다.",
+            "③": "손실 위험에 대한 ‘전문가 1’의 말을 ‘학생 2’가 언급하며 밝힌 의견이 (다)에서 필자와 상반된 관점의 주장으로 제시되었다.",
+            "④": "기술 발달에 대한 ‘전문가 2’의 말을 ‘학생 3’이 언급하며 밝힌 의견이 (다)에서 필자의 관점이 지닌 한계로 제시되었다.",
+            "⑤": "추가적인 수익 창출 기회에 대한 ‘전문가 2’의 말을 ‘학생 3’이 언급하며 밝힌 의견이 (다)에서 필자와 상반된 관점을 반박한 내용으로 제시되었다."
+          }
+        },
+        "q41": {
+          "type": "choice",
+          "instructions": {
+            "문항": "41. (다)에 활용된 글쓰기 방식으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "웹툰 영상화에 대한 영상 제작자의 인식 변화를 시기별로 서술하였다.",
+            "②": "웹툰 영상화 유행 현상이 국내에서 해외로 확대되는 과정을 서술하였다.",
+            "③": "웹툰 영상화의 결과로 파생되는 저작물의 종류를 나열하여 서술하였다.",
+            "④": "웹툰 영상화 유행 현상이 미치는 영향을 산업별로 구분하여 서술하였다.",
+            "⑤": "웹툰 영상화를 위해 활용되는 제작 기법의 특징을 분석하여 서술하였다."
+          }
+        },
+        "q42": {
+          "type": "choice",
+          "instructions": {
+            "문항": "42. 다음은 (다)의 4문단의 초고와 학생들의 의견이다. 초고에 대한 의견을 반영하여 고쳐 썼다고 할 때, 이에 대한 설명으로 적절하지 않은 것은?",
+            "보기": {
+              "초고": "웹툰 영상화 유행 현상은 우리 콘텐츠 산업을 풍요롭게 만든다. 이 현상은 우리 콘텐츠 시장의 흐름 중 하나가 되었다. 간혹 흥행에 실패한 경우도 있지만 이는 소수에 불과했다. 이러한 흐름을 바탕으로 세계적으로 인정받는 콘텐츠가 더 많이 제작되려면 창의적 각색을 위한 노력이 필요하다. 앞으로도 작품성과 흥행성을 갖춘 웹툰 원작 영상이 계속 제작되기를 바란다.",
+              "초고에 대한 의견": "학생 2 : 글의 흐름이 자연스럽도록, 일부 내용을 삭제하거나 순서를 바꾸면 좋겠어.\n학생 3 : 글의 마무리 부분임을 고려해, 자신의 관점을 분명히 밝히는 내용이나 발전 방안 또는 전망에 대한 내용을 추가하면 좋겠어."
+            }
+          },
+          "criteria": {
+            "①": "학생 2의 의견을 반영해, 웹툰 영상화의 흥행 실패에 관한 내용을 삭제하였다.",
+            "②": "학생 2의 의견을 반영해, 웹툰 영상화 유행 현상의 의의를 언급한 문장의 위치를 변경하였다.",
+            "③": "학생 3의 의견을 반영해, 웹툰 영상화 유행 현상에 대한 자신의 입장을 제시하는 내용을 추가하였다.",
+            "④": "학생 3의 의견을 반영해, 영상업계의 노력에 관한 내용을 추가하였다.",
+            "⑤": "학생 3의 의견을 반영해, 세계 속 한국 콘텐츠의 향후 위상에 대한 내용을 추가하였다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#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-UFSAAVGwh-MIXQthaEjegATJlmoAY5aPwSj4JGvg0a+CAFVm5wBJk2G01EG25A15TZvdbmvggAcFteE0WlO5Ml8EAHudScIZ921eskpVhgpZAym0PgpDqqFweOCZYawW6amtmM6RlJiAZxAG4d42cfRkQoqYyx79OVG1zPmXsVxHCAFkp+sTYPRCr4IAREmEYKj4NGDYnI+CABwh72PxvazExVgohmoT5rEALa1WRAAL-XwPYEo5J2Ifj+XWfBY0Evzm1OsHoIlVVqmtBqawfK+QCJTQAGe0BHziXEEkNDb-LugiNKKLTSQiipCgWTRAAaa69K4gZAAUHT1QAE6MjAvUwK9Firg0XuIAChaZJyQKiyLjWkdJ6UNoZQAfDO2Q+TEJ4LbIh5jWAiAqmTACNY3weWgAchsCeiBhAw+QIhcdUs0mpHCjMhLafUgAY9vOCmthbjx58EABrzgAFRcAARzvy2NAqvDqOE74+CAA+ej0gAJgZWEldYYwDhkhxVcb2gBU2Z6tJ1Fg4MWG2xUG-tSdnN8GJDEbFic+CAAumwAHcsxhIuseRBJHnEkxONMkgAI9bij802PhfoU1EIAFwmCSmlNM1vggBurv4oADWa+DZaSqQgY3LeKABdO-SmZVjoz4DhVigBsHr2Dyued0tP8cCREbEgADDoCKbVCgBUntHG1HbGxOIVkAJCzRl+1Yi1PcmwRicXTb+kYJoQaQ1Vo+jWmNuH2VHiZkChOQlvYIkAB6NvlqqcXlD1gHsxiSyLB5UvsYWIhlmqiTPgOCfAi2x215M-1UI8hS-lU0z0mIU21nwQAATWAFzJ3tpmNIWxWNbO2oUHYB01OYXo3bpMkyF9TQAImMwkl0zTUJZ7jMYiBUQAFDPyShNiNYgAYZdOOsQAOPN8EdWT510LZ4C2G7wDzHDbp8DXdFuL6xeI+EAArrgAQzu-U1sYGVJMfrc3wcPFpN3-tgc7IeV2mgB4yp4usVxTY9Tit8wAE5N8GbYGqE1UxZeE+vIwAkwM+wJ75K4gARVc9EN-uxiqk+9NBEf3sWBeakALErnpAC2HbIumgAB7rWCMqO1o9jTj4LzvgHhVhtSx9VO2QKJWAAzZo5UJH18CjOxPgpt+3fIA8fuE8HIuxZ8N7Hv1xAAFDVcOOewS-J2GyAXgyRiAgAgAgVAGgCABgJAFgdgTgaQAQIQAAR2KG0EgNkCEAYAAE8IA4Bs4KAAALVAKACgdAw9GQKAkAKAdAJABgBAKgCgBgNAUg+A9IWQOQPQQAW1Xs5igsQ6QQRxg4gfAvBNhkpABWxb4DulHFqT4EABJBwAUK7IQYxAAICZW0AClRiIEGMIVeL-QgvgVIeguQCgBAKABgRAKAMAOg9QogwAAxJs46QmguCQQGoDgAgOh+xAAOGZ5DZC-UXz4AkKuDGEAA4un8f8CQgwWRIyHRTUT0TkcyIhT-akBgogwAQxILD6grCJgbC7CHg+BnDXC-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-X-JAOAAAGzgCoLgFIAAFlUBSAZmkBsA8gQAAArOAXAAAWmmbAH0LIJACqGSCAA"
+  },
+  {
+    "id": "화작_43-45",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "화법과 작문",
+      "원문_쪽": [
+        15,
+        16
+      ],
+      "문항": [
+        43,
+        44,
+        45
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "[A]": "원문에서 비어 있는 상자로 표시된 자리 (43번에서 들어갈 내용을 고름)"
+        },
+        "안내": "[43～45] 다음은 작문 상황과 이를 바탕으로 작성한 학생의 초고이다. 물음에 답하시오.",
+        "작문 상황": "완벽주의적 자기 제시 성향에 대해 설명하는 글을 작성하여 학교 신문에 실으려 함.",
+        "초고": "사람은 누구나 다른 사람에게 좋은 모습을 보이고 싶어 하는 면이 있다. 이러한 욕구가 커서 자신을 늘 완벽한 모습으로 보이려고 하는 성향이 나타날 수 있는데, 이를 완벽주의적 자기 제시 성향이라 한다. 청소년 시기에는 또래 집단에서 친구들에게 긍정적으로 비춰지고 싶은 욕구가 크기 때문에 완벽주의적 자기 제시 성향이 나타나는 경우가 많다.\n완벽주의적 자기 제시 성향을 지닌 사람들은 평가의 기준을 자신보다 타인에 두기 때문에 타인의 시선과 평가에 민감해지기 쉽다. 그래서 여러 사람들 앞에 나서야 할 때 불안을 겪기도 한다. 이러한 불안이 사회생활에서 회피적 행동으로 이어지고, 회피적 행동은 다시 불안을 가중한다.\n그렇다면 완벽주의적 자기 제시 성향으로 인해 발생한 불안을 완화하려면 어떻게 해야 할까? 먼저 스스로의 마음을 다스릴 필요가 있다. 타인의 인정을 기준으로 자신의 가치를 평가하지 않고, 자기 자신을 무조건적으로 수용하는 자세가 도움이 된다. 이 외에도 상황을 종합적으로 고려하는 ‘인지적 유연성’이 필요하다. 인지적 유연성을 발휘하기 위해서는 자신의 정서를 명확하게 인식할 수 있어야 한다.\n다음으로 주변 사람들과의 관계 속에서 도움을 받을 수 있다. 완벽주의적 자기 제시 성향이 높은 사람은 자신에 대한 다른 사람의 긍정적 평가를 믿지 않고 왜곡해서 받아들이는 경향이 있다. 따라서 자신이 온전히 믿는 친구나 가족들에게 불안한 마음을 털어 놓으며 그들로부터 격려와 지지를 구하는 ‘사회적 지지 추구 행동’을 하는 것이 도움이 된다.\n끝으로 신체 활동도 도움이 된다. 특히 걷기는 일상에서 우리가 손쉽게 실천해 볼 수 있는 신체 활동이다. 완벽주의적 자기 제시 성향에서 비롯한 불안에 휩싸였을 때, 그 상황에 매몰되어 있으면 불안에서 벗어나기 어려울 수 있다. 이럴 때 걷기를 하면 불안한 마음에 사로잡혔던 주의를 다른 곳으로 돌릴 수 있어 불안을 완화하는 데 도움이 될 수 있다.\n완벽주의적 자기 제시 성향은 누구에게나 나타날 수 있다. [A]"
+      },
+      "questions": {
+        "q43": {
+          "type": "choice",
+          "instructions": {
+            "문항": "43. 다음은 학생이 초고를 작성할 때 떠올린 생각이다. 이를 고려할 때 [A]에 들어갈 내용으로 가장 적절한 것은?",
+            "학생의 생각": "마지막 문단에서는 글의 전체적인 흐름을 고려하여, 완벽주의적 자기 제시 성향으로 인해 겪을 수 있는 정서적 어려움을 명시하고, 이를 완화하는 데 도움이 되는 태도와 그것이 가져올 긍정적 변화를 제시해야겠어."
+          },
+          "criteria": {
+            "①": "자신에 대한 긍정적 평가가 진심으로 느껴지지 않아 불안해질 때, 이를 그대로 둔다면 완벽주의적 자기 제시 성향이 고착화될 것이다.",
+            "②": "타인의 시선을 고려하기보다 자신의 시야에만 갇혀 불안한 마음이 든다면, 일상에서 걷기와 같은 신체 활동을 해 보는 것이 어떨까?",
+            "③": "타인에게 완벽한 모습을 보이고 싶은 마음이 불안으로 이어질 때, 자기 자신을 있는 그대로 받아들인다면 심리적 안정을 얻을 수 있을 것이다.",
+            "④": "완벽주의적 자기 제시 성향은 사회생활을 하는 데 여러 가지 문제를 초래하므로, 객관적으로 상황을 바라보는 인지적 유연성을 발휘해 보는 것이 어떨까?",
+            "⑤": "완벽함을 추구하는 것은 고통을 수반할 수 있으므로, 무조건적 자기 수용보다는 사회적 지지 추구 행동을 통해 스스로의 마음을 다스린다면 마음이 편안해질 수 있을 것이다."
+          }
+        },
+        "q44": {
+          "type": "choice",
+          "instructions": {
+            "문항": "44. 초고에 반영된 글쓰기 계획으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "완벽주의적 자기 제시 성향의 개념을 밝혀야겠어.",
+            "②": "완벽주의적 자기 제시 성향의 장단점을 설명해야겠어.",
+            "③": "사람들의 일반적인 특성을 제시하며 글을 시작해야겠어.",
+            "④": "완벽주의적 자기 제시 성향이 높은 사람의 특징을 언급해야겠어.",
+            "⑤": "특정 시기에 완벽주의적 자기 제시 성향이 나타나는 경우가 많은 이유를 제시해야겠어."
+          }
+        },
+        "q45": {
+          "type": "choice",
+          "instructions": {
+            "문항": "45. <보기>는 학생이 초고를 보완하기 위해 추가로 수집한 자료이다. 자료의 활용 방안으로 적절하지 않은 것은? [3점]",
+            "보기": {
+              "ㄱ. 연구 보고서": {
+                "ㄱ-1. 불안 대처 행동 빈도에 따른 불안 정도 변화": "꺾은선 그래프(가로축: 행동 빈도, 세로축: 불안 정도). 회피적 행동(점선)은 행동 빈도가 높아질수록 불안 정도가 올라가고, 사회적 지지 추구 행동(실선)은 행동 빈도가 높아질수록 불안 정도가 내려간다.",
+                "ㄱ-2. 걷기 효과 검증을 위한 실험 결과": "막대그래프(세로축: 불안 정도). 걷기 참여 집단은 실험 후 불안 정도가 실험 전보다 크게 낮아졌고, 걷기 미참여 집단은 실험 전과 실험 후의 불안 정도가 같다."
+              },
+              "ㄴ. 학생 인터뷰": "“단 하나의 실수도 없는 멋진 발표를 해서 다른 사람들에게 완벽하게 보이고 싶었어요. 하지만 막상 발표하는 날이 되자 실수할까 봐 너무 걱정이 되어서 발표를 못 하겠다고 선생님께 말씀드렸어요. 이후에 발표에 대한 불안이 더 커졌어요.”",
+              "ㄷ. 전문가 인터뷰": "“정서 조절은 마음을 가라앉히면서 자신에게 유익한 방식으로 정서를 활용하는 것입니다. 정서 조절을 위해서는 먼저 정서를 명확하게 인식하는 것이 필요하고, 정서 조절이 이루어져야 인지적 유연성을 발휘할 수 있습니다. 걷기는 정서 조절에 도움이 되는 한 방법입니다. 걸으면 근육이 이완되어 긴장이 완화되는데, 이러한 신체적 변화가 정서 조절에 도움을 줍니다.”"
+            }
+          },
+          "criteria": {
+            "①": "ㄱ-1을 활용하여, 사회적 지지 추구 행동을 많이 할수록 불안이 낮아진다는 것을, 주변 사람에게 도움을 받음으로써 얻을 수 있는 효과를 뒷받침하는 근거로 4문단을 보강한다.",
+            "②": "ㄴ을 활용하여, 학생이 발표에서 완벽하게 보이려는 것을, 완벽주의적 자기 제시 성향의 구체적 사례로 1문단에 추가한다.",
+            "③": "ㄷ을 활용하여, 정서를 명확히 인식하는 것을 전제로 한 정서 조절이 인지적 유연성의 바탕이 된다는 것을, 인지적 유연성 발휘를 위한 조건을 보완하는 내용으로 3문단에 추가한다.",
+            "④": "ㄱ-1과 ㄴ을 활용하여, 회피적 행동이 불안에 미치는 영향을, 불안이 회피적 행동으로 인해 가중된다는 점을 뒷받침하는 근거와 이를 구체화하는 사례로 2문단을 보강한다.",
+            "⑤": "ㄱ-2와 ㄷ을 활용하여, 정서 조절의 실패에서 비롯된 불안을 해소하는 데 걷기가 효과가 있다는 것을, 걷기가 정서에 미치는 영향을 보여 주는 내용으로 5문단을 보강한다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEgA2gEEAuhLmAFscAc3YAXRwDiDfQCJ9gFtG+gCPHAKU19AgwOAE8cA6HX2GAdocA4LXxuAazr4AKACwBmQAievT5AE5ajQAgavkAWhsBKscARcb5AA5rAEM6ASiFeAQBfIiy5QAlR6LUheQDAPX-fAFZlPkATpsAZccABcb5ARPHNa0BLNcAfmr5AF3HAH06+QBQewFWFwB5xh1bARkHAHVW+QE1VwF2BwA1xvkAIWaS+uoA6PkAebobtPkBXpsANVadAEjGdoTyZIXaukpBAETHAXp7AH4mVwEAJ91E+QA4E04+NNAKWrx0AAM2AF1W+IASQcAoV1nSyAADrEjMzoAb0cWgAVaviAA6GdHxACdD40AJB18QAWqzdiPkhJtnoAagcAMe0tQAgTYAbWsAGQ31QAenXxmdpADE1fEA0RMtQAVXYBWocSgBeevpJPiAN6GTEi+IAXLr6Zl2-UAN+3zQCpY+zAAA1fEAJ3P6Gx4xKADKa+O95lLJnw5aSFaqwZrOYABhcABQ18QAYQ2ZzIAHZqI-SG7y+vxs-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-nNsWQAIKveCa4AVNnJBCXO9RMMnU7C-aYk9aiaQ9iSXHd4bj-40gtH+xdk0BMeYAv9IAXQ6wd3ZNDYxMRpunDt9mOoS3giTw8R4JAHKO0eY+x9RE00RSSABAa9FM2tu7YAEx7ALnwQAFWu9EAAE1gBcycSNdeYRJAAbq3wQADTXdGeCkiECFPvA9B7diHPP-iAA4ZrElYWhS74IAEbX6cmgNzLYlg5hSADqGnmgAZCe6bzwAH906-LBWfX0uZa9AN4btY6uTRcvRQxnI7PYmABZGPYyx0o20AA+9zxAA4BBWPgZxORrCJP6WigAx0csIAaS6nl8BMsIIYXNAHiYbO8T6zo1WKkABOjRgEp7BKlSlJVh8-CFVD6TUq8bDEn9O5PggAEXr4IACEbap8EAI41zZO9GH0AXoYgBurqT6suoCp-xLEABtNgANur4IABc7AAAo4AHZbAAcHXXy+hvjgF-JkxTUgAVZrNLbk-gBcAkS5+wA7Ix7BlpoE0r4Y-x+enweqISGqEUkyiYgAkqNyxqgSwNjrSACu4-MH1t9E6M9EMD1uHIAKHjgAE03ah-4AFi53SWB+RPQvR8DvQV4-Thz7QJRdJhg4EhKah9CAAXHUYFMnhMdDmqdPnudB2qYJKFgZrpYLQccAMpYPAYAKk9mB2ogAHjVbx8CAA-tYAITj9BLw68fAgALHUBKagwKDKhi6jzBJy-CLImiCEIJtJ8CACwk3wU-kFpiiFsFjNrsvsocvslhpIFlhcs8LtvgIkKgZUvyKxD7KOoHEJIkGuJqPhHTmRJqDbk8nUCKvEGGJDKeA2GjNzA0JMIABbD9qjqlgAuQwgA7S3oyAAWc6qLIYAA41DgvgGSsogAqDXAxlrZZMbXogCh7eHtS+EVYX76Dl7CguhxFVKsZwrxhrDsj5L8iAACHQ4PgBkscH7EaHUSHiJs8C-q0ZiDQcQe9ArOQXEXwDLACA4PMLQZqGwbmmsGMNHH0VmidNMJwUMOLv-o1LKLVpYH4g4P4NMY1vMQxkIF6sxp4b0C0SnG0RJHxOOlqiPHwI7vlJYIBgeGGJEXwNDkJHUpMopINJYLxnwAUcUZYGUS7KCiMbAuMQ4JzlUc6LUWzl8SALZk0Vzi7MsYCasUQf-iEqnoABTLIQg8bglkUIGYfSd8ogJoAuyUsRfAYc8R-JRhugxwkJ0JB4zoWIHwzxsQToVQpJMo5Jmye6B6pC5CSAcAAANnAConAKQAALKoCkAGlIDYDyAgAABWcAuAO2+pYAhyCiIAyg2QQAA"
+  },
+  {
+    "id": "언매_35-36",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "언어와 매체",
+      "원문_쪽": [
+        17
+      ],
+      "문항": [
+        35,
+        36
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "옛한글": "옛한글 글자는 깨지지 않도록 자모를 풀어서 적음. 예: ‘코ㆁ’은 ‘코’ 아래에 받침 ‘ㆁ’을 쓴 한 글자(콩), ‘이ㅵㅐ’의 둘째 글자는 초성 ‘ㅵ’+중성 ‘ㅐ’, ‘어버ㅿㅣ’의 셋째 글자는 초성 ‘ㅿ’+중성 ‘ㅣ’, ‘ㄱㆍ독’의 첫 글자는 초성 ‘ㄱ’+중성 ‘ㆍ’."
+        },
+        "안내": "[35～36] 다음 글을 읽고 물음에 답하시오.",
+        "지문": "한글은 음소 문자이다. 그렇다면 ‘ㅁ’은 소리일까, 문자일까? ‘ㅁ’은 문자이다. 기호는 형식과 내용의 결합으로 이루어져 있는데, 문자 자체는 형식이고 그 문자가 나타내는 소리가 내용이다. 예컨대 ‘ㅁ’은 [마]의 초성에서 나는 소리인 양순 비음을 나타내는 형식이고, 내용은 양순 비음이다. 형식과 내용의 결합은 자의적이다. ‘ㅏ’로 소리 [a]를 나타내는데 ‘아’로도 소리 [a]를 나타내는 것, 그리고 현대 국어에서는 연구개 비음을 ‘ㅇ’으로 나타내는 데 비해 15세기 국어에서는 ‘ㆁ’으로 나타낸 것은 이를 보여 준다.\n<한글 맞춤법>에 따르면 한글 자모는 자음자 ‘ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ’ 14자, 모음자 ‘ㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣ’ 10자 총 24자이다. ‘자모’는 자음자와 모음자를 아울러 이르는 말이다. 24자 외의 자모는 2개 이상의 자모를 ‘어울러 쓴 것’이다.\n24자모는 각각 하나의 소리를 나타내는 것이 일반적이지만, ‘ㅛ’처럼 반모음과 단모음의 연쇄인 이중 모음([jo])을 나타내는 것도 있다. 어울러 쓴 모음자 중에는 단모음을 나타내는 것도 있고, 이중 모음을 나타내는 것도 있다. ‘ㅔ’와 ‘ㅘ’는 각각 ‘ㅓ’와 ‘ㅣ’, ‘ㅗ’와 ‘ㅏ’를 어울러 쓴 것인데, ‘ㅔ’는 단모음([e])을, ‘ㅘ’는 이중 모음([wa])을 나타낸다. ‘ㄱ’ 두 개를 어울러 쓴 ‘ㄲ’도 초성에서 하나의 소리, 즉 된소리 [k']를 나타내는데, 15세기 국어에서는 ‘ㅅ’과 ‘ㄱ’을 어울러 쓴 합용 병서 ‘ㅺ’으로 [k']를 나타냈다.\n한편 어울러 쓴 자모 하나가 두 종류의 소리와 결합한 경우도 있고, 반대로 하나의 이중 모음이 어울러 쓴 자모 두 종류와 결합한 경우도 있다. <표준 발음법>에 따르면 ‘ㅚ’, ‘ㅟ’는 각각 단모음으로 발음하지만 이중 모음으로도 발음할 수 있다. 이는 어울러 쓴 모음자 ‘ㅚ’가 단모음, 이중 모음 두 종류의 소리와 결합한 것으로 전자의 예이다. 이에 비해 이중 모음 [we]는 어울러 쓴 모음자 ‘ㅞ’로 나타내는데, ‘ㅚ’로도 나타낼 수 있다. 이는 후자의 예이다.\n형식과 내용의 결합은 변할 수 있다. ‘ㆁ’은 내용은 그대로이면서 형식이 바뀐 예이다. 현대 국어와 달리 ‘ㅔ’는 15세기 국어에서는 이중 모음([əj])을 나타냈는데, 이는 형식은 그대로이면서 내용이 변한 예이다. 형식과 내용이 모두 변한 경우도 있다."
+      },
+      "questions": {
+        "q35": {
+          "type": "choice",
+          "instructions": {
+            "문항": "35. 윗글에 대한 이해로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "‘마’의 ‘ㅏ’는 형식이고, 그 내용은 ‘ㅏ’가 나타내는 소리이다.",
+            "②": "현대 국어 ‘콩’의 ‘ㅇ’과 15세기 국어 ‘코ㆁ’의 ‘ㆁ’은 그 내용이 같다.",
+            "③": "한글 자모 24자 중 자음자에는 두 소리의 연쇄를 나타내는 것도 있다.",
+            "④": "이중 모음을 나타내는 것 중에는 24자모의 모음자 3개를 어울러 쓴 것도 있다.",
+            "⑤": "‘ㅟ’는 ‘ㅜ’, ‘ㅣ’를 어울러 쓴 것이고, 두 종류의 소리를 나타낸다."
+          }
+        },
+        "q36": {
+          "type": "choice",
+          "instructions": {
+            "문항": "36. 윗글과 <보기>를 바탕으로 <자료>를 탐구한 것으로 적절하지 않은 것은? [3점]",
+            "보기": "◦ 『훈민정음』(해례본)에는 <한글 맞춤법>의 한글 자모 24자 외에 ‘ㆆ, ㅿ, ㆁ, ㆍ’ 4자가 더 있었다.\n◦ 15세기 국어에서 ‘ㅄ, ㅳ, ㅴ …’의 합용 병서는 초성에서 두 소리의 연쇄로 발음되는 자음군을 나타냈다.\n◦ 15세기 국어의 ‘ㅿ’은 15세기 국어의 ‘ㅅ’과 같은 조음 위치의 유성 마찰음을 나타냈다.\n◦ 15세기 국어에서는 경구개음이 자음 체계에 존재하지 않아서 구개음화가 발생하지 않았다.",
+            "자료": {
+              "㉠": {
+                "15세기 국어": "앗겨(←앗기어)",
+                "현대 국어": "아껴(←아끼어)"
+              },
+              "㉡": {
+                "15세기 국어": "이ㅵㅐ",
+                "현대 국어": "입때"
+              },
+              "㉢": {
+                "15세기 국어": "어버ㅿㅣ",
+                "현대 국어": "어버이"
+              },
+              "㉣": {
+                "15세기 국어": "ㄱㆍ독",
+                "현대 국어": "가득"
+              },
+              "㉤": {
+                "15세기 국어": "즐기디",
+                "현대 국어": "즐기지"
+              }
+            }
+          },
+          "criteria": {
+            "①": "㉠을 보니, 15세기 국어의 ‘ㅕ’는 현대 국어의 ‘ㅕ’와 형식도 같고 내용도 반모음과 단모음의 연쇄인 이중 모음으로 같군.",
+            "②": "㉡을 보니, 15세기 국어의 ‘ㅵ’은 ‘ㅂ’이 나타내는 소리와 ‘ㅼ’이 나타내는 소리의 연쇄였고, ‘ㅵ’의 ‘ㅼ’은 현대 국어의 ‘ㄸ’과 형식과 내용이 모두 달랐군.",
+            "③": "㉢을 보니, 15세기 국어의 ‘ㅿ’은 형식과 내용이 모두 소멸되었군.",
+            "④": "㉣을 보니, 15세기 국어의 ‘ㆍ’는 형식이 소멸되었고 내용은 다른 소리로 변했군.",
+            "⑤": "㉤을 보니, ‘ㅈ’은 ‘ㅔ’와 마찬가지로 15세기 국어와 현대 국어에서 형식은 같고 내용은 다르군."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEhA2GOAdVcAAdRLlLlfZYATxwClNfQBZ1gAcmjfQFKjgEebAuh19tgCq7APp19AASuAW0cA4g30CAE4BlxgHR8gBBjkoAYBIAq84CBjICYBIAC43zhUXyAIqOAGe2AC6N8gNg9gBZz8dGAIuN8gC8jfIpa2gAUgJbzAJRE8YAu44CujIAKjFGAGuN8gBotgB+T5fqAELOAjIPxTVEA1ICIkyMhbfUhroAhPYD+jIDGjB18gNKDfTqDM8sT0-Hr84CMjICxjICjzRuA1TP9fMPxp4cz51F+QrwCAL5EX3KACVHAC0NaiEAG0AMwAVkAev8QgBsAF0+IATpp8WkKgF9xwAHNXxADzdPgygFemwAaq4AdocAJGMfYj-IRGQAc3aCQCo4j5ADGDfHp2gaKICgA-awDgHSjAC5d8UAgoyxPhswA1nYAfccAMnX1LkKgD84slXJ5AVEgA41-SAVDXALtDgB+avhAwCVY51AA01gEtVwA844AdDr4DUAFx2uQAcE3xABHjukADs1K7S2QAtMwbDQ1cXzOdpAAA1fEAGQ2AAYWgfoZbGLVqgoALucAAM3quJgwATnYjOsM0p44ynpYAPcb4gETRwA4Q3xACJ9PkKieTfCN4fqFriDebPgzRtNFutNri2naXgzIUA8oxRJ0yvhgsCIpztv3xJILixS6XL1frpP6QDBNfU+dLcYAQNdzgFta1xl-SAB9HADa1gBwageFEKAcUYoo748efC+s2gAuq3w+BQoAHIOiHw96Pnkf5OomgAdDXwJ5xA0TiAC89gA3o3wgAAk7y3C8AAPCofCAHudgAls4AqT0AHwZIADK2AC6dorkfY+jaD4gYhKcgAsjIA7IyAJyMYqAEKMgCijN+gASjIAUoyANKMgAyjIAsoyAHKMiT4AALNo9R2Nx8SzoAioyAMqMgCqjIA6oyANqMgA6jIABoyAIaM6zgQADIGgC4s3wABMWkzvYUScdxgACY3wunaE4SSAB1jgA37c6zH6IAC50Zl5gaAB5jnQcZ5H4NIAgwNpY48SuFFxRoVEWrEegSV2PogCANVVfAknGnQykeHYng0fCyoAGD3TkYgAznfMFlRIAGTOAD-tfAdbppqABdNumdE+gAjgzWDSTMFPgVGCABWqCIjUbaASeu5eryfAFdFJQhXwkxpPo02tgBLUHdi9RLStu33d6R0hIAKoxREFISABqMfl8DV8RGT9xxRPMZlg3OUROCdRUnlW-rxN9126WtcDbfk8wA-oz3o2CADuq47QByEfc8fCAAotfBvnDhUlCEgBMjFEu6lp49WNdK9SAJGTfCADgtS5ggA1gA5Gud1+vUEHQbBD7uPoITiVEpq8VEhTwyUNrmnwgCLPZ4ISAF6MiHLmLEuJoAEw1EbwiiAB3Lx0M7Ydh1XGsY04AoROABqdXNBbaZSAL01gANYw99QddmTqc86y26W1mtO9TfBe77NoB8H70BCRwj4XwgA4PT49FMax8SAFqMEPxIA+oyA8DN3-nnJK9VHK2OrueeAAarfCABhD6fOvocfnSEpexjdT3R+iHve3uydlCe-6ACATk5BBmDQZE2YH4+iROY73jv94AeowLpLyMDzuAGAD0Nnfdw0+iACNrC+BKVvDDmalp8LacSAAM97dd4dAQhNEcS9j4HycODRhSeC7HwQAKD2AAQGxeR0bxyyCoAG6b9xfUBjLGCcEFaNwJoATSB1pYwAhbKWPdOyGjiMAh0oDPDpj4O-Mo98jpP1oXYGm9C+BBwOkREAvBvjEBABABAqAaAQAYEgFg7BODSAEEIAAjtCNQ0jZBCAYAATwgHAJkFAAAWqAoAUE0TSGQMiQBQHQEgBgCAqAUAYGgcxij-iyDkPSQAtqtMmhAEQA6OPKAyNmMoDQQJOi8IACAn67mDiOhFUnxjF8F+I4uQFAEBQAYIgKAYAHExJMYAAxImQhALBsGGoZuxAOfnEGGsYNx7lKkYpxJjACGJEyBB954hVAKb+U0GC5bxEiAU-+JTaGAEwa7hfxMlyEAEYkTJ2LOyShdWw3EroJxlLNOazVTxcOpCM2pchADGJEyder1TwXQWRVTo50IR0wdqdNC6yhCbNqUIQAJiS5MrorKyZcQjrHplc1qj0E5ey5kecm1J4nfH+HEmQciEQZKcSo9RhjJBCB0Xogxtz4lCDMRYqxNi7FIGhfckArj3Hwi8coU0JEsKiDok4SBgBVhf-CRbQgAZjqpXwQACwsvmnv+EJYSzARJiGqSEgAECcRKi0ZQgKVMkAGekfBABwDIACbXAA-3YAVAmfCAHgGCoIFAACHYAD56agLLIpoai9FOhTM8lpPgyUMghEAGGM9Rlj1AiPUN4fAtKxkACrN3pAATo9bdA0rOlYPiIAEUZ6iAGdGeogAXRj4IAMgINjaz1tg9mizpTLKdHnQAGC3+UAA61u0rYfF4H6qCmDXCdBCAcOI-ri3xGVqaAZcRAAOE+iQAIOOAA05zogACcZGAWQADDO3Utj6gtsssH6H9u+Qccy+BBkACM1GRAAuE4AGvGeVJE8KOwAKmuxhzoAXYGeWAA1R4Z8STFMrxVsoQgADJiPVsuQFamSAHVRwAFTUVEAAmE17RCuBqKKi9yiQBNNcEyJIgAXusfUkQAPg2vuiR+8FH6hCAEMmc9x6QBXuwHIZoLR30frkN+pkgBQ8cADKtYGL0QYvUIQARkywfxQhhFIAlhrFQ5Br9d4f2IaEEsBoeGtkEbg4AYyZSMwvg4WuWTILiXBo4Ruj-HGMgGjIAXZbWO1PY-iwAJkzcc-eRuQgAEydEIAFFbhNwYw+J9TRgZNONBaM4zRm7kmMSck1J6TENKJ4zk8TJ7ChYUABNN0s+P3hLSZQG36vNgyNLuAZuILS7nGj4KaM0+DzUWqPf8AzM0bP3XIBp4moPObc+BDzlaQhjDKaJEqktJ7xEAD6MBXKlLKi3NQAAGO-JywU0rcRfPxEAByMKsyEjnNG1VhfAkGAAT2hL2nxlMiI+l9zg7stlva8-LrNM2SAA8utNnqBs1Pxbs8THHRuZfGyWt4RSpQLc9cF80cQUSAA9OvcTp36AAjV5b5nP1PPE-JzbIQpKSjQUFAsgAaGejEYJ0FagrfrLGQuIQXSmomYstkFYLeH8KQHAAANnAGxcBSAAFlUCkAR0gbAYIQDrTgLgAAtPDsAKSLEgERN8IAA"
+  },
+  {
+    "id": "언매_37",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "언어와 매체",
+      "원문_쪽": [
+        17
+      ],
+      "문항": [
+        37
+      ]
+    },
+    "request": {
+      "questions": {
+        "q37": {
+          "type": "choice",
+          "instructions": {
+            "문항": "37. <보기>의 [조건]이 모두 실현된 문장으로 적절한 것은?",
+            "조건": [
+              "관형사가 관형어로 쓰일 것.",
+              "선어말 어미를 통한 높임 표현이 나타날 것.",
+              "자릿수가 하나인 서술어와 둘인 서술어를 포함할 것."
+            ]
+          },
+          "criteria": {
+            "①": "편찮으신 음악 선생님을 세 학생이 보건실로 조심히 모셨다.",
+            "②": "아버지께서는 언제나 책을 몇 장 읽으시다 잠자리에 드셨다.",
+            "③": "끊임없는 노력으로 할아버지께서는 결국 시험에 합격하셨다.",
+            "④": "유난히 길어진 추위에 할머니께서는 온갖 걱정을 다 하셨다.",
+            "⑤": "저 가게에서 파는 떡이 정말 맛있다며 삼촌은 입맛을 다셨다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjEgQKo0QGSFu07AAOugAEU8SACOAZgDscrFInSZskAwCeEOGp0UAFqigUjxSdp1R0SBgioUGaR8c12ZcwBzdgLarxnIqAHRSADyALz2ADHUAfIAa41IA2oAOE4AuNQC6gC7jUoAVXYAKLVKAJ0OAIGuAOC1SfoCl44A844A6HVKAgBOAEBOAOqtSgME1gALjAPxyRLY+chnGyUM+OoAAtYCoa4A1A4AANVKzgC2jjYAPI4A+412hAxPDIIAEgyuAC51SK4Af3YA+nVKArYsdgEmNgCHjUoA6K6W5gBkNgAMLgAUNO3stJM5IAE8cA-Z2ADCGloANVc+gA9xqSAHEHAARDK0AAmNSQAaLQiUSsboAb5cAFquAA1WASB9jJMvsAL6DIEmBBQBiIKBgLwUnSAAxJgiBAB3LgDoZ2qAA6GpIAZccAoqNSQ6AXYHABtNgBFxqSADkGpIBNVeluSi6WKjVSgBuhwAR6-lABaDgBOm3Y2em+ECAQxIeYARUcAIT2AAcnABt1iMAKU1SQAdo4AcCc+UkAojOKwDhXVJqlJAL7jtUAO0OmqSAAvGQYAazsAC6NSQA7LWaLXTgSBAEYkPMAUg1PQBjo17AB6NgFIOhpSYlOt2eqSABprALa1UhjgA3V9OAS1XAJU10OzgLzgGMSHmAAnHADkNRsAHHUrQAjk1JACmzgBBx9PEwAcXYAJpvdXsAFGOANBqpIBHGsAqBOK+OD83Dg6AExIeYAACakC0AMTWpxFSQAwy17AIWtuVPZyANudgAR46agAOXVIgA9A4AMLPdFIgCh44BF5DuS9LUkM6HoNS3BIHAAA2cBuHApAALKoKQ+FINgyQgAAVnAuAALR4WAzJOCAmTUkAA"
+  },
+  {
+    "id": "언매_38",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "언어와 매체",
+      "원문_쪽": [
+        18
+      ],
+      "문항": [
+        38
+      ]
+    },
+    "request": {
+      "questions": {
+        "q38": {
+          "type": "choice",
+          "instructions": {
+            "문항": "38. <보기>의 ㉠～㉩에 대한 설명으로 적절한 것은?",
+            "보기": "<정원과 지수가 카페에서 만난 상황>\n정원 : 어머, 지수야 안녕? ㉠<u>여기</u>는 무슨 일이야?\n지수 : 응, 안녕? 이따 학생회 회의가 있어서. ㉡<u>이번</u>에 □□고등학교하고 연합 체육 대회를 하잖아.\n정원 : 아! 맞다, 네가 체육부장이지? 작년에는 ㉢<u>거기</u> 운동장에서 했으니까 이번엔 우리 학교에서 하겠네?\n지수 : 맞아. 올해는 우리 학교 체육관에서 하기로 해서 할 게 많더라. 경기 종목 정하고, 간식도 준비해야 하고.\n정원 : 간식 준비도 우리가 해? ㉣<u>그때</u>도 여기서 준비했잖아.\n지수 : 응, ㉤<u>그쪽</u>이 대신 기념품 맡는대.\n정원 : 그래도 간식 준비가 훨씬 힘들지. ㉥<u>거기</u>랑 좀 나눠 맡자고 해.\n지수 : ㉦<u>그건</u> ㉧<u>그래</u>. 근데 ㉨<u>그건</u> 이미 결정되어서 다시 분담하기가 좀 ㉩<u>그러</u>네.",
+            "표기": {
+              "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+            }
+          },
+          "criteria": {
+            "①": "㉠과 ㉢은 현재 담화가 이루어지고 있는 장소를 의미한다.",
+            "②": "㉡은 발화시와 동일한 때를 가리키고, ㉣은 발화시 이전의 때를 가리킨다.",
+            "③": "㉤과 ㉥은 청자를 포함한 대상을 나타낸다.",
+            "④": "㉦과 ㉨은 앞에서 이미 이야기한 내용을 가리킨다.",
+            "⑤": "㉧은 ‘만족스럽지 않다’는 특정한 의미를 나타내고, ㉩은 상대의 제안에 대한 동의를 나타낸다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjEgQKo0QGSFu07AAOugAEU8SACOAZgAccrFInSZskAwCeEOGp0UAFqigUjxSdp1R0SBgioUGaR8c12ZcwBzdgLarxnIqAHRSADyALz2ADHUAfIAa41KABkyAev+AlkyAC6NSgADNgDqrUoAkg4ChXYA844A6HVKAgBOAEBMFgME1gALjAPxyRLY+crHBIBGAqBOAC2OAPzVSgAOTgBhDgAA1UoAuc4AZy5mAOINSgDOdgDkNUoCDA4CWa3HikoNS6oAto4AcXURj44A+o1KAEqOAqo3NKRFUcYA3ozERAPSvgClNUoAWbsAFUNSQA+44AXcaurUkEyOUkAiuMXB5PcGABlapIBNVcAuwOAGLWpDiEtNABHjx0W4UAhkwvOLgwARPd9XtlAIWkjMABzWAR5aMYAFWsAGqssqSAB9HAJarUkALTOAQnHcjjAD6dUm5gDTxwAio6F9uhDuoFQBCKSAPc7ACdNF0AJI3TcWAAN7AKXj4NGT0AieOAEUbMv9AEZMVMADjWfH5xKSAFrHAJvNZqWUkAEaulQATTYAZOqktMAK6NSQANY4AazsxnID3MABTUG6HoWHqbVKqSAGjHAC6r-wTSdFYsAALUpmKVQvLQAGq1JADE1UkAc52AFWbAD7t4UAvTUxKSAUInAJVdUj6vIugBAawC7Q4AR5qkgABJwAifYWbrzlQcBnDpwvF3OE9NC09AMZMVMAH7WAGVb6XE5x9lkvA4r11nxnDEVJACZMZ8AvVNX8G5QAHQ1IMSAAqNgARK1IgCHnb8ORPmqUinoAGe1ztuS7TIAF2uADSjUiABnrgAnLaM4SAKZMrruq8gCJ7VIgABE1IgAZDYABE2QYACeN8oWT7ZlIgBmTGegAuNVeUiAOZMZ4IVe4SAD+1gAOzVIgAWTDxfHgoAH91SIADTV9IAGC2klIuqADtDUiACG9gAvTdyMTTNR6RnoAN+1Xgayo2FodhyIAOisxF4HQ+DoVKAGQEV49AMfgBoAiD2ACCT8HHIAI5NSCaulSAAFIAeqNJMkFyAAskUhso0Ui+UkDmjAAlHIrnaAAvgVhXtHZJgIFADCIFAYAueVvggIABiQ9MkIyOulgAga4ANeNSPpgAqa9M4KABcdxyjHyRL-GagAxgzKCTyXkuo2WVblyIAhiQ9OS6WADg9-VaYAAmNSD6oIFOeMqTPGgAlCyyFxHjte2RoAIBNJGdUgXYAFQtLW0BWNYARiQ9O+IyEelgC1M4xMqADfLgAWqwUOSbIAIuO0YAAwuAB0NX22atICAMYkPQcSMUnpbFAYKZGVwxAUgAtDYAlWOIx96MrZ0ICACYkPT8elgAYBCsgCOE4AJUOAL-toxSIAUqO6oAmAT-IAnUt9AU80yjRSMUzdUjpOlmw5EkgA4E7c2T5EdCRy6j6MlR0xXoIV3BIHAAA2cBuHApAALKoKQ1tINgADaIAAFZwLgAC0VtgNVTggAAuoVQA"
+  },
+  {
+    "id": "언매_39",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "언어와 매체",
+      "원문_쪽": [
+        18
+      ],
+      "문항": [
+        39
+      ]
+    },
+    "request": {
+      "questions": {
+        "q39": {
+          "type": "choice",
+          "instructions": {
+            "문항": "39. <학습 활동>을 수행한 결과로 적절한 것은?",
+            "학습 활동": "국어의 의존 형태소에는 접사, 조사, 어미 등이 있다. 이들은 각각 새로운 단어를 만들거나, 문법적 의미를 더해 주는 등 다양한 기능을 한다. 제시된 자료 ㉠～㉢을 분석해 보자.\n㉠ : 발표가 <u>시작되자</u> 참석자들은 모두 목소리를 <u>낮췄다</u>.\n㉡ : 비에 젖은 옷들을 <u>말리는</u> 데 시간을 다 <u>빼앗겼다</u>.\n㉢ : 나는 내일 <u>친구랑</u> <u>만나</u> <u>미술관이랑</u> 영화관에 <u>가</u>.",
+            "표기": {
+              "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+            }
+          },
+          "criteria": {
+            "①": "㉠의 ‘시작되자’와 ‘낮췄다’의 접미사는 모두 어근에 결합하여 어근의 품사와는 다른 품사의 단어를 파생하였다.",
+            "②": "㉠의 ‘낮췄다’와 ㉡의 ‘빼앗겼다’는 모두 사동의 의미를 더해 주는 접미사가 결합하여 형성된 단어이다.",
+            "③": "㉠의 ‘시작되자’와 ㉡의 ‘말리는’은 모두 피동의 의미를 더해 주는 접미사가 결합하여 형성된 단어이다.",
+            "④": "㉢의 ‘친구랑’과 ‘미술관이랑’의 조사는 앞말의 받침 유무에 따른 이형태 관계에 있고, 모두 앞말을 부사어로 기능하게 한다.",
+            "⑤": "㉢의 ‘만나’와 ‘가’의 어미는 모두 문장을 종결하는 동일한 문법적 기능을 한다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjEgQKo0QGSFu07AAOugAEU8SACOAZgCccrFInSZskAwCeEOGp0UAFqigUjxSdp1R0SBgioUGaR8c12ZcwBzdgLarxnIqAHRSADyAmquArUNSgDprgJvNAHyAIuNSgBhDgJGrgDqrUoANNYA-NYA6HVKAgBOAEBN5gME1gALjAPxyRLY+crEJicEggLa1gC2jgBrjUv2ALhNSgKhrgDsLgDGDgAujgClNUoCIE4A1A0RSgA4Tq1K9gB-dUoCPLYAu41KAEeOAJ03hh4AnLbVSgIA1d1KAEwPFgC1jUoAXTb2APp1SgDOdV0ADjWADIa1n5AKk9ZSGO1+gBVmwAuq1JAD8TC32UjOgETRvKABjrAKVN6RyFykgBwJwA7Q4AcFqkgATxwAzHVJAAZMgD1-wBGTOlACG9gFxBxGAF56qaFxJJ6VJ1IAcHsAOiuAABrIlRkqTAInjgAwWqkRAD0MqkgA4ZjlUm5SQAVXYAFFqkgEquqaAGs7fhEZYA6hsAI7NnVUy-mSQCGTMKpIARPpmUkAaBO3QDsY1d0lbkoAFzrNc0dySkgAdmqSkwAgNekztLkoAfPsA6qOAHpqHWrks70Mz3cCFoAWhsAPuOpwA6c4AbWsAie1R1N-YGNkM7QAEQ4AAWsODbzUkAgGOAFTXO96QxKo-ybFo7HIxdivC0fDoQ4AyAijXUAC2N+GaAHEGpIBEHsAIJNSQAftb1ACOTUkAAb1sqQACkAeqODelrQALJAdblvBmLAAOTAEo5EXbQAF8gOA5ppxMBAoAYRAoDABdIN8EBAAMSLp6UGQAMAnlJVAEwCQABMakTC7TOXDBkWHZlgWQ1tkAH9rvXyQBLVcADVXABvRujBkACJXlnwhYzkAD06pG4wYvl+QAYZcAXYHmMAADGLiaIDkMAQxJ0KwkiCKkF0sMzHNcOoo1lkSQZ+hhKQEWRBYKOWKUmLY8ZAEZBykvkOOSpyXORACMSFSiJwql1M0ojwzmXDbhowAeVcM6E4URFElko6yWPYsYHM+XpnMnCC3JAQBjEi6ZksNrOtcMKIiO27QrBk2BYH1DQZAGwewALOakQACccAFm7vUABlbBMOSYpE7QARmu9E5AAOatYaOq9Ir2WXpSjxZjABiaqRCXShSdEAExJcqw5t1MwiUyO2HY9KkPxAFLx9JAFCJ-JmIWRJyzyCEoTxAkXLAlpQPQYDuCQOAABs4DcOBSAAWVQUgfqQbAAG0QAAKzgXAAFpvrAWCnBAABdYCgA"
+  },
+  {
+    "id": "언매_40-43",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "언어와 매체",
+      "원문_쪽": [
+        18,
+        19
+      ],
+      "문항": [
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "<u>…</u>": "원문에서 밑줄 그어진 부분 (앞의 ㉠, ⓐ 등은 원문의 표지)"
+        },
+        "안내": "[40～43] (가)는 온라인 알림 메시지, (나)는 학생의 블로그이다. 물음에 답하시오.",
+        "(가)": "[스마트폰 화면] ◇◇ 시립 도서관 (앱 상단 바: 뒤로 가기, ◇◇ 시립 도서관, 검색, 메뉴)\n◇◇ 시립 도서관\n알림 메시지 도착\n※ 이 메시지는 수신에 동의한 회원에게만 발송됩니다.\n‘상호 대차’ 이용 안내\n1. 상호 대차란?\n우리 도서관에 없는 도서를 협력 관계에 있는 도내 다른 도서관에 신청하여 이용자가 지정한 도서관에서 받아 볼 수 있는 도서 대출 서비스\n2. 이용 안내 및 유의 사항\n• 신청 권수 및 대출 기간 : 월 5권 이내, 14일간\n• 수령 기간 : 도착 문자 수신일로부터 3업무일 이내\n  ※ 정기 휴관일(월요일) 및 공휴일 제외(일요일은 운영)\n  ※ 미수령 시 자동 반납 및 3일간 재신청 불가\n• 수령 시간 : 09:00～18:00\n  ※ 도서관 자료실 운영 시간(09:00～22:00)과 상이함.\n• 신청 절차 : 누리집 로그인 → 도서 검색 → 상호 대차 신청 → 수령 도서관 지정 → 신청 완료\n[버튼] ◇◇ 시립 도서관 누리집 바로 가기",
+        "(나)": "[블로그 화면] (상단: ‘블로그’ 로고, ‘이 블로그에서 검색’ 검색창, 메뉴)\n도서관 상호 대차, 저처럼 실수하진 마세요!\n공개 유형: 전체 공개　　게시 일시: 2025. 10. 17. 20:32\n안녕하세요. 명호입니다!\n수행평가에 쓸 책을 구하지 못해 막막했는데, ◇◇ 시립 도서관에서 보낸 ‘상호 대차’ 온라인 알림 메시지가 떠올랐어요!!!\n[왼쪽 상자] 상호 대차에 대한 자세한 내용은 우측을 클릭해 주세요.　[오른쪽: ‘상호 대차!’ 동영상 재생 화면, 링크 https://video.lib.△△]\n바로 검색했더니 이웃 도시의 △△ 도서관에 찾던 책이 있었어요. ⓐ<u>상호 대차를 신청하고 며칠 뒤인 일요일에 도착 문자를 받았답니다!</u> 수령 기간이 ‘도착 문자 수신일로부터 3업무일 이내’라고 되어 있었지만, ‘업무일’이 뭔지 잘 몰랐고, ‘로부터’는 당연히 문자 메시지 수신일을 포함한다고 생각해서, 화요일이 수령 마감일이라고 생각했어요. 그런데 화요일에 갑자기 일이 생겨 못 갔고, 3일간 재신청할 수 없다고 생각해 좌절했답니다.\n그런데! 목요일 아침! ⓑ<u>도서관으로부터 문자 메시지가 와서 오늘 내로 신청 도서를 수령하라는 것이 아니겠어요?</u> 전화를 했더니 ‘업무일’은 휴관일 제외, ‘수신일로부터 3업무일’은 ‘수신일＋3업무일’이라고 알려 주셨어요. 정말 기뻤답니다. :)\n\n자료실 운영 시간을 오후 10시까지로 알고 있어 여유 있게 도서관으로 갔지만…, 수령 마감 시간은 오후 6시더라고요. 도착한 건 오후 6시 25분…. 안타깝게도 책을 놓쳤습니다. [그림: 고개를 떨군 채 시무룩해하는 너구리 캐릭터]\n(ⓒ<u>결국 그다음 주 화요일에 다시 신청해서 그 주 목요일에야 책을 받을 수 있었어요.</u>)\n여러 도서관의 누리집을 확인했는데 운영 방식의 큰 틀은 같았지만, 도서관마다 대출 권수나 수령 시간 등 약간의 차이가 있었어요. ⓓ<u>다음 세 가지 유의 사항을 꼭 확인해 봐야지 저 같은 실수는 하지 않을 거예요.</u>\n[메모 상자]\n☝ ‘업무일’ 계산 시 휴관일은 제외함.\n✌ ‘수신일로부터 ○업무일’의 날짜 계산 : 수신일＋○업무일\n(손가락 셋) 수령 시간과 자료실 운영 시간이 다를 수 있음.\n비록 좀 늦어지긴 했지만, 상호 대차 덕분에 큰 도움을 받았어요! 한 곳의 도서관만으로는 원하는 책을 구하기가 어려운 경우도 있는데, 도서관끼리 연결되어 있으니 마치 하나의 거대한 도서관을 이용한 것처럼 책을 빌리기 편했어요.\n이렇게 좋은 서비스를 모르는 친구들이 많아서, 상호 대차를 소개하는 카드 뉴스를 만들어 우리 학교 누리 소통망에 게시할 예정이에요. ⓔ<u>완성되면 블로그에도 올릴게요.</u>\n#상호대차 #도서관 #업무일　　♥ 공감 56　💬 댓글 5"
+      },
+      "questions": {
+        "q40": {
+          "type": "choice",
+          "instructions": {
+            "문항": "40. (가)와 (나)에 대한 설명으로 가장 적절한 것은?"
+          },
+          "criteria": {
+            "①": "(가)에는 (나)와 달리, 제시된 내용과 관련된 정보에 수용자가 접근할 수 있는 방법이 마련되어 있다.",
+            "②": "(나)에는 (가)와 달리, 문자 언어로 표현되는 정보를 보완하기 위해 상황에서 느낀 감정과 관련된 그림이 활용되어 있다.",
+            "③": "(가)와 (나)에는 모두, 생산자가 정보를 게시한 날짜와 시간이 표시되어 있다.",
+            "④": "(가)와 (나)에는 모두, 한정된 수용자에게만 정보가 제공된다는 내용이 제시되어 있다.",
+            "⑤": "(가)와 (나)에는 모두, 생산된 정보에 대한 수용자의 반응이 시각적 기호로 표현되어 있다."
+          }
+        },
+        "q41": {
+          "type": "choice",
+          "instructions": {
+            "문항": "41. 다음은 (나)에 달린 댓글이다. 참여자들의 소통 양상으로 적절하지 않은 것은?",
+            "보기": "[살구] 알려 주신 상호 대차 덕분에 꼭 필요했던 책들 중 대부분을 구했어요. 이 과정에서 명호 님의 실수담이 큰 도움이 되었어요.\n  └ [태양] (살구에게 답글) 살구 님, 그렇다면 책을 다는 못 구하신 건가요? 그럼 전국 단위 상호 대차인 국립중앙도서관의 ‘책바다’를 이용해 보세요.\n[꽃잎] 도착 문자가 언제 올지도 모르는데, 명호 님처럼 ‘수신일＋3업무일’ 동안 예상 못 한 일이 생길 수도 있잖아요. 도서 수령 기간을 늘리면 좋겠어요.\n  └ [동동] (꽃잎에게 답글) 저도 수령 마감일을 넘겨서 재신청 불가 기간 동안 책을 못 빌렸어요. 10업무일 정도로 기간을 늘려 달라고 도서관에 건의해 보려고요.\n      └ [바다] (동동에게 답글) 기간을 늘리면 좋긴 할 텐데, 10업무일은 너무 긴 것 같아요. 그 책을 급히 찾는 또 다른 사람이 있을 수 있잖아요."
+          },
+          "criteria": {
+            "①": "‘살구’는 (나)를 문제 해결을 위한 유용한 정보로 수용하고, 이를 적용해 자신에게 긍정적 결과가 있었음을 밝히고 있다.",
+            "②": "‘태양’은 ‘살구’의 상호 대차 이용 경험에 대해 자신이 이해한 바를 질문하고, 도움이 될 만한 정보를 제시하고 있다.",
+            "③": "‘꽃잎’은 (나)에서처럼 예측하기 어려운 상황이 발생할 수 있음을 언급하고, 이를 근거로 자신의 바람을 드러내고 있다.",
+            "④": "‘동동’은 ‘꽃잎’의 생각을 자신의 경험과 연결 짓고, 재신청 불가 기간 연장에 대한 자신의 계획을 밝히고 있다.",
+            "⑤": "‘바다’는 ‘동동’이 제시한 의견에 일부 공감하고, 그 의견이 실현됐을 때 발생할 것으로 예상되는 문제를 언급하고 있다."
+          }
+        },
+        "q42": {
+          "type": "choice",
+          "instructions": {
+            "문항": "42. 다음은 (가), (나)를 바탕으로 ‘상호 대차’를 소개하기 위해 만든 카드 뉴스이다. 제작 과정에 반영된 학생의 계획으로 적절하지 않은 것은? [3점]",
+            "자료": {
+              "카드 1": "제목 ‘꼭 필요한 책인데, 구하기가 어렵다면?’ / 그림: ‘도서관’ 건물과 책장 옆에 각각 ✕ 표시가 붙어 있고, 한 학생이 머리를 짚으며 걱정하는 모습.",
+              "카드 2": "제목 ‘포기는 금물! ‘상호 대차’로 해결!’ / 그림: ‘다른 도서관’에서 날개 달린 책이 화살표를 따라 ‘지정 도서관’으로 날아가고, 학생이 책을 펼쳐 들고 웃는 모습.",
+              "카드 3": "제목 ‘하나로 연결되어 편리해진 도서관’ / 그림: A, B, C, D 네 도서관이 서로 화살표로 연결되어 있고, 그 뒤 배경에 커다란 하나의 도서관 건물이 흐리게 그려진 모습.",
+              "카드 4": "제목 ‘이것만은 꼭!’ / ‘‘수신일로부터 3업무일’이란?’ 아래 달력: 일 1(도착 문자 수신), 월 2(정기 휴관, 음영), 화 3, 수 4, 목 5, 금 6, 토 7. 일요일(1)에 ‘수신일’, 화·수·목(3~5)에 ‘3업무일’ 괄호가 표시되고 ‘수신일 ＋ 3업무일’로 나타냄. / 아래: ☆☆도서관, □□도서관, ◎◎도서관 … 검색창 이미지와 함께 ‘개별 도서관 누리집에서 상호 대차 운영 방식에 대한 정확한 정보를 확인하세요.’"
+            }
+          },
+          "criteria": {
+            "①": "‘카드 1’에서는 책을 구하기 어려웠던 (나)의 경험을 반영하여, 책을 구할 때 겪을 수 있는 문제 상황을 책장과 도서관을 배경으로 두고 걱정하는 모습으로 제시해야겠군.",
+            "②": "‘카드 2’에서는 상호 대차에 대한 설명이 담긴 (가)의 내용을 반영하여, 지정 도서관으로 책이 이동하는 모습을 날개 달린 책의 이미지로 제시해야겠군.",
+            "③": "‘카드 3’에서는 상호 대차를 비유적으로 나타낸 (나)의 표현을 반영하여, 상호 대차의 효용성을 여러 도서관이 연결되어 하나의 도서관을 이루고 있는 모습으로 제시해야겠군.",
+            "④": "‘카드 4’에서는 상호 대차 운영 방식과 관련한 (나)의 내용을 반영하여, 상호 대차 이용 방법이 도서관마다 다를 수 있어 확인해야 함을 검색창의 이미지와 문장으로 제시해야겠군.",
+            "⑤": "‘카드 4’에서는 상호 대차 이용에 대한 (가)와 (나)의 내용을 반영하여, 수령 시간에 대한 정확한 내용을 달력 이미지로 제시해야겠군."
+          }
+        },
+        "q43": {
+          "type": "choice",
+          "instructions": {
+            "문항": "43. ⓐ～ⓔ에 대한 설명으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "ⓐ : ‘-답니다’를 사용하여, 도서관으로부터 정보를 받았다는 경험적 사실을 수용자에게 알려 주고 있다.",
+            "②": "ⓑ : ‘-어요’를 사용하여, 신청 도서를 수령할 수 있는지에 대한 응답을 문자 발송 주체가 요구하고 있음을 나타내고 있다.",
+            "③": "ⓒ : ‘에야’를 사용하여, 책을 수령한 시점이 상호 대차를 재신청한 주의 목요일이었음을 강조하여 나타내고 있다.",
+            "④": "ⓓ : ‘-아야지’를 사용하여, 유의 사항을 확인해 보는 행위가 실수를 하지 않는 데 필요한 조건임을 나타내고 있다.",
+            "⑤": "ⓔ : ‘-ㄹ게요’를 사용하여, 카드 뉴스를 제작해 블로그에도 올리겠다고 약속하고 있다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#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-aoRTLGjCsAKk9gpniw-g6mQ0PW3szcAIYk32Nt-bqGt4HAQAJ8EAB2jNhsTCEACBrV9GiI+jBzdKRxUKABBxqmCJACWaw2QACU2AACGvg+Dqww-h9YbogpAA6a-aUn5Orjvb64AIxJvsM-W3EX7fBE2AAUWgI0wc1o-53wB6cpG1ranXwYQAxtcXAp3ruQgBjEiNwD-7ZvLcBBlNWSHKOywqnVIjysZEiLg9WI0I2gowee6qpTvrgATEgD2toPjQQ+kJzQjpHlo5SR58HxQAiuOCgGKgo735TSc557fMnXurvpGu9cEAVX8Cvfe-Vpr3XJC3fa517ruuZsDaGyNsbE2kD9710IOb9wCiuizDsCIQegeAAbOpLyW1ibEABwzxYyw8Z8HpvggBE0YRJMk7oaw0RFcedjPPuhAc3EAt-IgAWgcJtUPJBSYoImcUZ6+w7qgAIqs4R0zNw4w8Z8CACIk5aC4ATITJRpOHwA5NWA2DDHwIABtNPgq0gAL02CiXpXqChXwdxUbpCAAopHwHkIADsLV+1Qbgv+KohwyWBEv+eBAQVgNGqwjm+MWYjQZMRMRwQBOyNQOE3o1gy0Z0eKSIIuwBVoHQOKII8BgAmqPEg+BGg4yoirA2jRhThUwcyQzZSADC9YAHHj1Qe8AElYrOZEfAksMQty7GTMAQOBuBhGqSwEGSWakoGQfA0aPsIhcoLC0wgAHHWdhgaABp482BapCFvCeATFYgGI5vRj4lQTILQXkJKJKMwZYWwQcBwXwLNLcnMs+ATIABiNrCJg-CfA0k34Z4-h9KIhRGgAHB0UJfQnx8DVjgjYinjJH5KA4kL1h8A7JeDGG5JdSZE+7ZF6HMG5GFHFEDF8ApFpF7pCKAAKixBl0XBBEDCjBHwHuq4gGnEZsI1IIYAJB1UC9cjQgACG1Zi5jLiAAx7a3Iyt2LEVRpdpTl3gPiAHdg9k9i9gtrVn8V9l-iAEaL-sAibtGHoA4RTFigTCLnKAuPaHKIjtiCjoPAEMsNGEdvaFTGWBKOMoALB11YDeWKDkZqbcOwBMgAuD0QKDI67TZ9Y04QlGiMHJK8zQk+DTQOjAaAAbqzrESWKIKMsBTHKKiNGIABOTegOJEIZBfAgABC1KYYkczRhg6DzdgsmZ5yCG4cmWHclB5GCEbRqmzC58D-qAaS6CgajTA47dh0ls6XEKl4l8CY6RrYjEk+CojPEEwybspZDMle6T5-H+4cm5HclGhGk+BoIEw+lClOSwZ8CADLk--HUQ0T+GAvtpttxGKD4EmIALFrDJTJOpoZrJcgOeHJehMJRoUZqeAwcoXggANTX7DPiOARYKmNStmCjGRc6AAILQTIADKtmoDpfArikyQRvO-4ZE0YrOrpIZ6W72yQnek+lWBQwMIJN2IAjWzWrWY+XWr+U+g2w2o242GAC+25epy+82I+IAm5mwBKW+dQIw4w0YqIgAqwuTJ8wegGE6aSai5UyqiAAHLXwLJvJo8IfnwGRIAInjGBWB-EDEkOMwhZRZd+XkD+T+52dB5QgACBN5ze5L4gANKL5v4gAQV94QlkQqK8wQE4Ryg4xtAQY-p-qACsHfwd6HaOoKrm1MSHaDslsE5DjIdoAGBj+wqCqCfAgAqORu4DCViACZva3v-HKDMIKIABxdAY0YgAW5MGLDx8CACONdWF+oms8hWXqX1hBVufeTRbzHAqII0IABB1Wwyiv5As2IiJHsfAPFnybUOYwYNoDYdaR0gOe+OMgoXw3+wg0YgADK0tC8w1gBWTJ1rNg1D-xqX0qAA9y4AAszfAPGQ85cBeZlx55FEF5Q9wtlRo6G2IsG8GZGAYFMDg-F3lvFfAAAggEAAEIBAADCAQAAInwIACSNwYgoRg2IkVwgNVcGylPBE8fAgADD1Ab7CAAnc6sJ6GhhhslIJYKIAArrAY4yVguSDgpl5lPullcmBQFVtFfUriqoEQrqXlPFRo3h8Sx8SSywPodozYgAGe1A5xiSDwT4BuA2GATihxABBXhjhuAoQFoBA7BMRYKQSzJ8AFABC0XXgBCOUrIBCAAFi3wH9HwNPG4PgKbhWsBDaFggAO0ihU0qJuDlAAB+14ZNRomSdogAILWmiVju5XxDyvV8BpLvVZLYijDnKAAjDZsDxb9ZIIAGBkstxIAQgAhaRK2K18CABzpOrQZCoIXOSCNAKKxDEGti5IABt1vMB0gAIz3JSlQNj8kiqip5nVi8rqnRj8oQybI2jLl66rk-FhlyAAmPb3bAmSCgkzbgn3lGiUWBVGCNCCE-pWm5KAAHY83P9j4EBoKQTHxAxCWAEHHUIqOYAFU17xPY8JiIEuBMIlTkxIBMS1kyFuQ8RlJlzykyYOFMNKXiAKZ1xF7JEdVl0djQ2sZefAO2gohBe6K2PgRsmd2dxYAQiVhi2I4VAokoTdBMwVu+uMPgywht2Ird7dndJVM2Bpvdcm5Q-dSh0YQ4C4R2kyYtPMqdbuXO09OdShPggAFWv2i2YEwcqjV8C1W3zoYvrQi4aAAXHYMkVS3QMG3R3V3eGfcJHZdefXbc0mKsrnKA-VPUhS-fyVOHwAToKCqmqjOsIkMh6m0G3XwC5ATKNFvYbWtnoPtpA9AwfURX8dWSfajUg8eg6HmStnnuMJPfaM-bPdqieI7c7VDgTIDgmNvX0jBVA-ve3j8WudVD3hUGRXIHucPv7YeRPjudPmeXPpeRo31ivhCRUF3CUJZnmTthhVhROS-t8SuX7bdvdoHc9iY59vcMEG1AALRyL-nLj2gv0L1Hz24rxJ5CkN7LjGSMqo5sEAG2xLmsPU73A6K-hGi+NyyBPBMiMOJGCzofiOnpgxB5lV4HAEws7agFIXSVg4TEyDLOli3BnlmH0G73DooZMGA0o5Mv2CEcRygDB4WCh9ziSFhyi2w+DUrLC0kEyACoNYAA4TJYfAzTyTftfWEZ95lqGTvjzYvqvTIjTqLqZDxhjQyMIulYq00YD+jQNCkBcoCzOygAIeMEyrOtMpPZ73CWY7OACcjB5gcwEBBQppqbBVTM5o4QGF4mIvqoALGD2pbeXtKQnevAmWJASAcAKccAY2cApAAAsqgInCnEgNgHkCAAAFZwC4C+MpxgCPZDYgCVDJBAA"
+  },
+  {
+    "id": "언매_44-45",
+    "meta": {
+      "시험": "2026학년도 대학수학능력시험 국어 영역 (홀수형)",
+      "영역": "언어와 매체",
+      "원문_쪽": [
+        20
+      ],
+      "문항": [
+        44,
+        45
+      ]
+    },
+    "request": {
+      "state": {
+        "표기": {
+          "㉠[…]": "원문 화면 그림에서 ㉠～㉤ 표지가 가리키는 영역"
+        },
+        "안내": "[44～45] (가)는 온라인 소식지에 게재될 특집 기사를 준비하는 문화 연구 동아리 학생들의 온라인 화상 회의이고, (나)는 학생들이 완성한 특집 기사 화면의 일부이다. 물음에 답하시오.",
+        "(가)": "다겸 : 안녕. 학교 온라인 소식지의 특집 제작을 위한 두 번째 화상 회의야. 주제를 ‘소개하고 싶은 전통 문화’로 선정해서 지난 회의에서는 ‘전통 놀이’에 대해 논의했지? 오늘은 ‘전통 음료’에 대해 이야기해 보자.\n도윤 : 그런데, 회의실 참여자 목록에 혜정이가 없는데?\n서현 : 혜정이가 회의실 ID와 암호를 잊어버렸대서 ID는 ‘526 831’로, 암호는 ‘0828’로 알려 줬는데 아직 안 들어왔나 봐.\n다겸 : ID는 맞는데, 암호를 잘못 알려 줬네. 더 편하게 접속하도록 혜정이에게 지금 초대 링크를 보낼게.\n[화상 회의 화면] 상단: ‘다겸(나) 님의 화면을 공유 중입니다.’ / 왼쪽 ‘회의실 정보’ 탭(그 아래 ‘음성 설정’, ‘영상 설정’ 탭): 회의실 ID : 526 831, ㉠[암호 : 0827], ㉡[회의실 초대 링크 https://□□.com/△△] / 오른쪽 ㉢[회의실 참여자(3) ▲ 목록: 다겸(나) 참여 중, 도윤 참여 중, 서현 참여 중] / 하단 메뉴: 음소거, 카메라, ㉣[화면 공유], 설정, 나가기\n[알림 창] ㉤[혜정 님이 회의실에 참여하고자 합니다. (수락) (거절)] — 마우스 커서가 ‘수락’ 버튼 위에 있음.\n다겸 : 혜정이가 바로 들어오려고 하네. 회의실 참여를 수락할게.\n혜정 : 늦어서 미안. 다겸아, 링크 보내 줘서 고마워.\n다겸 : 응. 회의 시작할게. 혜정이가 준비한 전통 음료 자료 봤지? 공유 화면을 보며 이걸 소식지에 어떻게 구성할지 논의하자.\n서현 : 먼저 전통 음료 항목의 제목을 이야기할까? 전통 놀이 항목에서는 ‘전통 놀이와 함께’였잖아. 이번에는 ‘마신다’는 느낌을 살려서, ‘전통 음료 한 모금’이 어때?\n도윤 : 그래. 그리고 ‘한 모금’은 크게 표시하자.\n혜정 : 나는 급식에 자주 나오는 식혜를 다루고 싶어. 은은한 단맛이 매력적이고, 예전부터 천연 소화제로 사용해 왔다는 점 때문에 식혜를 친구들에게 소개하고 싶거든.\n서현 : 좋아. 그 두 가지 특징을 핵심 문구와 그림으로 보여 주면 식혜를 소재로 고른 이유가 잘 드러날 것 같아.\n혜정 : 그런데, 은은한 단맛의 비밀이나 소화제로 기능하는 원리도 알려 주면 이해에 더욱 도움이 되겠어. 다겸아, 같이 보면서 이야기하게 현재 공유 화면을 약간 아래로 내려 줘.\n다겸 : 알겠어. 음, 소식지에는 지금 보고 있는 내용을 다 적을 공간이 없겠는데? 자세한 정보는 ‘더 보기’로 새 창에 제시하자.\n서현 : 식혜의 다양한 종류도 알려 주는 건 어때? 단호박이나 고구마 등을 추가해서도 식혜를 만들잖아.\n다겸 : 그래. 식혜는 원래 밥, 엿기름, 꿀로 만드는 건데, 재료를 추가하면 달라질 수 있다는 걸 도식으로 보여 주자.\n혜정 : 도윤아, 네가 조사하는 ‘전통 간식’ 항목을 식혜와 어울리는 내용으로 구성하고, 두 항목을 연결하면 편하지 않을까?\n도윤 : 좋아. ‘전통 간식’ 항목은 그렇게 구성할게. 전통 음료에서 전통 간식으로 곧장 이동하는 기능을 넣으면 편리할 듯해.\n다겸 : 그럼 지금까지의 의견은 반영하고, 오늘은 이만 마칠게.",
+        "(나)": "[웹 브라우저 화면: ○○고등학교 온라인 소식지]\n상단 탭: ○○고등학교 소식 | [특집] 소개하고 싶은…(선택됨) | 만나고 싶은 사람들 | 말하고 싶은 이야기\n왼쪽 세로 탭: 전통 놀이 | 전통 음료(선택됨) | 전통 간식\n제목: 전통 음료 한 모금 (‘한 모금’이 다른 글자보다 크게 표시됨)\n[식혜의 특징] 식혜 한 잔 그림 / (미소 짓는 얼굴 그림) 은은한 단맛 / (알약 캡슐 그림) 천연 소화제\n  단맛의 비밀, 천연 소화제의 원리는 [+더 보기] (☜클릭)새 창에서 확인\n[식혜의 종류] 밥·엿기름·꿀 ＋ (단호박 그림) ＝ 단호박식혜 / ＋ (밤 그림) ＝ 밤식혜 / ＋ (고구마 그림) ＝ 고구마식혜\n[전통 간식] (☜클릭)에서 식혜에 어울리는 간식을 확인"
+      },
+      "questions": {
+        "q44": {
+          "type": "choice",
+          "instructions": {
+            "문항": "44. ㉠～㉤에 대한 설명으로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "회의실로의 접속을 제한할 수 있는 ㉠과 관련하여, 해당 정보를 잊어버린 혜정에게 서현은 잘못된 정보를 전달했다.",
+            "②": "회의실로의 입장을 청하는 정보인 ㉡과 관련하여, 다겸은 혜정이 더 편리하게 회의실에 접속할 수 있다고 판단했다.",
+            "③": "회의실 참여자를 확인할 수 있는 ㉢과 관련하여, 도윤은 회의실에 아직 접속하지 않은 인물이 있음을 확인했다.",
+            "④": "회의실 화면을 여러 참여자가 공유하는 ㉣과 관련하여, 혜정의 요청에 따라 다겸은 화면 공유의 권한을 넘겼다.",
+            "⑤": "회의실에의 참여 요청을 수락할 수 있는 ㉤과 관련하여, 다겸은 회의실에 입장하려는 혜정의 요구를 받아들였다."
+          }
+        },
+        "q45": {
+          "type": "choice",
+          "instructions": {
+            "문항": "45. (가)의 내용을 바탕으로 (나)를 구성했다고 할 때, 이에 대한 이해로 적절하지 않은 것은?"
+          },
+          "criteria": {
+            "①": "논의하고자 하는 항목의 제목에 관한 서현과 도윤의 대화를 반영하여, 대상과 관련된 행위를 연상시키는 표현을 다른 글자보다 크게 제시했다.",
+            "②": "대상을 다루려는 이유에 관한 혜정과 서현의 대화를 반영하여, 대상에서 강조하고자 하는 특징을 문자 언어와 이미지로 제시했다.",
+            "③": "정보의 효용적 가치에 관한 혜정과 다겸의 대화를 반영하여, 구성하려는 공간의 제약을 극복하고자 상세 내용을 아래로 펼치는 기능을 활용했다.",
+            "④": "대상을 만드는 여러 가지 재료에 관한 서현과 다겸의 대화를 반영하여, 대상의 다양한 종류를 공통 재료에 추가 재료를 더한 결과로 제시했다.",
+            "⑤": "정보 접근의 편의성에 관한 혜정과 도윤의 대화를 반영하여, 정보 간의 연관성을 고려해 한 항목에서 다른 항목으로 이동하는 기능을 활용했다."
+          }
+        }
+      }
+    },
+    "playground_url": "https://console.typesafe.ai/decode#share/N4IghgDglgagpgJwM5QPYDsQC4QDcCMIANCACaoDGArgLZzoAuAKnAB4PYjAA66ABH24hAOiuAGOqFY+PfgMEhABkwBtQGQEAXQlzAC2OAObr6AVNcAuXX0AftYB7OwAujgHEG+8wHr-gEyY+wwAOTgABq+rwDWdgEoXAKU19AQDHAW9GhXgEAXyIwuUAJUcAWho0hRQAWZNtkgFZVPgAKVwBKf0AKMcAfdsAPcb5AGMHAXaHncz5AGJrAGvHAAha+QE6lwEXJvlFAGoHAH06+QABJwBE+wA1V-209PkAH0cAbWr5ATebAEVHPPkBNVcBdgcATlsANcb5Sir1AQYG+QBi13cAXccADmqJcwAyGwo2dy75AETHARkHAHVWO7r79Az7QA+44AA3sugBOmgB0fEAPN2AGXH6oBXprGgB2hwAkY5ChFEZEI8vlEiBwYAOmr4khigFVG6HrQAKtQdylVavsunxADgTgETxwAi43xACDjP0ACi18QARPYAPyf0pwugB9R6GAH4mWYNABgElUAODVja58QBvQ4ABcb4gBAJwCti3wpoBMAkAOh18QAEg4BUCcALqvWZyAHIbzrsrP55fq+IAAxsuRvqgABm618QA+jbtABGrzgA-Hw0YAMpu1boNcMAMx0+vj+viXCWiAOAF57AAnjmN4gBHmwAk46STIAH9sADs13C6AE6G+IAOGcAN6O5viASq7ALod9UAOGuWy7uQBjo75K+HuLxLIAQNbLvf7TvrAEkACKAATG+IAVUcAHGuDQBR44AW0cAIT2ADg7fdYl66MgAmABsfAAHABmfCmu6b10ABlvF9vpr4gBlRwAkHXwgA0k8OfDLIAg5N8DEfDbLugAqY-cfCAAi9BboMSZZnnwgB7ncOL5bnwgAZ44A3V1-oBQGACSN0KACrNfCAB3LYwNHwgCIE4AsYNjIWHZ8DO5iMc4gAQdXwgAQs76fCAIOdgA2C4M2aAD0NDSoYoJxOgC2THIAF02SPKxI5I8fCABtN+yGFygCvNYABON8IAiJOAKHjgATTVCRp8AA9HwgA+Y4AvVN8PKdZ8Ja2b2YAtws5MYYGABntHlwh8fCACSDlpGnc8oBKc0X+fkkheUuZaXjeD74HcSibmWH4XgA7KodyAIZMihecJYniXwAAWDAMBASBYA5DmAIWk7WQhQqA0A5gDNpP12ROWigAene5gBGTJVuz1s2uY5Pe+R8IATaTth2khaTpzYWXcJaNk2O18JO+0WcNfBjKpfCACpdgAuTZIcKVIADjV3IALnNXSUdyAMZMClGKZpVRZadz3K44i8Iov6mHwgC8M9k9iKL2emvHW9TNqqraAJartnQjkgAYQ4Avu1LTkj2ABAT+TZIAKAR8IAE52AA1jgAlQ3wgAnc5Y7jyvj9n7oAPUs8vUgAR43CqHoZIM7uIAKD1mrBaL-mqYyUXO+2DPjgAGq3JY7oAjkiAGVNu7WIAH90xNCxLLHcEl8NmcR8IAGJPWNcVOADNjgskpIgCK49CFx8CibIq9CIvDCMPzukmfC5omfCACS9EZ8KZAJctmgAOXemgAeNQydR8LugDdrYxcwfErzhBrsYz5mrx2SIAPF2AAATuoJqHgC2q22+wsm2XIZqISuADJ1kbul6fB1y6Hld5cq6ABargAbdUagAAY4AaePLNClyCuYrpU4AB0Pgka-iAAlNgAxDVygAtA-+lhxYHoc-IAFV18Uary7oAMq2jkWpaSMYwXQsYnhqvKp-n9q4mMcIKKF6hGs+D3H8IASDrqj1FzNKIBaJ-DVG7IMcEgALjrVOqXc0JNSah+KpQA252vEACedgBSDsAIATNw7iAAgxnUIJAAMi3wQAOTMzCqHoFkZpeiAEqxgMcFwT+EAAgTfAr7aHqHAwYgAdObmNsHiVQVQoMeoAA5bUIlz4IAaImZ4mD4AKVwed2iAFXJrkgBXVcADdDho5irjMIAHnGzTZgOtKIwQiqhNDNNcUa6YTLuAInwQAOy2ABv2wABQ18EAME1fBACYNTPNWgDjBVjuBgrB2D9gjEAAA9lxEKVCYWaUQgBSpomHwTQnhCykT4NY9M1p6hUUAI1jfBCyAAGx14gAMFsAAU1aC+BGzuIE142YDDWBbgxPgE4mhRzMoZPggBfUcACA1IUzRxEApbR2ZZfz1OhHCO4NQ6j+H4mbNUvN-BxFYVycEfAiHGWGa8ActThyRlzIADkGfg+VdDRbMogfyAAmB6G9QWR-yLuOKckg4H7HBIARNGfiAFCJwAGp25IAvk-wgAXGrTjfPgqkNyAFQexJfBrhzCpnwQAjy1ckACmzrhbS5NsYAGc7tjT2mQ-J+fA4H+E0KFQApD13EAP+johAAhnXcQAA-VmgJe4yF1Y+BNETIMHFYwjCABumkogAJyb4DjPgvMuF8GToWao5izZWPeerS0ZYSzGz4ORdwgAHCd6Jk+MfBhnVHsnXLkcDVy7kAB1jnhNmsKVdnVUdwBTmtmIABpqhV0TGHnQAUqMcg7mrPakhlHQiNSas1bZtTGEAOAdWcc5ySrnwJMVgk0mqVYAc5rACl4+mRYmT0lckAMSNpijC0U8ErPggB7lutKSkwgAf9r4PxNuzh9i7EADU12pAAYPQEZ1UZYzpgJdTQABnOq2INEXEjwCSKEAJ9jfBAAwfSUGmldDCSEANOkq7rjoppHSCoSz1C8DUnwPya6N1btpDUPgAAfPgigujZGVKqDUmplA5HNIAXYXAAULUta9BL7goO1L0QAMe3bCvXwQAC52Pq1OmTMas3J8HOWaY9Sbu7XqPq+z93603VDVo3SQR8+Af1yO-PgZ8L6NKcYAADrczZl2d-JwKIv1q0UN8joWjshwII3wQAKeMmEhk5HIutKh8EAMuT-hAA9o4AF1reNLSibC7Bjlci-kGXwQAhXOAASh6TdCGHJJZGrAQODYlxLuPQxhLJ9jZP8IoAA1Lc0Q2QciABwyQALguAFrO-ITyoapsAKprZQmMseBdkGlAB2xlTKgusr4IAaH-chwvhZpwAuP+woRRxpy0WciABIehLfB0spai7kFFaKzBLUSwVuBTH3Qmvs85tzqa4H1BtXa411QuQ+dCOgcIxAQAQAQL1CADAkAsHYJwaQAghAAEdUgaBG7IIQDAACeEA4AEgoHVVAUAKBLbHTIUbIAoDoCQAwBAVAKAMDQPtqb0RZByG0DXAkqRoR2HsH6H4kVAChXUqohxMfV8F9dqPxmpRwgEu3wSIwOhAUAQFABgiAoBgAu9tmbIBAAGJASOsJp9isS5CyL4FapUbJsIAH5q+CAABawAFB1jCbHca0gBPpu8tmHcB5AANnVxS0EjJzamIoAHBa6eDB1MKkMUIsTA524AQxJUczXR3wSyWauSAFqZzJPkKhlSJ2TindxiTahnHwGiZaunI2YixXH0rwRqkAAjLqkBeYi21dnbgAjEnF7NFsgwfNG-xxNFX5PKflOLNqfXEEDffd+3wMoMJXj8xa2US3QuEc7cAMYkDuY58CbJ4-auZ3CmUyZ9D3auWf7EACljsv6iAAZWkojSiTakMH0-YgAY2q+FyQAGI2AB6awX1ubdCEACYkDvzD7G2gXrkytJXSv8PYbPXuNdznqNLsY-5-C9nz3MQYgBsHuWNsceLfgfhGiKDnEIAJsZHh1d2bC3NuSHB6t9bm3sSH92-tw7x3TsYCQAftvIAbt3YyNjAo+wtlclFoAVYWlVtJ8hBhs4Bc1QK0r47hLhntCkzRPtA8-sAc2srtt9r8IcocYc4dsApBhc5AUdsChBgw0Zzp-A64G42x6hicfhJwicSx9hfQ9BBhu0c9fRjgPdudABI1e5EGBmGOBRD8CcAnB2Uo2o1o0YleSj1b2vzFwIJAFYJ2UQRn2cUoJ+F7CJ0nHoMYL4GYK91YNTUAFQa3VYgzJbRLkbQVsQADtHdxVxLhdZnAzQJCW8r8X97dZCfJ9hAAKtdYSIQ8EAA05lQlnInYkTQpgntL3J1JQoyYZBuQZLkQAT9rABXnuIOOHOT4B-zGT4EAB7l3w-wAtPgQAHTXWFJDnDr949ZD5C+BOV-Bk8PA84+UAiaCy8QjtCwi7hWCfl-k+BgVBgjIDR6i+AcVeV+Vtcfh3UCcHCURijcCO8CQfJmJAAf2v2Fol2A+ACLUO92aJ0LuDmOiNmGJw+C5GuH-ADB+F7msHBCcTriVUuDzVyLSS5EKMkI3y314A6xICQDgAABs4ATs4BSAABZVAUgL4pAbARQEAAAKzgFwAAFpPiwBocDsQBVBwggA"
+  }
+]
